@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 12, 2025 at 8:09 am",
+    "store_name": "Vets Love Pets Dev 2024",
+    "store_url": "/772311/stores/65248166046",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 12, 2025 at 7:12 am",
+    "store_name": "Customer Reviews",
+    "store_url": "/772311/stores/66984378652",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27671855388Open payments"
+  },
+  {
+    "date": "March 12, 2025 at 7:12 am",
+    "store_name": "Customer Reviews",
+    "store_url": "/772311/stores/66984378652",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 11, 2025 at 12:42 pm",
+    "store_name": "Every Possible Discount Shopify App",
+    "store_url": "/772311/stores/76021104952",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34506604856Open payments"
+  },
+  {
+    "date": "March 11, 2025 at 12:42 pm",
+    "store_name": "Every Possible Discount Shopify App",
+    "store_url": "/772311/stores/76021104952",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 10, 2025 at 8:19 pm",
+    "store_name": "Every Possible Discount Shopify App",
+    "store_url": "/772311/stores/76021104952",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34506604856Open payments"
+  },
+  {
+    "date": "March 10, 2025 at 8:18 pm",
+    "store_name": "Every Possible Discount Shopify App",
+    "store_url": "/772311/stores/76021104952",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 10, 2025 at 7:27 pm",
+    "store_name": "Dev Testing Store",
+    "store_url": "/772311/stores/52392526023",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 10, 2025 at 11:09 am",
+    "store_name": "Universal AV Solutions",
+    "store_url": "/772311/stores/91013251356",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "March 10, 2025 at 8:14 am",
+    "store_name": "The Pizza Oven Store USA",
+    "store_url": "/772311/stores/56697618530",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24200118370Open payments"
+  },
+  {
+    "date": "March 10, 2025 at 8:14 am",
+    "store_name": "The Pizza Oven Store USA",
+    "store_url": "/772311/stores/56697618530",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 10, 2025 at 5:20 am",
+    "store_name": "Kelly Shopping",
+    "store_url": "/772311/stores/74225352929",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 9, 2025 at 6:22 pm",
+    "store_name": "Universal AV Solutions",
+    "store_url": "/772311/stores/91013251356",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "March 9, 2025 at 3:39 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/64401899574",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27120271414Open payments"
+  },
+  {
+    "date": "March 9, 2025 at 3:38 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/64401899574",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27120238646Open payments"
+  },
+  {
+    "date": "March 9, 2025 at 3:37 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/64401899574",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 8, 2025 at 6:00 pm",
+    "store_name": "diip",
+    "store_url": "/772311/stores/90489454970",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 68948164986Open payments"
+  },
+  {
+    "date": "March 7, 2025 at 3:16 pm",
+    "store_name": "Eduyush",
+    "store_url": "/772311/stores/25020727343",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 6, 2025 at 3:08 pm",
+    "store_name": "La scoliose",
+    "store_url": "/772311/stores/93018194261",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "March 6, 2025 at 3:05 pm",
+    "store_name": "Fasciite plantaire",
+    "store_url": "/772311/stores/92925362505",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  }
+]

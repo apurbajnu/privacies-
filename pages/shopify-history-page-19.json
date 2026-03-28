@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 10, 2025 at 6:00 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "October 9, 2025 at 11:43 pm",
+    "store_name": "LUDOSATI",
+    "store_url": "/772311/stores/80889643351",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 9, 2025 at 11:43 pm",
+    "store_name": "LUDOSATI",
+    "store_url": "/772311/stores/80889643351",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62210965847Open payments"
+  },
+  {
+    "date": "October 9, 2025 at 11:27 pm",
+    "store_name": "LUDOSATI",
+    "store_url": "/772311/stores/80889643351",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62210965847Open payments"
+  },
+  {
+    "date": "October 9, 2025 at 11:26 pm",
+    "store_name": "LUDOSATI",
+    "store_url": "/772311/stores/80889643351",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 9, 2025 at 11:26 pm",
+    "store_name": "LUDOSATI",
+    "store_url": "/772311/stores/80889643351",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 9, 2025 at 11:25 pm",
+    "store_name": "LUDOSATI",
+    "store_url": "/772311/stores/80889643351",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 9, 2025 at 11:18 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD (Test). Subscription ID: 36899192854Open payments"
+  },
+  {
+    "date": "October 9, 2025 at 11:18 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 9, 2025 at 11:18 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "Subscription charge canceled",
+    "event_details": "Extended Yearly - $39.99 USD (Test). Subscription ID: 36897751062Open payments"
+  },
+  {
+    "date": "October 9, 2025 at 11:18 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 9, 2025 at 10:55 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Extended Yearly - $39.99 USD (Test). Subscription ID: 36897751062Open payments"
+  },
+  {
+    "date": "October 9, 2025 at 10:55 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "Subscription charge canceled",
+    "event_details": "Extended - $3.99 USD (Test). Subscription ID: 36897587222Open payments"
+  },
+  {
+    "date": "October 9, 2025 at 10:55 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "Subscription charge declined",
+    "event_details": "Extended Yearly - $39.99 USD (Test). Subscription ID: 36897685526Open payments"
+  },
+  {
+    "date": "October 9, 2025 at 10:54 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Extended - $3.99 USD (Test). Subscription ID: 36897587222Open payments"
+  },
+  {
+    "date": "October 9, 2025 at 10:54 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD (Test). Subscription ID: 36897488918Open payments"
+  },
+  {
+    "date": "October 9, 2025 at 10:53 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "Subscription charge declined",
+    "event_details": "Extended - $3.99 USD (Test). Subscription ID: 36897521686Open payments"
+  },
+  {
+    "date": "October 9, 2025 at 10:53 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD (Test). Subscription ID: 36897488918Open payments"
+  },
+  {
+    "date": "October 9, 2025 at 10:53 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD (Test). Subscription ID: 36897423382Open payments"
+  },
+  {
+    "date": "October 9, 2025 at 10:51 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

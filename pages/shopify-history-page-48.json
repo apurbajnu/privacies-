@@ -1,0 +1,142 @@
+[
+  {
+    "date": "April 4, 2025 at 6:04 pm",
+    "store_name": "Tu Cereza 🍒",
+    "store_url": "/772311/stores/66977202498",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 79848178051Open payments"
+  },
+  {
+    "date": "April 4, 2025 at 6:04 pm",
+    "store_name": "Tu Cereza 🍒",
+    "store_url": "/772311/stores/66977202498",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 4, 2025 at 7:49 am",
+    "store_name": "AurisVeda",
+    "store_url": "/772311/stores/66470903852",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "April 4, 2025 at 7:49 am",
+    "store_name": "AurisVeda",
+    "store_url": "/772311/stores/66470903852",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26086277164Open payments"
+  },
+  {
+    "date": "April 3, 2025 at 8:08 pm",
+    "store_name": "prepmymeal",
+    "store_url": "/772311/stores/33763491884",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 40894169352Open payments"
+  },
+  {
+    "date": "April 3, 2025 at 8:08 pm",
+    "store_name": "prepmymeal",
+    "store_url": "/772311/stores/33763491884",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "April 2, 2025 at 5:00 pm",
+    "store_name": "Kailop.de",
+    "store_url": "/772311/stores/88425857370",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 54706504026Open payments"
+  },
+  {
+    "date": "April 2, 2025 at 5:00 pm",
+    "store_name": "Kailop.de",
+    "store_url": "/772311/stores/88425857370",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 54706471258Open payments"
+  },
+  {
+    "date": "April 2, 2025 at 5:00 pm",
+    "store_name": "Kailop.de",
+    "store_url": "/772311/stores/88425857370",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 54706438490Open payments"
+  },
+  {
+    "date": "April 2, 2025 at 5:00 pm",
+    "store_name": "Kailop.de",
+    "store_url": "/772311/stores/88425857370",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 54706405722Open payments"
+  },
+  {
+    "date": "April 2, 2025 at 5:00 pm",
+    "store_name": "Kailop.de",
+    "store_url": "/772311/stores/88425857370",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 54706340186Open payments"
+  },
+  {
+    "date": "April 2, 2025 at 5:00 pm",
+    "store_name": "Kailop.de",
+    "store_url": "/772311/stores/88425857370",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 54706274650Open payments"
+  },
+  {
+    "date": "April 2, 2025 at 5:00 pm",
+    "store_name": "Kailop.de",
+    "store_url": "/772311/stores/88425857370",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 54706241882Open payments"
+  },
+  {
+    "date": "April 2, 2025 at 5:00 pm",
+    "store_name": "Kailop.de",
+    "store_url": "/772311/stores/88425857370",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 54706307418Open payments"
+  },
+  {
+    "date": "April 2, 2025 at 5:00 pm",
+    "store_name": "Kailop.de",
+    "store_url": "/772311/stores/88425857370",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 54706209114Open payments"
+  },
+  {
+    "date": "April 2, 2025 at 5:00 pm",
+    "store_name": "Kailop.de",
+    "store_url": "/772311/stores/88425857370",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 54706372954Open payments"
+  },
+  {
+    "date": "April 2, 2025 at 1:58 pm",
+    "store_name": "Giunti Editore Staging",
+    "store_url": "/772311/stores/71701430329",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26838859833Open payments"
+  },
+  {
+    "date": "April 2, 2025 at 1:58 pm",
+    "store_name": "Giunti Editore Staging",
+    "store_url": "/772311/stores/71701430329",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 1, 2025 at 9:44 pm",
+    "store_name": "Greenutrio",
+    "store_url": "/772311/stores/62090739760",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24897028144Open payments"
+  },
+  {
+    "date": "April 1, 2025 at 9:43 pm",
+    "store_name": "Greenutrio",
+    "store_url": "/772311/stores/62090739760",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

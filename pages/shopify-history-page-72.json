@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 26, 2024 at 11:25 pm",
+    "store_name": "VisaMadeEz",
+    "store_url": "/772311/stores/68687822997",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30803689621Open payments"
+  },
+  {
+    "date": "December 26, 2024 at 11:24 pm",
+    "store_name": "VisaMadeEz",
+    "store_url": "/772311/stores/68687822997",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 26, 2024 at 6:45 pm",
+    "store_name": "detailing.top",
+    "store_url": "/772311/stores/86284992860",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 39106642268Open payments"
+  },
+  {
+    "date": "December 26, 2024 at 6:45 pm",
+    "store_name": "detailing.top",
+    "store_url": "/772311/stores/86284992860",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 26, 2024 at 6:09 pm",
+    "store_name": "Vital Zen",
+    "store_url": "/772311/stores/89621430601",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 39653278025Open payments"
+  },
+  {
+    "date": "December 26, 2024 at 6:08 pm",
+    "store_name": "Vital Zen",
+    "store_url": "/772311/stores/89621430601",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 25, 2024 at 7:33 pm",
+    "store_name": "Get Karier",
+    "store_url": "/772311/stores/87581819160",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "December 25, 2024 at 7:33 pm",
+    "store_name": "Get Karier",
+    "store_url": "/772311/stores/87581819160",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33734885656Open payments"
+  },
+  {
+    "date": "December 25, 2024 at 7:04 am",
+    "store_name": "REDACTED",
+    "store_url": "/772311/stores/62723129533",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25881313469Open payments"
+  },
+  {
+    "date": "December 25, 2024 at 7:04 am",
+    "store_name": "REDACTED",
+    "store_url": "/772311/stores/62723129533",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 24, 2024 at 1:36 pm",
+    "store_name": "Couture Alley",
+    "store_url": "/772311/stores/84363084121",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "December 24, 2024 at 1:14 am",
+    "store_name": "Heatons Furniture Outlet",
+    "store_url": "/772311/stores/61023682730",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 68116513148Open payments"
+  },
+  {
+    "date": "December 24, 2024 at 1:14 am",
+    "store_name": "Heatons Furniture Outlet",
+    "store_url": "/772311/stores/61023682730",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store; server error.."
+  },
+  {
+    "date": "December 24, 2024 at 1:13 am",
+    "store_name": "Heatons Furniture Outlet",
+    "store_url": "/772311/stores/61023682730",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 68116513148Open payments"
+  },
+  {
+    "date": "December 24, 2024 at 1:10 am",
+    "store_name": "Heatons Furniture Outlet",
+    "store_url": "/772311/stores/61023682730",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 21, 2024 at 8:27 pm",
+    "store_name": "Chinese Tea ｜Farmerteas®",
+    "store_url": "/772311/stores/87347396920",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33938932024Open payments"
+  },
+  {
+    "date": "December 21, 2024 at 8:27 pm",
+    "store_name": "Chinese Tea ｜Farmerteas®",
+    "store_url": "/772311/stores/87347396920",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 20, 2024 at 7:15 pm",
+    "store_name": "Vape-Dealer",
+    "store_url": "/772311/stores/60739453143",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 39838155017Open payments"
+  },
+  {
+    "date": "December 20, 2024 at 7:15 pm",
+    "store_name": "Vape-Dealer",
+    "store_url": "/772311/stores/60739453143",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 20, 2024 at 6:00 pm",
+    "store_name": "Shunya Artesanía Natural",
+    "store_url": "/772311/stores/87351656790",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 38241599830Open payments"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "September 7, 2022 at 3:49 pm",
+    "store_name": "Beach Access",
+    "store_url": "/772311/stores/47521824930",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 6, 2022 at 10:19 am",
+    "store_name": "HGH Thailand | Bangkok Pharmacy | USA",
+    "store_url": "/772311/stores/3088515131",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 6, 2022 at 10:19 am",
+    "store_name": "HGH Thailand | Bangkok Pharmacy | USA",
+    "store_url": "/772311/stores/3088515131",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25380520096Open payments"
+  },
+  {
+    "date": "September 6, 2022 at 10:15 am",
+    "store_name": "HGH Thailand | Bangkok Pharmacy | USA",
+    "store_url": "/772311/stores/3088515131",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25380520096Open payments"
+  },
+  {
+    "date": "September 6, 2022 at 10:14 am",
+    "store_name": "HGH Thailand | Bangkok Pharmacy | USA",
+    "store_url": "/772311/stores/3088515131",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 6, 2022 at 10:04 am",
+    "store_name": "Manfaatku",
+    "store_url": "/772311/stores/46812528794",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27242758298Open payments"
+  },
+  {
+    "date": "September 6, 2022 at 10:04 am",
+    "store_name": "Manfaatku",
+    "store_url": "/772311/stores/46812528794",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "September 6, 2022 at 9:57 am",
+    "store_name": "Manfaatku",
+    "store_url": "/772311/stores/46812528794",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27242758298Open payments"
+  },
+  {
+    "date": "September 6, 2022 at 9:47 am",
+    "store_name": "Manfaatku",
+    "store_url": "/772311/stores/46812528794",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 6, 2022 at 9:20 am",
+    "store_name": "VIPOP",
+    "store_url": "/772311/stores/30327308332",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25683558591Open payments"
+  },
+  {
+    "date": "September 6, 2022 at 9:11 am",
+    "store_name": "VIPOP",
+    "store_url": "/772311/stores/30327308332",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 5, 2022 at 3:14 am",
+    "store_name": "Fuznet",
+    "store_url": "/772311/stores/58305577158",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25071976646Open payments"
+  },
+  {
+    "date": "September 5, 2022 at 3:14 am",
+    "store_name": "Fuznet",
+    "store_url": "/772311/stores/58305577158",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 5, 2022 at 3:10 am",
+    "store_name": "Fuznet",
+    "store_url": "/772311/stores/58305577158",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25071976646Open payments"
+  },
+  {
+    "date": "September 5, 2022 at 3:10 am",
+    "store_name": "Fuznet",
+    "store_url": "/772311/stores/58305577158",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 1, 2022 at 5:00 pm",
+    "store_name": "Faammss",
+    "store_url": "/772311/stores/62540546237",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25712066749Open payments"
+  },
+  {
+    "date": "September 1, 2022 at 5:57 am",
+    "store_name": "Dope Dog",
+    "store_url": "/772311/stores/22143103",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27449655523Open payments"
+  },
+  {
+    "date": "September 1, 2022 at 5:57 am",
+    "store_name": "Dope Dog",
+    "store_url": "/772311/stores/22143103",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 31, 2022 at 9:35 pm",
+    "store_name": "Microptique",
+    "store_url": "/772311/stores/52018610348",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 31, 2022 at 9:35 pm",
+    "store_name": "Microptique",
+    "store_url": "/772311/stores/52018610348",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24950669484Open payments"
+  }
+]

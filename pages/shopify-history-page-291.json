@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 18, 2022 at 3:06 pm",
+    "store_name": "Boisson CBD d'origine française",
+    "store_url": "/772311/stores/60421144827",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 17, 2022 at 8:09 pm",
+    "store_name": "T&H Organics Skin Care",
+    "store_url": "/772311/stores/57441026108",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23160324156Open payments"
+  },
+  {
+    "date": "August 17, 2022 at 8:09 pm",
+    "store_name": "T&H Organics Skin Care",
+    "store_url": "/772311/stores/57441026108",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 16, 2022 at 5:00 pm",
+    "store_name": "Fat Buddha Glass",
+    "store_url": "/772311/stores/20177131",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25473515688Open payments"
+  },
+  {
+    "date": "August 15, 2022 at 5:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 23873093654Open payments"
+  },
+  {
+    "date": "August 14, 2022 at 11:48 am",
+    "store_name": "Fat Buddha Glass",
+    "store_url": "/772311/stores/20177131",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25473482920Open payments"
+  },
+  {
+    "date": "August 14, 2022 at 11:47 am",
+    "store_name": "Fat Buddha Glass",
+    "store_url": "/772311/stores/20177131",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 13, 2022 at 1:20 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 13, 2022 at 12:23 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 12, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27638595799Open payments"
+  },
+  {
+    "date": "August 12, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27638628567Open payments"
+  },
+  {
+    "date": "August 12, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27634696407Open payments"
+  },
+  {
+    "date": "August 12, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27634630871Open payments"
+  },
+  {
+    "date": "August 12, 2022 at 12:44 am",
+    "store_name": "Dynamic Setups",
+    "store_url": "/772311/stores/64071860483",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 12, 2022 at 12:44 am",
+    "store_name": "Dynamic Setups",
+    "store_url": "/772311/stores/64071860483",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26750353667Open payments"
+  },
+  {
+    "date": "August 11, 2022 at 8:18 pm",
+    "store_name": "Dynamic Setups",
+    "store_url": "/772311/stores/64071860483",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26750353667Open payments"
+  },
+  {
+    "date": "August 11, 2022 at 8:17 pm",
+    "store_name": "Dynamic Setups",
+    "store_url": "/772311/stores/64071860483",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 11, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27632009431Open payments"
+  },
+  {
+    "date": "August 11, 2022 at 3:01 pm",
+    "store_name": "vengos",
+    "store_url": "/772311/stores/8597766201",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 10, 2022 at 10:44 am",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "September 23, 2025 at 5:23 pm",
+    "store_name": "Dikaid",
+    "store_url": "/772311/stores/73384526050",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 23, 2025 at 3:55 pm",
+    "store_name": "CraftedCharts",
+    "store_url": "/772311/stores/92754116988",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 23, 2025 at 3:53 pm",
+    "store_name": "CraftedCharts",
+    "store_url": "/772311/stores/92754116988",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2025 at 6:46 pm",
+    "store_name": "Smokz Vape Store",
+    "store_url": "/772311/stores/2306342947",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29209362671Open payments"
+  },
+  {
+    "date": "September 22, 2025 at 6:46 pm",
+    "store_name": "Smokz Vape Store",
+    "store_url": "/772311/stores/2306342947",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "September 22, 2025 at 3:58 pm",
+    "store_name": "Mawa Designs®",
+    "store_url": "/772311/stores/69487853806",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28591882478Open payments"
+  },
+  {
+    "date": "September 22, 2025 at 3:58 pm",
+    "store_name": "Mawa Designs®",
+    "store_url": "/772311/stores/69487853806",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2025 at 12:43 pm",
+    "store_name": "TARCIT",
+    "store_url": "/772311/stores/93316153622",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2025 at 12:40 pm",
+    "store_name": "TARCIT",
+    "store_url": "/772311/stores/93316153622",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2025 at 12:30 pm",
+    "store_name": "TARCIT",
+    "store_url": "/772311/stores/93316153622",
+    "event": "AttentionUninstalled",
+    "event_details": "アプリが動作しない、またはストアに対応していない"
+  },
+  {
+    "date": "September 22, 2025 at 12:20 pm",
+    "store_name": "TARCIT",
+    "store_url": "/772311/stores/93316153622",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2025 at 12:20 pm",
+    "store_name": "TARCIT",
+    "store_url": "/772311/stores/93316153622",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2025 at 12:11 pm",
+    "store_name": "TARCIT",
+    "store_url": "/772311/stores/93316153622",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2025 at 12:10 pm",
+    "store_name": "TARCIT",
+    "store_url": "/772311/stores/93316153622",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2025 at 12:02 pm",
+    "store_name": "TARCIT",
+    "store_url": "/772311/stores/93316153622",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2025 at 12:01 pm",
+    "store_name": "TARCIT",
+    "store_url": "/772311/stores/93316153622",
+    "event": "AttentionUninstalled",
+    "event_details": "アプリが動作しない、またはストアに対応していない"
+  },
+  {
+    "date": "September 22, 2025 at 11:22 am",
+    "store_name": "TARCIT",
+    "store_url": "/772311/stores/93316153622",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2025 at 2:53 am",
+    "store_name": "WorkoutHealthy LLC",
+    "store_url": "/772311/stores/72353349921",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2025 at 2:51 am",
+    "store_name": "WorkoutHealthy LLC",
+    "store_url": "/772311/stores/72353349921",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2025 at 2:51 am",
+    "store_name": "WorkoutHealthy LLC",
+    "store_url": "/772311/stores/72353349921",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 25, 2025 at 12:03 pm",
+    "store_name": "Cspuerh (Chen Sheng Hao)",
+    "store_url": "/772311/stores/29522264112",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 24, 2025 at 9:40 pm",
+    "store_name": "Ink Defense",
+    "store_url": "/772311/stores/26422575179",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34461843730Open payments"
+  },
+  {
+    "date": "January 24, 2025 at 9:40 pm",
+    "store_name": "Ink Defense",
+    "store_url": "/772311/stores/26422575179",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 23, 2025 at 6:06 pm",
+    "store_name": "Trend Chef",
+    "store_url": "/772311/stores/87286677853",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 56821809501Open payments"
+  },
+  {
+    "date": "January 23, 2025 at 6:06 pm",
+    "store_name": "Trend Chef",
+    "store_url": "/772311/stores/87286677853",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 21, 2025 at 9:38 pm",
+    "store_name": "eddy shop",
+    "store_url": "/772311/stores/77191414085",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 38822641989Open payments"
+  },
+  {
+    "date": "January 21, 2025 at 9:36 pm",
+    "store_name": "eddy shop",
+    "store_url": "/772311/stores/77191414085",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 21, 2025 at 6:00 pm",
+    "store_name": "Toys for Big Girls",
+    "store_url": "/772311/stores/59839873205",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30161699059Open payments"
+  },
+  {
+    "date": "January 21, 2025 at 6:00 pm",
+    "store_name": "Toys for Big Girls",
+    "store_url": "/772311/stores/59839873205",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30161666291Open payments"
+  },
+  {
+    "date": "January 21, 2025 at 7:11 am",
+    "store_name": "baluka mascotas",
+    "store_url": "/772311/stores/57429393591",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25401393335Open payments"
+  },
+  {
+    "date": "January 21, 2025 at 7:11 am",
+    "store_name": "baluka mascotas",
+    "store_url": "/772311/stores/57429393591",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "January 21, 2025 at 7:01 am",
+    "store_name": "baluka mascotas",
+    "store_url": "/772311/stores/57429393591",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25401393335Open payments"
+  },
+  {
+    "date": "January 21, 2025 at 7:01 am",
+    "store_name": "baluka mascotas",
+    "store_url": "/772311/stores/57429393591",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "January 21, 2025 at 1:22 am",
+    "store_name": "Mouthology",
+    "store_url": "/772311/stores/67986686175",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30331142367Open payments"
+  },
+  {
+    "date": "January 21, 2025 at 1:22 am",
+    "store_name": "Mouthology",
+    "store_url": "/772311/stores/67986686175",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 21, 2025 at 12:09 am",
+    "store_name": "Vital Nutrition",
+    "store_url": "/772311/stores/66820604185",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31533531417Open payments"
+  },
+  {
+    "date": "January 21, 2025 at 12:09 am",
+    "store_name": "Vital Nutrition",
+    "store_url": "/772311/stores/66820604185",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 20, 2025 at 6:00 pm",
+    "store_name": "Toys for Big Girls",
+    "store_url": "/772311/stores/59839873205",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30159798515Open payments"
+  },
+  {
+    "date": "January 20, 2025 at 1:21 pm",
+    "store_name": "Centregram 3D Studio",
+    "store_url": "/772311/stores/64531431688",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31668142344Open payments"
+  },
+  {
+    "date": "January 19, 2025 at 2:55 am",
+    "store_name": "Toys for Big Girls",
+    "store_url": "/772311/stores/59839873205",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

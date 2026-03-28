@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 31, 2024 at 10:08 pm",
+    "store_name": "EMAY",
+    "store_url": "/772311/stores/60234268865",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31261720769Open payments"
+  },
+  {
+    "date": "January 31, 2024 at 10:08 pm",
+    "store_name": "EMAY",
+    "store_url": "/772311/stores/60234268865",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "January 31, 2024 at 11:32 am",
+    "store_name": "Home Kartz",
+    "store_url": "/772311/stores/42405396646",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use, Not using app now"
+  },
+  {
+    "date": "January 31, 2024 at 11:32 am",
+    "store_name": "Home Kartz",
+    "store_url": "/772311/stores/42405396646",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30212653271Open payments"
+  },
+  {
+    "date": "January 31, 2024 at 10:46 am",
+    "store_name": "EMAY",
+    "store_url": "/772311/stores/60234268865",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31261720769Open payments"
+  },
+  {
+    "date": "January 31, 2024 at 10:46 am",
+    "store_name": "EMAY",
+    "store_url": "/772311/stores/60234268865",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 31, 2024 at 10:02 am",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28081225979Open payments"
+  },
+  {
+    "date": "January 31, 2024 at 10:02 am",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "January 31, 2024 at 1:05 am",
+    "store_name": "Thermo Recovery Wear",
+    "store_url": "/772311/stores/82912968986",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32005751066Open payments"
+  },
+  {
+    "date": "January 31, 2024 at 1:05 am",
+    "store_name": "Thermo Recovery Wear",
+    "store_url": "/772311/stores/82912968986",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 30, 2024 at 6:20 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "January 30, 2024 at 6:20 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28081225979Open payments"
+  },
+  {
+    "date": "January 30, 2024 at 7:09 am",
+    "store_name": "TOP4FITT",
+    "store_url": "/772311/stores/79921316184",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "January 30, 2024 at 2:37 am",
+    "store_name": "Home Kartz",
+    "store_url": "/772311/stores/42405396646",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30212653271Open payments"
+  },
+  {
+    "date": "January 30, 2024 at 2:36 am",
+    "store_name": "Home Kartz",
+    "store_url": "/772311/stores/42405396646",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 29, 2024 at 6:00 pm",
+    "store_name": "EXOHOM",
+    "store_url": "/772311/stores/62745510111",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28831252703Open payments"
+  },
+  {
+    "date": "January 29, 2024 at 2:40 pm",
+    "store_name": "Studio Suits PreProd",
+    "store_url": "/772311/stores/60549071074",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28249915618Open payments"
+  },
+  {
+    "date": "January 29, 2024 at 2:40 pm",
+    "store_name": "Studio Suits PreProd",
+    "store_url": "/772311/stores/60549071074",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 28, 2024 at 6:00 pm",
+    "store_name": "EXOHOM",
+    "store_url": "/772311/stores/62745510111",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28829515999Open payments"
+  },
+  {
+    "date": "January 28, 2024 at 6:00 pm",
+    "store_name": "EXOHOM",
+    "store_url": "/772311/stores/62745510111",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28829548767Open payments"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 11, 2023 at 6:37 pm",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "August 11, 2023 at 6:37 pm",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "August 11, 2023 at 5:00 pm",
+    "store_name": "Amazing-Solutions.com",
+    "store_url": "/772311/stores/25028164",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30160617758Open payments"
+  },
+  {
+    "date": "August 11, 2023 at 5:00 pm",
+    "store_name": "Amazing-Solutions.com",
+    "store_url": "/772311/stores/25028164",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30160716062Open payments"
+  },
+  {
+    "date": "August 11, 2023 at 5:00 pm",
+    "store_name": "Amazing-Solutions.com",
+    "store_url": "/772311/stores/25028164",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30160748830Open payments"
+  },
+  {
+    "date": "August 11, 2023 at 5:00 pm",
+    "store_name": "Amazing-Solutions.com",
+    "store_url": "/772311/stores/25028164",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30160650526Open payments"
+  },
+  {
+    "date": "August 11, 2023 at 5:00 pm",
+    "store_name": "kingzquill",
+    "store_url": "/772311/stores/78849409315",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30258921763Open payments"
+  },
+  {
+    "date": "August 11, 2023 at 5:00 pm",
+    "store_name": "kingzquill",
+    "store_url": "/772311/stores/78849409315",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30258954531Open payments"
+  },
+  {
+    "date": "August 11, 2023 at 5:00 pm",
+    "store_name": "kingzquill",
+    "store_url": "/772311/stores/78849409315",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30258364707Open payments"
+  },
+  {
+    "date": "August 10, 2023 at 6:02 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "August 10, 2023 at 6:02 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "August 9, 2023 at 5:00 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 27163754518Open payments"
+  },
+  {
+    "date": "August 8, 2023 at 7:31 pm",
+    "store_name": "kingzquill",
+    "store_url": "/772311/stores/78849409315",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30259052835Open payments"
+  },
+  {
+    "date": "August 8, 2023 at 6:44 pm",
+    "store_name": "kingzquill",
+    "store_url": "/772311/stores/78849409315",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 8, 2023 at 5:00 pm",
+    "store_name": "Amazing-Solutions.com",
+    "store_url": "/772311/stores/25028164",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30119756062Open payments"
+  },
+  {
+    "date": "August 8, 2023 at 5:00 pm",
+    "store_name": "Amazing-Solutions.com",
+    "store_url": "/772311/stores/25028164",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30119723294Open payments"
+  },
+  {
+    "date": "August 8, 2023 at 5:00 pm",
+    "store_name": "Amazing-Solutions.com",
+    "store_url": "/772311/stores/25028164",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30119690526Open payments"
+  },
+  {
+    "date": "August 8, 2023 at 12:58 am",
+    "store_name": "Layman's Terms",
+    "store_url": "/772311/stores/7650771002",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 8, 2023 at 12:58 am",
+    "store_name": "Layman's Terms",
+    "store_url": "/772311/stores/7650771002",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23300046931Open payments"
+  },
+  {
+    "date": "August 6, 2023 at 8:15 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

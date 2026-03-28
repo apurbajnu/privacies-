@@ -1,0 +1,142 @@
+[
+  {
+    "date": "April 11, 2025 at 2:15 am",
+    "store_name": "TW Clarke",
+    "store_url": "/772311/stores/94370791770",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 11, 2025 at 2:13 am",
+    "store_name": "TW Clarke",
+    "store_url": "/772311/stores/94370791770",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 54811394394Open payments"
+  },
+  {
+    "date": "April 11, 2025 at 2:12 am",
+    "store_name": "TW Clarke",
+    "store_url": "/772311/stores/94370791770",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 10, 2025 at 9:18 pm",
+    "store_name": "Square One Electric Motors & Pumps",
+    "store_url": "/772311/stores/55902601302",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25443500118Open payments"
+  },
+  {
+    "date": "April 10, 2025 at 9:18 pm",
+    "store_name": "Square One Electric Motors & Pumps",
+    "store_url": "/772311/stores/55902601302",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features"
+  },
+  {
+    "date": "April 10, 2025 at 2:02 am",
+    "store_name": "Square One Electric Motors & Pumps",
+    "store_url": "/772311/stores/55902601302",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25443500118Open payments"
+  },
+  {
+    "date": "April 10, 2025 at 2:02 am",
+    "store_name": "Square One Electric Motors & Pumps",
+    "store_url": "/772311/stores/55902601302",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 9, 2025 at 8:44 pm",
+    "store_name": "EmbroiGift",
+    "store_url": "/772311/stores/72199209184",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30816698592Open payments"
+  },
+  {
+    "date": "April 9, 2025 at 8:44 pm",
+    "store_name": "EmbroiGift",
+    "store_url": "/772311/stores/72199209184",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "April 9, 2025 at 8:29 pm",
+    "store_name": "NatraCure",
+    "store_url": "/772311/stores/17382335",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 8, 2025 at 4:58 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD (Test). Subscription ID: 25644990543Open payments"
+  },
+  {
+    "date": "April 7, 2025 at 5:03 pm",
+    "store_name": "FARMACELL USA",
+    "store_url": "/772311/stores/58042941616",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 7, 2025 at 5:02 pm",
+    "store_name": "FARMACELL USA",
+    "store_url": "/772311/stores/58042941616",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30141251842Open payments"
+  },
+  {
+    "date": "April 7, 2025 at 5:01 pm",
+    "store_name": "FARMACELL USA",
+    "store_url": "/772311/stores/58042941616",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 7, 2025 at 1:25 am",
+    "store_name": "Joyes Boutique",
+    "store_url": "/772311/stores/62989664453",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 80152134007Open payments"
+  },
+  {
+    "date": "April 7, 2025 at 1:25 am",
+    "store_name": "Joyes Boutique",
+    "store_url": "/772311/stores/62989664453",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 7, 2025 at 1:24 am",
+    "store_name": "Joyes Boutique",
+    "store_url": "/772311/stores/62989664453",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 80152134007Open payments"
+  },
+  {
+    "date": "April 7, 2025 at 1:24 am",
+    "store_name": "Joyes Boutique",
+    "store_url": "/772311/stores/62989664453",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 5, 2025 at 9:49 pm",
+    "store_name": "The Plaivas",
+    "store_url": "/772311/stores/73633464534",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "April 5, 2025 at 3:05 am",
+    "store_name": "La scoliose",
+    "store_url": "/772311/stores/93018194261",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 51630047573Open payments"
+  }
+]

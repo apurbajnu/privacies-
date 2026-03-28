@@ -1,0 +1,142 @@
+[
+  {
+    "date": "May 5, 2024 at 7:17 am",
+    "store_name": "RYM Portátiles Perú",
+    "store_url": "/772311/stores/82741952811",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "May 5, 2024 at 6:56 am",
+    "store_name": "RYM Portátiles Perú",
+    "store_url": "/772311/stores/82741952811",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32003752235Open payments"
+  },
+  {
+    "date": "May 5, 2024 at 6:56 am",
+    "store_name": "RYM Portátiles Perú",
+    "store_url": "/772311/stores/82741952811",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "May 4, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28417982676Open payments"
+  },
+  {
+    "date": "May 4, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28418015444Open payments"
+  },
+  {
+    "date": "May 4, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28416737492Open payments"
+  },
+  {
+    "date": "May 4, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28417130708Open payments"
+  },
+  {
+    "date": "May 4, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28416704724Open payments"
+  },
+  {
+    "date": "May 4, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28416639188Open payments"
+  },
+  {
+    "date": "May 4, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28416606420Open payments"
+  },
+  {
+    "date": "May 4, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28416671956Open payments"
+  },
+  {
+    "date": "May 4, 2024 at 5:00 pm",
+    "store_name": "CA International",
+    "store_url": "/772311/stores/69170528521",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33695990025Open payments"
+  },
+  {
+    "date": "May 4, 2024 at 5:00 pm",
+    "store_name": "CA International",
+    "store_url": "/772311/stores/69170528521",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33695957257Open payments"
+  },
+  {
+    "date": "May 4, 2024 at 1:19 pm",
+    "store_name": "LCY LONDON",
+    "store_url": "/772311/stores/64223445220",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 4, 2024 at 12:56 am",
+    "store_name": "Everest Bands",
+    "store_url": "/772311/stores/1952352",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store, Hard to set up or use"
+  },
+  {
+    "date": "May 3, 2024 at 9:43 pm",
+    "store_name": "Everest Bands",
+    "store_url": "/772311/stores/1952352",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 2, 2024 at 1:47 am",
+    "store_name": "Jodo",
+    "store_url": "/772311/stores/55694622786",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23686905922Open payments"
+  },
+  {
+    "date": "May 2, 2024 at 1:46 am",
+    "store_name": "Jodo",
+    "store_url": "/772311/stores/55694622786",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 1, 2024 at 11:16 pm",
+    "store_name": "Studio Suits PreProd",
+    "store_url": "/772311/stores/60549071074",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "May 1, 2024 at 11:16 pm",
+    "store_name": "Studio Suits PreProd",
+    "store_url": "/772311/stores/60549071074",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28249915618Open payments"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 11, 2025 at 11:27 am",
+    "store_name": "Ecosense",
+    "store_url": "/772311/stores/10699112511",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "December 11, 2025 at 11:27 am",
+    "store_name": "Ecosense",
+    "store_url": "/772311/stores/10699112511",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25767411775Open payments"
+  },
+  {
+    "date": "December 11, 2025 at 11:19 am",
+    "store_name": "Ecosense",
+    "store_url": "/772311/stores/10699112511",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25767411775Open payments"
+  },
+  {
+    "date": "December 11, 2025 at 11:18 am",
+    "store_name": "Ecosense",
+    "store_url": "/772311/stores/10699112511",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 10, 2025 at 10:56 pm",
+    "store_name": "Emensuits",
+    "store_url": "/772311/stores/61399728266",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27020984458Open payments"
+  },
+  {
+    "date": "December 10, 2025 at 10:56 pm",
+    "store_name": "Emensuits",
+    "store_url": "/772311/stores/61399728266",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 10, 2025 at 7:18 pm",
+    "store_name": "elisa-sandbox-boraso",
+    "store_url": "/772311/stores/92644442456",
+    "event": "AttentionUninstalled",
+    "event_details": "Non funzionante o non compatibile con il negozio"
+  },
+  {
+    "date": "December 10, 2025 at 5:03 pm",
+    "store_name": "elisa-sandbox-boraso",
+    "store_url": "/772311/stores/92644442456",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 10, 2025 at 4:05 pm",
+    "store_name": "elisa-sandbox-boraso",
+    "store_url": "/772311/stores/92644442456",
+    "event": "AttentionUninstalled",
+    "event_details": "Non funzionante o non compatibile con il negozio"
+  },
+  {
+    "date": "December 10, 2025 at 3:56 pm",
+    "store_name": "elisa-sandbox-boraso",
+    "store_url": "/772311/stores/92644442456",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 10, 2025 at 3:20 pm",
+    "store_name": "FRANCTANK",
+    "store_url": "/772311/stores/65588887641",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26541162585Open payments"
+  },
+  {
+    "date": "December 10, 2025 at 3:11 pm",
+    "store_name": "FRANCTANK",
+    "store_url": "/772311/stores/65588887641",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26540867673Open payments"
+  },
+  {
+    "date": "December 10, 2025 at 2:51 pm",
+    "store_name": "FRANCTANK",
+    "store_url": "/772311/stores/65588887641",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 10, 2025 at 12:48 am",
+    "store_name": "Starlight & Sage Co.",
+    "store_url": "/772311/stores/65701019804",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features"
+  },
+  {
+    "date": "December 10, 2025 at 12:48 am",
+    "store_name": "Starlight & Sage Co.",
+    "store_url": "/772311/stores/65701019804",
+    "event": "Subscription charge canceled",
+    "event_details": "Extended - $3.99 USD. Subscription ID: 28923297948Open payments"
+  },
+  {
+    "date": "December 10, 2025 at 12:32 am",
+    "store_name": "Starlight & Sage Co.",
+    "store_url": "/772311/stores/65701019804",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Extended - $3.99 USD. Subscription ID: 28923297948Open payments"
+  },
+  {
+    "date": "December 10, 2025 at 12:32 am",
+    "store_name": "Starlight & Sage Co.",
+    "store_url": "/772311/stores/65701019804",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28923232412Open payments"
+  },
+  {
+    "date": "December 10, 2025 at 12:27 am",
+    "store_name": "Starlight & Sage Co.",
+    "store_url": "/772311/stores/65701019804",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28923232412Open payments"
+  },
+  {
+    "date": "December 10, 2025 at 12:27 am",
+    "store_name": "Starlight & Sage Co.",
+    "store_url": "/772311/stores/65701019804",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2025 at 2:03 am",
+    "store_name": "MooseLog",
+    "store_url": "/772311/stores/55192551630",
+    "event": "AttentionUninstalled",
+    "event_details": "Expensive or unexpected cost"
+  }
+]

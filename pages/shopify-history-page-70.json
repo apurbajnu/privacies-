@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 9, 2025 at 7:28 am",
+    "store_name": "MaggieFrame",
+    "store_url": "/772311/stores/89963594046",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 40740487486Open payments"
+  },
+  {
+    "date": "January 9, 2025 at 7:28 am",
+    "store_name": "MaggieFrame",
+    "store_url": "/772311/stores/89963594046",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 9, 2025 at 6:13 am",
+    "store_name": "Huntsville Art Supplies",
+    "store_url": "/772311/stores/69651529985",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29376905473Open payments"
+  },
+  {
+    "date": "January 9, 2025 at 6:13 am",
+    "store_name": "Huntsville Art Supplies",
+    "store_url": "/772311/stores/69651529985",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 8, 2025 at 6:25 pm",
+    "store_name": "The Morocco News",
+    "store_url": "/772311/stores/73633464534",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 8, 2025 at 1:38 am",
+    "store_name": "The Oblist",
+    "store_url": "/772311/stores/67152904457",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 8, 2025 at 1:38 am",
+    "store_name": "The Oblist",
+    "store_url": "/772311/stores/67152904457",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32895467785Open payments"
+  },
+  {
+    "date": "January 6, 2025 at 11:41 am",
+    "store_name": "MaggieFrame",
+    "store_url": "/772311/stores/89963594046",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 40740487486Open payments"
+  },
+  {
+    "date": "January 6, 2025 at 11:41 am",
+    "store_name": "MaggieFrame",
+    "store_url": "/772311/stores/89963594046",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 5, 2025 at 11:38 am",
+    "store_name": "edbl22",
+    "store_url": "/772311/stores/65736671392",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "January 5, 2025 at 11:38 am",
+    "store_name": "edbl22",
+    "store_url": "/772311/stores/65736671392",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27785527456Open payments"
+  },
+  {
+    "date": "January 4, 2025 at 10:10 am",
+    "store_name": "edbl22",
+    "store_url": "/772311/stores/65736671392",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27785527456Open payments"
+  },
+  {
+    "date": "January 4, 2025 at 10:09 am",
+    "store_name": "edbl22",
+    "store_url": "/772311/stores/65736671392",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2025 at 4:49 pm",
+    "store_name": "Neonail Expert Italia",
+    "store_url": "/772311/stores/19925794870",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 79678538107Open payments"
+  },
+  {
+    "date": "January 3, 2025 at 4:48 pm",
+    "store_name": "Neonail Expert Italia",
+    "store_url": "/772311/stores/19925794870",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2025 at 10:19 am",
+    "store_name": "I Love Wrapper",
+    "store_url": "/772311/stores/71104069890",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2025 at 10:19 am",
+    "store_name": "I Love Wrapper",
+    "store_url": "/772311/stores/71104069890",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28755263746Open payments"
+  },
+  {
+    "date": "January 3, 2025 at 6:33 am",
+    "store_name": "IMZY Moroccan Jewellery",
+    "store_url": "/772311/stores/67223781675",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32406896939Open payments"
+  },
+  {
+    "date": "January 3, 2025 at 6:33 am",
+    "store_name": "IMZY Moroccan Jewellery",
+    "store_url": "/772311/stores/67223781675",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2025 at 12:47 am",
+    "store_name": "Integrative Healing Institute®",
+    "store_url": "/772311/stores/60733030578",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27704131762Open payments"
+  }
+]

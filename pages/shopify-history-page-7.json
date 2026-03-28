@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 19, 2025 at 6:05 pm",
+    "store_name": "EternalEnergy",
+    "store_url": "/772311/stores/78757888224",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 19, 2025 at 5:09 pm",
+    "store_name": "EternalEnergy",
+    "store_url": "/772311/stores/78757888224",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 19, 2025 at 4:45 pm",
+    "store_name": "EternalEnergy",
+    "store_url": "/772311/stores/78757888224",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 18, 2025 at 11:24 pm",
+    "store_name": "EternalEnergy",
+    "store_url": "/772311/stores/78757888224",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 18, 2025 at 8:05 pm",
+    "store_name": "Bouche Bée",
+    "store_url": "/772311/stores/81977213255",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33480245575Open payments"
+  },
+  {
+    "date": "December 18, 2025 at 8:05 pm",
+    "store_name": "Bouche Bée",
+    "store_url": "/772311/stores/81977213255",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 18, 2025 at 7:43 pm",
+    "store_name": "VitaeChek",
+    "store_url": "/772311/stores/90933199114",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 18, 2025 at 6:26 pm",
+    "store_name": "Dente91",
+    "store_url": "/772311/stores/87855366443",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 35438264619Open payments"
+  },
+  {
+    "date": "December 18, 2025 at 6:26 pm",
+    "store_name": "Dente91",
+    "store_url": "/772311/stores/87855366443",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "December 18, 2025 at 1:46 am",
+    "store_name": "VitalGlow",
+    "store_url": "/772311/stores/67330900083",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 18, 2025 at 1:42 am",
+    "store_name": "VitalGlow",
+    "store_url": "/772311/stores/67330900083",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 18, 2025 at 1:39 am",
+    "store_name": "VitalGlow",
+    "store_url": "/772311/stores/67330900083",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "December 17, 2025 at 10:18 pm",
+    "store_name": "Explore Your World Outdoors LLC",
+    "store_url": "/772311/stores/91383562609",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 81200710001Open payments"
+  },
+  {
+    "date": "December 17, 2025 at 10:18 pm",
+    "store_name": "Explore Your World Outdoors LLC",
+    "store_url": "/772311/stores/91383562609",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "December 17, 2025 at 1:12 pm",
+    "store_name": "Explore Your World Outdoors LLC",
+    "store_url": "/772311/stores/91383562609",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 81200710001Open payments"
+  },
+  {
+    "date": "December 17, 2025 at 1:10 pm",
+    "store_name": "Explore Your World Outdoors LLC",
+    "store_url": "/772311/stores/91383562609",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 17, 2025 at 1:09 pm",
+    "store_name": "Explore Your World Outdoors LLC",
+    "store_url": "/772311/stores/91383562609",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 17, 2025 at 1:06 pm",
+    "store_name": "Explore Your World Outdoors LLC",
+    "store_url": "/772311/stores/91383562609",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 17, 2025 at 9:08 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32816890158Open payments"
+  },
+  {
+    "date": "December 17, 2025 at 9:08 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  }
+]

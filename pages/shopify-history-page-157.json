@@ -1,0 +1,142 @@
+[
+  {
+    "date": "May 1, 2024 at 11:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 29, 2024 at 6:32 am",
+    "store_name": "KP Solutions",
+    "store_url": "/772311/stores/64201523351",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30787502231Open payments"
+  },
+  {
+    "date": "April 29, 2024 at 6:31 am",
+    "store_name": "KP Solutions",
+    "store_url": "/772311/stores/64201523351",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 28, 2024 at 5:56 am",
+    "store_name": "🐞 anicure.dev",
+    "store_url": "/772311/stores/60321333305",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 27, 2024 at 3:59 pm",
+    "store_name": "GastroDeals",
+    "store_url": "/772311/stores/82816074069",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32881967445Open payments"
+  },
+  {
+    "date": "April 27, 2024 at 3:59 pm",
+    "store_name": "GastroDeals",
+    "store_url": "/772311/stores/82816074069",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 27, 2024 at 5:49 am",
+    "store_name": "CA International",
+    "store_url": "/772311/stores/69170528521",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 26, 2024 at 5:00 pm",
+    "store_name": "Zuma Partial Staging",
+    "store_url": "/772311/stores/78932672820",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32296862004Open payments"
+  },
+  {
+    "date": "April 26, 2024 at 5:00 pm",
+    "store_name": "Zuma Partial Staging",
+    "store_url": "/772311/stores/78932672820",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32296927540Open payments"
+  },
+  {
+    "date": "April 26, 2024 at 5:00 pm",
+    "store_name": "Zuma Partial Staging",
+    "store_url": "/772311/stores/78932672820",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32296796468Open payments"
+  },
+  {
+    "date": "April 26, 2024 at 5:00 pm",
+    "store_name": "Zuma Partial Staging",
+    "store_url": "/772311/stores/78932672820",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32296829236Open payments"
+  },
+  {
+    "date": "April 26, 2024 at 5:00 pm",
+    "store_name": "Zuma Partial Staging",
+    "store_url": "/772311/stores/78932672820",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32296763700Open payments"
+  },
+  {
+    "date": "April 26, 2024 at 5:00 pm",
+    "store_name": "Zuma Partial Staging",
+    "store_url": "/772311/stores/78932672820",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32296894772Open payments"
+  },
+  {
+    "date": "April 24, 2024 at 7:21 pm",
+    "store_name": "RankensteinSEO - SEO Taktik",
+    "store_url": "/772311/stores/86843523397",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32708034885Open payments"
+  },
+  {
+    "date": "April 24, 2024 at 7:21 pm",
+    "store_name": "RankensteinSEO - SEO Taktik",
+    "store_url": "/772311/stores/86843523397",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 23, 2024 at 8:37 pm",
+    "store_name": "Zuma Partial Staging",
+    "store_url": "/772311/stores/78932672820",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 23, 2024 at 6:02 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "April 23, 2024 at 6:02 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "April 21, 2024 at 5:00 pm",
+    "store_name": "Zuma Partial Staging",
+    "store_url": "/772311/stores/78932672820",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32275104052Open payments"
+  },
+  {
+    "date": "April 21, 2024 at 5:00 pm",
+    "store_name": "Wolo Yoga",
+    "store_url": "/772311/stores/55283417284",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26236780740Open payments"
+  }
+]

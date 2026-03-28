@@ -1,0 +1,142 @@
+[
+  {
+    "date": "September 15, 2025 at 3:52 am",
+    "store_name": "Mateína",
+    "store_url": "/772311/stores/82762137913",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 15, 2025 at 3:50 am",
+    "store_name": "Dev - Mateina USA",
+    "store_url": "/772311/stores/92308963621",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 15, 2025 at 3:41 am",
+    "store_name": "Mateína",
+    "store_url": "/772311/stores/82762137913",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 15, 2025 at 3:41 am",
+    "store_name": "Mateína",
+    "store_url": "/772311/stores/82762137913",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 15, 2025 at 3:40 am",
+    "store_name": "Mateína",
+    "store_url": "/772311/stores/82762137913",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 15, 2025 at 3:37 am",
+    "store_name": "Mateína",
+    "store_url": "/772311/stores/82762137913",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 13, 2025 at 4:20 am",
+    "store_name": "MiniSpinCar",
+    "store_url": "/772311/stores/96200687957",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "September 12, 2025 at 5:08 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/94358110503",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "September 12, 2025 at 3:40 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/94358110503",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 12, 2025 at 6:54 am",
+    "store_name": "Be Crypto Safe Pty Ltd",
+    "store_url": "/772311/stores/75595088124",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "September 12, 2025 at 6:49 am",
+    "store_name": "Be Crypto Safe Pty Ltd",
+    "store_url": "/772311/stores/75595088124",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 12, 2025 at 6:05 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32816890158Open payments"
+  },
+  {
+    "date": "September 12, 2025 at 6:05 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "September 12, 2025 at 6:01 am",
+    "store_name": "Magnesium Wash",
+    "store_url": "/772311/stores/39665402022",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "September 11, 2025 at 6:36 pm",
+    "store_name": "Test Store Plus",
+    "store_url": "/772311/stores/63225921611",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 11, 2025 at 6:36 pm",
+    "store_name": "Test Store Plus",
+    "store_url": "/772311/stores/63225921611",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 11, 2025 at 8:15 am",
+    "store_name": "sugardash",
+    "store_url": "/772311/stores/66590801998",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 10, 2025 at 5:51 pm",
+    "store_name": "The Sofa Shop",
+    "store_url": "/772311/stores/61464641749",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 10, 2025 at 5:44 pm",
+    "store_name": "The Sofa Shop",
+    "store_url": "/772311/stores/61464641749",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 10, 2025 at 11:59 am",
+    "store_name": "Natural Treasure",
+    "store_url": "/772311/stores/87501046065",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

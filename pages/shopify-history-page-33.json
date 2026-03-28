@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 17, 2025 at 6:13 pm",
+    "store_name": "NCC.health",
+    "store_url": "/772311/stores/28252340277",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26539458613Open payments"
+  },
+  {
+    "date": "July 17, 2025 at 6:11 pm",
+    "store_name": "NCC.health",
+    "store_url": "/772311/stores/28252340277",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26539458613Open payments"
+  },
+  {
+    "date": "July 17, 2025 at 6:11 pm",
+    "store_name": "NCC.health",
+    "store_url": "/772311/stores/28252340277",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 17, 2025 at 5:56 pm",
+    "store_name": "NCC.health",
+    "store_url": "/772311/stores/28252340277",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26539425845Open payments"
+  },
+  {
+    "date": "July 17, 2025 at 5:56 pm",
+    "store_name": "NCC.health",
+    "store_url": "/772311/stores/28252340277",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "July 17, 2025 at 5:56 pm",
+    "store_name": "NCC.health",
+    "store_url": "/772311/stores/28252340277",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26539393077Open payments"
+  },
+  {
+    "date": "July 17, 2025 at 5:48 pm",
+    "store_name": "NCC.health",
+    "store_url": "/772311/stores/28252340277",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 16, 2025 at 6:30 pm",
+    "store_name": "Mi tienda",
+    "store_url": "/772311/stores/96200687957",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 16, 2025 at 2:10 am",
+    "store_name": "Srirachawear",
+    "store_url": "/772311/stores/12473591",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 16, 2025 at 1:33 am",
+    "store_name": "Srirachawear",
+    "store_url": "/772311/stores/12473591",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 16, 2025 at 1:32 am",
+    "store_name": "Srirachawear",
+    "store_url": "/772311/stores/12473591",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 16, 2025 at 1:30 am",
+    "store_name": "Srirachawear",
+    "store_url": "/772311/stores/12473591",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 16, 2025 at 1:29 am",
+    "store_name": "Srirachawear",
+    "store_url": "/772311/stores/12473591",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 16, 2025 at 1:28 am",
+    "store_name": "Srirachawear",
+    "store_url": "/772311/stores/12473591",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 16, 2025 at 1:24 am",
+    "store_name": "Srirachawear",
+    "store_url": "/772311/stores/12473591",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 14, 2025 at 4:03 pm",
+    "store_name": "Herbolario Salud Natural",
+    "store_url": "/772311/stores/63965986909",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 105407414656Open payments"
+  },
+  {
+    "date": "July 14, 2025 at 4:02 pm",
+    "store_name": "Herbolario Salud Natural",
+    "store_url": "/772311/stores/63965986909",
+    "event": "AttentionUninstalled",
+    "event_details": "No funciona o no es compatible con la tienda"
+  },
+  {
+    "date": "July 14, 2025 at 5:16 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 14, 2025 at 5:16 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31813534011Open payments"
+  },
+  {
+    "date": "July 13, 2025 at 5:00 pm",
+    "store_name": "Herbolario Salud Natural",
+    "store_url": "/772311/stores/63965986909",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 105407381888Open payments"
+  }
+]

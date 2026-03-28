@@ -1,0 +1,142 @@
+[
+  {
+    "date": "April 6, 2023 at 6:54 am",
+    "store_name": "ebthriftshop",
+    "store_url": "/772311/stores/70799720758",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 5, 2023 at 3:12 am",
+    "store_name": "HØJ",
+    "store_url": "/772311/stores/25817710644",
+    "event": "AttentionUninstalled",
+    "event_details": "Not needed anymore"
+  },
+  {
+    "date": "April 5, 2023 at 3:12 am",
+    "store_name": "HØJ",
+    "store_url": "/772311/stores/25817710644",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27067777276Open payments"
+  },
+  {
+    "date": "April 4, 2023 at 7:33 pm",
+    "store_name": "PawPail",
+    "store_url": "/772311/stores/16843817",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27617198270Open payments"
+  },
+  {
+    "date": "April 4, 2023 at 3:17 pm",
+    "store_name": "rifat store bd",
+    "store_url": "/772311/stores/74202448165",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 3, 2023 at 9:06 pm",
+    "store_name": "appstoretest8",
+    "store_url": "/772311/stores/24819684",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 3, 2023 at 9:06 pm",
+    "store_name": "appstoretest8",
+    "store_url": "/772311/stores/24819684",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 2, 2023 at 8:00 pm",
+    "store_name": "appstoretest8",
+    "store_url": "/772311/stores/24819684",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 2, 2023 at 5:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 26031685654Open payments"
+  },
+  {
+    "date": "April 2, 2023 at 5:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 26031718422Open payments"
+  },
+  {
+    "date": "April 2, 2023 at 5:00 pm",
+    "store_name": "HØJ",
+    "store_url": "/772311/stores/25817710644",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27067711740Open payments"
+  },
+  {
+    "date": "April 2, 2023 at 5:00 pm",
+    "store_name": "HØJ",
+    "store_url": "/772311/stores/25817710644",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27067744508Open payments"
+  },
+  {
+    "date": "April 2, 2023 at 5:00 pm",
+    "store_name": "HØJ",
+    "store_url": "/772311/stores/25817710644",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27067678972Open payments"
+  },
+  {
+    "date": "April 1, 2023 at 8:45 pm",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 1, 2023 at 8:45 pm",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 1, 2023 at 7:10 pm",
+    "store_name": "Cardio Online",
+    "store_url": "/772311/stores/12136448100",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "April 1, 2023 at 7:10 pm",
+    "store_name": "Cardio Online",
+    "store_url": "/772311/stores/12136448100",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23191781443Open payments"
+  },
+  {
+    "date": "April 1, 2023 at 6:49 pm",
+    "store_name": "Cardio Online",
+    "store_url": "/772311/stores/12136448100",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23191781443Open payments"
+  },
+  {
+    "date": "April 1, 2023 at 6:49 pm",
+    "store_name": "Cardio Online",
+    "store_url": "/772311/stores/12136448100",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 1, 2023 at 5:00 pm",
+    "store_name": "HØJ",
+    "store_url": "/772311/stores/25817710644",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27065352444Open payments"
+  }
+]

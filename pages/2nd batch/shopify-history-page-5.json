@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 4, 2026 at 2:42 pm",
+    "store_name": "Tukkukoira",
+    "store_url": "/772311/stores/76229738833",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 3, 2026 at 7:21 pm",
+    "store_name": "Maysama",
+    "store_url": "/772311/stores/63008407805",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31071207677Open payments"
+  },
+  {
+    "date": "February 28, 2026 at 6:00 pm",
+    "store_name": "Maysama UK",
+    "store_url": "/772311/stores/57917538369",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 82699911543Open payments"
+  },
+  {
+    "date": "February 28, 2026 at 6:00 pm",
+    "store_name": "Maysama UK",
+    "store_url": "/772311/stores/57917538369",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 82699944311Open payments"
+  },
+  {
+    "date": "February 28, 2026 at 6:00 pm",
+    "store_name": "Maysama UK",
+    "store_url": "/772311/stores/57917538369",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 82699878775Open payments"
+  },
+  {
+    "date": "February 28, 2026 at 6:00 pm",
+    "store_name": "Maysama UK",
+    "store_url": "/772311/stores/57917538369",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 82696569207Open payments"
+  },
+  {
+    "date": "February 28, 2026 at 6:00 pm",
+    "store_name": "Maysama UK",
+    "store_url": "/772311/stores/57917538369",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 82696601975Open payments"
+  },
+  {
+    "date": "February 27, 2026 at 8:21 am",
+    "store_name": "Paw Memorial",
+    "store_url": "/772311/stores/96033046826",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 26, 2026 at 12:15 pm",
+    "store_name": "Maysama UK",
+    "store_url": "/772311/stores/57917538369",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 82699977079Open payments"
+  },
+  {
+    "date": "February 25, 2026 at 8:26 pm",
+    "store_name": "Maysama",
+    "store_url": "/772311/stores/63008407805",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 25, 2026 at 8:23 pm",
+    "store_name": "Maysama UK",
+    "store_url": "/772311/stores/57917538369",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 24, 2026 at 6:25 pm",
+    "store_name": "Le Troisième Coup",
+    "store_url": "/772311/stores/77679689961",
+    "event": "AttentionUninstalled",
+    "event_details": "N'utilise plus l'application"
+  },
+  {
+    "date": "February 24, 2026 at 6:25 pm",
+    "store_name": "Le Troisième Coup",
+    "store_url": "/772311/stores/77679689961",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32435175657Open payments"
+  },
+  {
+    "date": "February 24, 2026 at 6:24 pm",
+    "store_name": "Le Troisième Coup",
+    "store_url": "/772311/stores/77679689961",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 24, 2026 at 10:15 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Extended Yearly - $39.99 USD (Test). Subscription ID: 27802730575Open payments"
+  },
+  {
+    "date": "February 24, 2026 at 2:23 am",
+    "store_name": "Branch Basics",
+    "store_url": "/772311/stores/41091006628",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 36262477988Open payments"
+  },
+  {
+    "date": "February 24, 2026 at 1:59 am",
+    "store_name": "Branch Basics",
+    "store_url": "/772311/stores/41091006628",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 36262445220Open payments"
+  },
+  {
+    "date": "February 23, 2026 at 4:56 am",
+    "store_name": "Paintbrush Guard",
+    "store_url": "/772311/stores/71921697018",
+    "event": "Subscription charge canceled",
+    "event_details": "Extended - $3.99 USD. Subscription ID: 34495168762Open payments"
+  },
+  {
+    "date": "February 23, 2026 at 4:56 am",
+    "store_name": "Paintbrush Guard",
+    "store_url": "/772311/stores/71921697018",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 22, 2026 at 12:24 pm",
+    "store_name": "AD/BC",
+    "store_url": "/772311/stores/70172606685",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31674892509Open payments"
+  }
+]

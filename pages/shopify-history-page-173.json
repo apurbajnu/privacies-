@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 9, 2024 at 6:19 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28081225979Open payments"
+  },
+  {
+    "date": "February 9, 2024 at 6:19 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "February 8, 2024 at 10:14 pm",
+    "store_name": "Reddy Threads",
+    "store_url": "/772311/stores/32939737223",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26572652704Open payments"
+  },
+  {
+    "date": "February 8, 2024 at 10:14 pm",
+    "store_name": "Reddy Threads",
+    "store_url": "/772311/stores/32939737223",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features, Hard to set up or use, Not satisfied with support; Emailed but never got response"
+  },
+  {
+    "date": "February 8, 2024 at 3:44 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/77773996364",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32030851404Open payments"
+  },
+  {
+    "date": "February 8, 2024 at 3:43 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/77773996364",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 6, 2024 at 10:39 pm",
+    "store_name": "GR8 Fires",
+    "store_url": "/772311/stores/62496702703",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28196569327Open payments"
+  },
+  {
+    "date": "February 6, 2024 at 10:38 pm",
+    "store_name": "GR8 Fires",
+    "store_url": "/772311/stores/62496702703",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 4, 2024 at 7:43 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "February 4, 2024 at 7:43 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28081225979Open payments"
+  },
+  {
+    "date": "February 4, 2024 at 6:20 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "February 4, 2024 at 6:20 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28081225979Open payments"
+  },
+  {
+    "date": "February 4, 2024 at 7:02 am",
+    "store_name": "MT Spaces Outfitters",
+    "store_url": "/772311/stores/67903062246",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28213969126Open payments"
+  },
+  {
+    "date": "February 4, 2024 at 7:02 am",
+    "store_name": "MT Spaces Outfitters",
+    "store_url": "/772311/stores/67903062246",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 2, 2024 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31923798300Open payments"
+  },
+  {
+    "date": "February 2, 2024 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31923765532Open payments"
+  },
+  {
+    "date": "February 2, 2024 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31923601692Open payments"
+  },
+  {
+    "date": "February 1, 2024 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31916294428Open payments"
+  },
+  {
+    "date": "February 1, 2024 at 12:48 pm",
+    "store_name": "VitrA Uzbekistan",
+    "store_url": "/772311/stores/58387955805",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23745298525Open payments"
+  },
+  {
+    "date": "February 1, 2024 at 12:48 pm",
+    "store_name": "VitrA Uzbekistan",
+    "store_url": "/772311/stores/58387955805",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  }
+]

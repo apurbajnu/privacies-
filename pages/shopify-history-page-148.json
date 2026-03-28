@@ -1,0 +1,142 @@
+[
+  {
+    "date": "May 25, 2024 at 5:00 pm",
+    "store_name": "🔍 Tsun App Test",
+    "store_url": "/772311/stores/68019323195",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32677167419Open payments"
+  },
+  {
+    "date": "May 25, 2024 at 5:00 pm",
+    "store_name": "🔍 Tsun App Test",
+    "store_url": "/772311/stores/68019323195",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32677101883Open payments"
+  },
+  {
+    "date": "May 23, 2024 at 7:26 am",
+    "store_name": "Cork Boutique",
+    "store_url": "/772311/stores/65322025183",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "May 23, 2024 at 4:45 am",
+    "store_name": "🔍 Tsun App Test",
+    "store_url": "/772311/stores/68019323195",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 23, 2024 at 4:42 am",
+    "store_name": "🔍 Tsun App Test",
+    "store_url": "/772311/stores/68019323195",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 22, 2024 at 5:28 pm",
+    "store_name": "BONOTEE",
+    "store_url": "/772311/stores/48666312866",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26404356258Open payments"
+  },
+  {
+    "date": "May 22, 2024 at 5:28 pm",
+    "store_name": "BONOTEE",
+    "store_url": "/772311/stores/48666312866",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "May 22, 2024 at 3:30 pm",
+    "store_name": "ShandaarBuy",
+    "store_url": "/772311/stores/67136651505",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28988145905Open payments"
+  },
+  {
+    "date": "May 22, 2024 at 3:30 pm",
+    "store_name": "ShandaarBuy",
+    "store_url": "/772311/stores/67136651505",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 21, 2024 at 7:25 pm",
+    "store_name": "Wabi Sabi",
+    "store_url": "/772311/stores/60874883238",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27438907558Open payments"
+  },
+  {
+    "date": "May 21, 2024 at 7:24 pm",
+    "store_name": "Wabi Sabi",
+    "store_url": "/772311/stores/60874883238",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 21, 2024 at 5:00 pm",
+    "store_name": "Quickstart (aacee597)",
+    "store_url": "/772311/stores/80141320485",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33101414693Open payments"
+  },
+  {
+    "date": "May 20, 2024 at 5:00 pm",
+    "store_name": "ShandaarBuy",
+    "store_url": "/772311/stores/67136651505",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28988113137Open payments"
+  },
+  {
+    "date": "May 20, 2024 at 5:00 pm",
+    "store_name": "SeedKitty",
+    "store_url": "/772311/stores/79496970569",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32849527113Open payments"
+  },
+  {
+    "date": "May 19, 2024 at 9:10 pm",
+    "store_name": "Atelier OS",
+    "store_url": "/772311/stores/87199645976",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 19, 2024 at 9:10 pm",
+    "store_name": "Atelier OS",
+    "store_url": "/772311/stores/87199645976",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32751845656Open payments"
+  },
+  {
+    "date": "May 19, 2024 at 9:00 pm",
+    "store_name": "Atelier OS",
+    "store_url": "/772311/stores/87199645976",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32751845656Open payments"
+  },
+  {
+    "date": "May 19, 2024 at 8:59 pm",
+    "store_name": "Atelier OS",
+    "store_url": "/772311/stores/87199645976",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 19, 2024 at 5:00 pm",
+    "store_name": "Equilibrum",
+    "store_url": "/772311/stores/8985186",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26592542917Open payments"
+  },
+  {
+    "date": "May 18, 2024 at 3:47 pm",
+    "store_name": "SeedKitty",
+    "store_url": "/772311/stores/79496970569",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

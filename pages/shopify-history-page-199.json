@@ -1,0 +1,142 @@
+[
+  {
+    "date": "November 20, 2023 at 5:45 am",
+    "store_name": "Canvas Place",
+    "store_url": "/772311/stores/64140771568",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 20, 2023 at 2:30 am",
+    "store_name": "HookedOnBundles Virgin Hair",
+    "store_url": "/772311/stores/28714401924",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 20, 2023 at 2:30 am",
+    "store_name": "HookedOnBundles Virgin Hair",
+    "store_url": "/772311/stores/28714401924",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27875279092Open payments"
+  },
+  {
+    "date": "November 20, 2023 at 2:25 am",
+    "store_name": "HookedOnBundles Virgin Hair",
+    "store_url": "/772311/stores/28714401924",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27875279092Open payments"
+  },
+  {
+    "date": "November 20, 2023 at 2:24 am",
+    "store_name": "HookedOnBundles Virgin Hair",
+    "store_url": "/772311/stores/28714401924",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 19, 2023 at 7:15 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 19, 2023 at 7:07 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 19, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31453610268Open payments"
+  },
+  {
+    "date": "November 19, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31453511964Open payments"
+  },
+  {
+    "date": "November 19, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31449547036Open payments"
+  },
+  {
+    "date": "November 19, 2023 at 5:49 pm",
+    "store_name": "Soul Ceremonies",
+    "store_url": "/772311/stores/56021221465",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31602901259Open payments"
+  },
+  {
+    "date": "November 19, 2023 at 5:49 pm",
+    "store_name": "Soul Ceremonies",
+    "store_url": "/772311/stores/56021221465",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "November 19, 2023 at 5:35 pm",
+    "store_name": "Soul Ceremonies",
+    "store_url": "/772311/stores/56021221465",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31602901259Open payments"
+  },
+  {
+    "date": "November 19, 2023 at 5:33 pm",
+    "store_name": "Soul Ceremonies",
+    "store_url": "/772311/stores/56021221465",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 16, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31428968732Open payments"
+  },
+  {
+    "date": "November 16, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31414812956Open payments"
+  },
+  {
+    "date": "November 16, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31414780188Open payments"
+  },
+  {
+    "date": "November 16, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31414124828Open payments"
+  },
+  {
+    "date": "November 16, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31414223132Open payments"
+  },
+  {
+    "date": "November 15, 2023 at 6:00 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 28137193494Open payments"
+  }
+]

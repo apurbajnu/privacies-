@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 23, 2023 at 12:11 am",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 20, 2023 at 10:30 pm",
+    "store_name": "TRADESAFE",
+    "store_url": "/772311/stores/40387608730",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26922057948Open payments"
+  },
+  {
+    "date": "January 20, 2023 at 10:29 pm",
+    "store_name": "TRADESAFE",
+    "store_url": "/772311/stores/40387608730",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 18, 2023 at 6:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25299124246Open payments"
+  },
+  {
+    "date": "January 18, 2023 at 6:51 am",
+    "store_name": "Beia",
+    "store_url": "/772311/stores/55458988193",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 18, 2023 at 6:51 am",
+    "store_name": "Beia",
+    "store_url": "/772311/stores/55458988193",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28191850657Open payments"
+  },
+  {
+    "date": "January 18, 2023 at 6:16 am",
+    "store_name": "Beia",
+    "store_url": "/772311/stores/55458988193",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28191850657Open payments"
+  },
+  {
+    "date": "January 18, 2023 at 6:15 am",
+    "store_name": "Beia",
+    "store_url": "/772311/stores/55458988193",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 16, 2023 at 4:38 pm",
+    "store_name": "2Men",
+    "store_url": "/772311/stores/66581725438",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "January 16, 2023 at 4:38 pm",
+    "store_name": "2Men",
+    "store_url": "/772311/stores/66581725438",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27271430398Open payments"
+  },
+  {
+    "date": "January 16, 2023 at 4:32 pm",
+    "store_name": "2Men",
+    "store_url": "/772311/stores/66581725438",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27271430398Open payments"
+  },
+  {
+    "date": "January 16, 2023 at 4:32 pm",
+    "store_name": "2Men",
+    "store_url": "/772311/stores/66581725438",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 16, 2023 at 4:32 pm",
+    "store_name": "2Men",
+    "store_url": "/772311/stores/66581725438",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27169751294Open payments"
+  },
+  {
+    "date": "January 16, 2023 at 4:32 pm",
+    "store_name": "2Men",
+    "store_url": "/772311/stores/66581725438",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well; stopped working"
+  },
+  {
+    "date": "January 16, 2023 at 2:11 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "January 16, 2023 at 2:11 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 16, 2023 at 1:45 am",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25299976214Open payments"
+  },
+  {
+    "date": "January 16, 2023 at 1:45 am",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 16, 2023 at 1:37 am",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25299976214Open payments"
+  },
+  {
+    "date": "January 16, 2023 at 1:16 am",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

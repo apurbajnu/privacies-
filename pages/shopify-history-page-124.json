@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 24, 2024 at 5:55 pm",
+    "store_name": "GiftsBazar",
+    "store_url": "/772311/stores/64959840425",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "July 24, 2024 at 5:55 pm",
+    "store_name": "GiftsBazar",
+    "store_url": "/772311/stores/64959840425",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26663878825Open payments"
+  },
+  {
+    "date": "July 24, 2024 at 5:00 pm",
+    "store_name": "MAXXUS",
+    "store_url": "/772311/stores/68193026264",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28973727960Open payments"
+  },
+  {
+    "date": "July 24, 2024 at 5:00 pm",
+    "store_name": "MAXXUS",
+    "store_url": "/772311/stores/68193026264",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28973498584Open payments"
+  },
+  {
+    "date": "July 24, 2024 at 5:00 pm",
+    "store_name": "MAXXUS",
+    "store_url": "/772311/stores/68193026264",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28973400280Open payments"
+  },
+  {
+    "date": "July 24, 2024 at 12:08 pm",
+    "store_name": "Grancrest",
+    "store_url": "/772311/stores/60368191576",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24702484568Open payments"
+  },
+  {
+    "date": "July 24, 2024 at 12:08 pm",
+    "store_name": "Grancrest",
+    "store_url": "/772311/stores/60368191576",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 24, 2024 at 12:06 pm",
+    "store_name": "Grancrest",
+    "store_url": "/772311/stores/60368191576",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24702484568Open payments"
+  },
+  {
+    "date": "July 24, 2024 at 12:06 pm",
+    "store_name": "Grancrest",
+    "store_url": "/772311/stores/60368191576",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 24, 2024 at 4:05 am",
+    "store_name": "Clothing Aesthetics",
+    "store_url": "/772311/stores/69972295984",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28527788336Open payments"
+  },
+  {
+    "date": "July 24, 2024 at 1:42 am",
+    "store_name": "LCY LONDON",
+    "store_url": "/772311/stores/64223445220",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "July 24, 2024 at 1:42 am",
+    "store_name": "LCY LONDON",
+    "store_url": "/772311/stores/64223445220",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28591784164Open payments"
+  },
+  {
+    "date": "July 24, 2024 at 1:39 am",
+    "store_name": "Canvelle",
+    "store_url": "/772311/stores/10426912",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33095647529Open payments"
+  },
+  {
+    "date": "July 24, 2024 at 1:39 am",
+    "store_name": "Canvelle",
+    "store_url": "/772311/stores/10426912",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 23, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33768964419Open payments"
+  },
+  {
+    "date": "July 23, 2024 at 2:36 pm",
+    "store_name": "Gorilla Sports Schweiz",
+    "store_url": "/772311/stores/64679444671",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28513239231Open payments"
+  },
+  {
+    "date": "July 23, 2024 at 2:36 pm",
+    "store_name": "Gorilla Sports Schweiz",
+    "store_url": "/772311/stores/64679444671",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 23, 2024 at 2:07 am",
+    "store_name": "Pawsitive Vibes",
+    "store_url": "/772311/stores/13097926714",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store; glitchy, first gave 500 server error, then installed it and I'm not able to open it. Wanted to like it. :-("
+  },
+  {
+    "date": "July 23, 2024 at 1:58 am",
+    "store_name": "Pawsitive Vibes",
+    "store_url": "/772311/stores/13097926714",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 22, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28778692820Open payments"
+  }
+]

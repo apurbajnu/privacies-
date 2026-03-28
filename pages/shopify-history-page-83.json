@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 23, 2024 at 7:54 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "October 23, 2024 at 7:54 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "October 23, 2024 at 6:19 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "October 23, 2024 at 6:19 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "October 21, 2024 at 5:00 pm",
+    "store_name": "MAMAZING-STORE",
+    "store_url": "/772311/stores/89530532153",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33680097593Open payments"
+  },
+  {
+    "date": "October 21, 2024 at 2:40 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/62289510515",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 19, 2024 at 12:29 pm",
+    "store_name": "MAMAZING-STORE",
+    "store_url": "/772311/stores/89530532153",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33680130361Open payments"
+  },
+  {
+    "date": "October 19, 2024 at 1:25 am",
+    "store_name": "Maison La Duchesse",
+    "store_url": "/772311/stores/85871952208",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34955264336Open payments"
+  },
+  {
+    "date": "October 19, 2024 at 1:25 am",
+    "store_name": "Maison La Duchesse",
+    "store_url": "/772311/stores/85871952208",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "October 18, 2024 at 6:05 pm",
+    "store_name": "Treko",
+    "store_url": "/772311/stores/60095561830",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 18, 2024 at 6:05 pm",
+    "store_name": "Treko",
+    "store_url": "/772311/stores/60095561830",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24374902886Open payments"
+  },
+  {
+    "date": "October 18, 2024 at 5:00 pm",
+    "store_name": "NuBest Nutrition®",
+    "store_url": "/772311/stores/79984328989",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34385166621Open payments"
+  },
+  {
+    "date": "October 18, 2024 at 5:00 pm",
+    "store_name": "NuBest Nutrition®",
+    "store_url": "/772311/stores/79984328989",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34385199389Open payments"
+  },
+  {
+    "date": "October 18, 2024 at 4:54 pm",
+    "store_name": "Maison La Duchesse",
+    "store_url": "/772311/stores/85871952208",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34955264336Open payments"
+  },
+  {
+    "date": "October 18, 2024 at 4:53 pm",
+    "store_name": "Maison La Duchesse",
+    "store_url": "/772311/stores/85871952208",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 17, 2024 at 6:58 pm",
+    "store_name": "cromptonshop",
+    "store_url": "/772311/stores/71517045040",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "October 17, 2024 at 6:58 pm",
+    "store_name": "cromptonshop",
+    "store_url": "/772311/stores/71517045040",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33219051824Open payments"
+  },
+  {
+    "date": "October 17, 2024 at 5:00 pm",
+    "store_name": "Human of Impact",
+    "store_url": "/772311/stores/59532116049",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24882741329Open payments"
+  },
+  {
+    "date": "October 17, 2024 at 5:00 pm",
+    "store_name": "Human of Impact",
+    "store_url": "/772311/stores/59532116049",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24882708561Open payments"
+  },
+  {
+    "date": "October 17, 2024 at 5:00 pm",
+    "store_name": "MAMAZING-STORE",
+    "store_url": "/772311/stores/89530532153",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33657815353Open payments"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 13, 2025 at 3:34 pm",
+    "store_name": "Couture Alley",
+    "store_url": "/772311/stores/84363084121",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "July 13, 2025 at 6:20 am",
+    "store_name": "GEMA Shop",
+    "store_url": "/772311/stores/75777966428",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 13, 2025 at 6:11 am",
+    "store_name": "GEMA Shop",
+    "store_url": "/772311/stores/75777966428",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 12, 2025 at 11:32 am",
+    "store_name": "Desiré",
+    "store_url": "/772311/stores/58113523770",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 12, 2025 at 11:31 am",
+    "store_name": "Desiré",
+    "store_url": "/772311/stores/58113523770",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 11, 2025 at 2:08 pm",
+    "store_name": "Herbolario Salud Natural",
+    "store_url": "/772311/stores/63965986909",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 105407414656Open payments"
+  },
+  {
+    "date": "July 11, 2025 at 11:22 am",
+    "store_name": "Herbolario Salud Natural",
+    "store_url": "/772311/stores/63965986909",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 10, 2025 at 5:00 pm",
+    "store_name": "VisioncarePro: Rx Lens & Frame - Prescription Eye Lens Configurator (PWD: demo)",
+    "store_url": "/772311/stores/84062142755",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 36301701411Open payments"
+  },
+  {
+    "date": "July 10, 2025 at 5:00 pm",
+    "store_name": "VisioncarePro: Rx Lens & Frame - Prescription Eye Lens Configurator (PWD: demo)",
+    "store_url": "/772311/stores/84062142755",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 36301766947Open payments"
+  },
+  {
+    "date": "July 10, 2025 at 5:00 pm",
+    "store_name": "VisioncarePro: Rx Lens & Frame - Prescription Eye Lens Configurator (PWD: demo)",
+    "store_url": "/772311/stores/84062142755",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 36301734179Open payments"
+  },
+  {
+    "date": "July 10, 2025 at 1:22 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "July 10, 2025 at 1:22 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "July 10, 2025 at 12:57 am",
+    "store_name": "plur.lt",
+    "store_url": "/772311/stores/69802918153",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62278762761Open payments"
+  },
+  {
+    "date": "July 10, 2025 at 12:57 am",
+    "store_name": "plur.lt",
+    "store_url": "/772311/stores/69802918153",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "July 10, 2025 at 12:54 am",
+    "store_name": "plur.lt",
+    "store_url": "/772311/stores/69802918153",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62278762761Open payments"
+  },
+  {
+    "date": "July 10, 2025 at 12:53 am",
+    "store_name": "plur.lt",
+    "store_url": "/772311/stores/69802918153",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 9, 2025 at 1:50 am",
+    "store_name": "ANAQA",
+    "store_url": "/772311/stores/71872545064",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "July 9, 2025 at 1:49 am",
+    "store_name": "ANAQA",
+    "store_url": "/772311/stores/71872545064",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 8, 2025 at 9:42 pm",
+    "store_name": "Bon+Berg",
+    "store_url": "/772311/stores/91970306372",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "July 8, 2025 at 9:39 pm",
+    "store_name": "Bon+Berg",
+    "store_url": "/772311/stores/91970306372",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

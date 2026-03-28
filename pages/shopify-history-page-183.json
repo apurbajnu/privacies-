@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 10, 2024 at 9:17 pm",
+    "store_name": "Bimmer Merch",
+    "store_url": "/772311/stores/68501209378",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28034695458Open payments"
+  },
+  {
+    "date": "January 10, 2024 at 8:47 pm",
+    "store_name": "Fast Track Apostille - Legalisation Store",
+    "store_url": "/772311/stores/77805322530",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33143652642Open payments"
+  },
+  {
+    "date": "January 10, 2024 at 8:46 pm",
+    "store_name": "Fast Track Apostille - Legalisation Store",
+    "store_url": "/772311/stores/77805322530",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 10, 2024 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31780798748Open payments"
+  },
+  {
+    "date": "January 10, 2024 at 10:41 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 9, 2024 at 11:38 pm",
+    "store_name": "Little Bubs Brush & Cream",
+    "store_url": "/772311/stores/62914691257",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "January 9, 2024 at 11:38 pm",
+    "store_name": "Little Bubs Brush & Cream",
+    "store_url": "/772311/stores/62914691257",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26961051833Open payments"
+  },
+  {
+    "date": "January 9, 2024 at 11:30 pm",
+    "store_name": "Little Bubs Brush & Cream",
+    "store_url": "/772311/stores/62914691257",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26961051833Open payments"
+  },
+  {
+    "date": "January 9, 2024 at 11:29 pm",
+    "store_name": "Little Bubs Brush & Cream",
+    "store_url": "/772311/stores/62914691257",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 9, 2024 at 6:09 pm",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31813534011Open payments"
+  },
+  {
+    "date": "January 9, 2024 at 6:09 pm",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 9, 2024 at 2:33 am",
+    "store_name": "GrippTek",
+    "store_url": "/772311/stores/10191929407",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31836602716Open payments"
+  },
+  {
+    "date": "January 9, 2024 at 2:32 am",
+    "store_name": "GrippTek",
+    "store_url": "/772311/stores/10191929407",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 8, 2024 at 12:44 pm",
+    "store_name": "Rosslyn-vn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "January 7, 2024 at 6:02 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "January 7, 2024 at 6:02 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "January 4, 2024 at 8:08 am",
+    "store_name": "RE-DOX SKIN LAB",
+    "store_url": "/772311/stores/70194233627",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31742591259Open payments"
+  },
+  {
+    "date": "January 4, 2024 at 8:08 am",
+    "store_name": "RE-DOX SKIN LAB",
+    "store_url": "/772311/stores/70194233627",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "January 4, 2024 at 7:18 am",
+    "store_name": "RE-DOX SKIN LAB",
+    "store_url": "/772311/stores/70194233627",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31742591259Open payments"
+  },
+  {
+    "date": "January 4, 2024 at 7:17 am",
+    "store_name": "RE-DOX SKIN LAB",
+    "store_url": "/772311/stores/70194233627",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

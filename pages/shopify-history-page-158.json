@@ -1,0 +1,142 @@
+[
+  {
+    "date": "April 21, 2024 at 5:00 pm",
+    "store_name": "Wolo Yoga",
+    "store_url": "/772311/stores/55283417284",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26236813508Open payments"
+  },
+  {
+    "date": "April 20, 2024 at 6:56 am",
+    "store_name": "Deerforia",
+    "store_url": "/772311/stores/70881935656",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30921654568Open payments"
+  },
+  {
+    "date": "April 20, 2024 at 6:56 am",
+    "store_name": "Deerforia",
+    "store_url": "/772311/stores/70881935656",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "April 19, 2024 at 5:00 pm",
+    "store_name": "Wet Sand Naturals Co",
+    "store_url": "/772311/stores/65120829589",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29880778901Open payments"
+  },
+  {
+    "date": "April 19, 2024 at 5:00 pm",
+    "store_name": "Wet Sand Naturals Co",
+    "store_url": "/772311/stores/65120829589",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29880746133Open payments"
+  },
+  {
+    "date": "April 19, 2024 at 5:00 pm",
+    "store_name": "Wet Sand Naturals Co",
+    "store_url": "/772311/stores/65120829589",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29880713365Open payments"
+  },
+  {
+    "date": "April 19, 2024 at 10:53 am",
+    "store_name": "Wolo Yoga",
+    "store_url": "/772311/stores/55283417284",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 19, 2024 at 10:52 am",
+    "store_name": "Wolo Yoga",
+    "store_url": "/772311/stores/55283417284",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 18, 2024 at 9:32 pm",
+    "store_name": "PawPail",
+    "store_url": "/772311/stores/16843817",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "April 18, 2024 at 9:32 pm",
+    "store_name": "PawPail",
+    "store_url": "/772311/stores/16843817",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27617198270Open payments"
+  },
+  {
+    "date": "April 18, 2024 at 9:13 pm",
+    "store_name": "Zuma Partial Staging",
+    "store_url": "/772311/stores/78932672820",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 18, 2024 at 7:44 pm",
+    "store_name": "levtest1",
+    "store_url": "/772311/stores/68915167254",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 18, 2024 at 7:44 pm",
+    "store_name": "levtest1",
+    "store_url": "/772311/stores/68915167254",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD (Test). Subscription ID: 30244470806Open payments"
+  },
+  {
+    "date": "April 18, 2024 at 7:18 pm",
+    "store_name": "levtest1",
+    "store_url": "/772311/stores/68915167254",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD (Test). Subscription ID: 30244470806Open payments"
+  },
+  {
+    "date": "April 18, 2024 at 7:17 pm",
+    "store_name": "levtest1",
+    "store_url": "/772311/stores/68915167254",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 18, 2024 at 7:17 pm",
+    "store_name": "levtest1",
+    "store_url": "/772311/stores/68915167254",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD (Test). Subscription ID: 30244438038Open payments"
+  },
+  {
+    "date": "April 18, 2024 at 7:17 pm",
+    "store_name": "levtest1",
+    "store_url": "/772311/stores/68915167254",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 18, 2024 at 7:17 pm",
+    "store_name": "levtest1",
+    "store_url": "/772311/stores/68915167254",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD (Test). Subscription ID: 30244438038Open payments"
+  },
+  {
+    "date": "April 18, 2024 at 7:16 pm",
+    "store_name": "levtest1",
+    "store_url": "/772311/stores/68915167254",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 18, 2024 at 5:23 pm",
+    "store_name": "Wet Sand Naturals Co",
+    "store_url": "/772311/stores/65120829589",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  }
+]

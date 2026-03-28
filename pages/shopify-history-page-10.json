@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 9, 2025 at 1:40 am",
+    "store_name": "MooseLog",
+    "store_url": "/772311/stores/55192551630",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25611075790Open payments"
+  },
+  {
+    "date": "December 9, 2025 at 1:39 am",
+    "store_name": "MooseLog",
+    "store_url": "/772311/stores/55192551630",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 8, 2025 at 3:55 pm",
+    "store_name": "F4B Diamond Painting",
+    "store_url": "/772311/stores/76440600903",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 57471861063Open payments"
+  },
+  {
+    "date": "December 8, 2025 at 3:55 pm",
+    "store_name": "F4B Diamond Painting",
+    "store_url": "/772311/stores/76440600903",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 8, 2025 at 12:55 pm",
+    "store_name": "Sense-U",
+    "store_url": "/772311/stores/6789169255",
+    "event": "AttentionUninstalled",
+    "event_details": "Expensive or unexpected cost"
+  },
+  {
+    "date": "December 8, 2025 at 12:19 pm",
+    "store_name": "Sense-U",
+    "store_url": "/772311/stores/6789169255",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 7, 2025 at 6:05 pm",
+    "store_name": "Tu Cereza 🍒",
+    "store_url": "/772311/stores/66977202498",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 79848178051Open payments"
+  },
+  {
+    "date": "December 7, 2025 at 6:00 pm",
+    "store_name": "Hoji",
+    "store_url": "/772311/stores/93596025139",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 35629728051Open payments"
+  },
+  {
+    "date": "December 5, 2025 at 10:38 am",
+    "store_name": "LANI SILK",
+    "store_url": "/772311/stores/74192519476",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33672429876Open payments"
+  },
+  {
+    "date": "December 5, 2025 at 10:37 am",
+    "store_name": "LANI SILK",
+    "store_url": "/772311/stores/74192519476",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 5, 2025 at 7:48 am",
+    "store_name": "Hoji",
+    "store_url": "/772311/stores/93596025139",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 5, 2025 at 7:48 am",
+    "store_name": "Hoji",
+    "store_url": "/772311/stores/93596025139",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 35629760819Open payments"
+  },
+  {
+    "date": "December 5, 2025 at 7:43 am",
+    "store_name": "Hoji",
+    "store_url": "/772311/stores/93596025139",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 35629760819Open payments"
+  },
+  {
+    "date": "December 5, 2025 at 7:42 am",
+    "store_name": "Hoji",
+    "store_url": "/772311/stores/93596025139",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 4, 2025 at 12:58 am",
+    "store_name": "from byadgi",
+    "store_url": "/772311/stores/57105154119",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24952242247Open payments"
+  },
+  {
+    "date": "December 3, 2025 at 5:21 pm",
+    "store_name": "from byadgi",
+    "store_url": "/772311/stores/57105154119",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 2, 2025 at 4:30 pm",
+    "store_name": "Dev Store 🏴‍☠️",
+    "store_url": "/772311/stores/65715044396",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27259830316Open payments"
+  },
+  {
+    "date": "December 2, 2025 at 4:29 pm",
+    "store_name": "Dev Store 🏴‍☠️",
+    "store_url": "/772311/stores/65715044396",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 1, 2025 at 1:47 pm",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24717459518Open payments"
+  },
+  {
+    "date": "December 1, 2025 at 12:55 pm",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  }
+]

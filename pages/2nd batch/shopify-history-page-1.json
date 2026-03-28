@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 25, 2026 at 5:35 pm",
+    "store_name": "Primally Pure",
+    "store_url": "/772311/stores/8746120",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28486500522Open payments"
+  },
+  {
+    "date": "March 25, 2026 at 5:35 pm",
+    "store_name": "Primally Pure",
+    "store_url": "/772311/stores/8746120",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 25, 2026 at 9:39 am",
+    "store_name": "STARTFPV",
+    "store_url": "/772311/stores/77184663785",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 25, 2026 at 7:48 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "March 25, 2026 at 7:48 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "March 25, 2026 at 6:11 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "March 25, 2026 at 6:09 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "March 24, 2026 at 11:32 pm",
+    "store_name": "אלרם",
+    "store_url": "/772311/stores/72195408039",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 24, 2026 at 11:32 pm",
+    "store_name": "אלרם",
+    "store_url": "/772311/stores/72195408039",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32482164903Open payments"
+  },
+  {
+    "date": "March 24, 2026 at 11:31 pm",
+    "store_name": "אלרם",
+    "store_url": "/772311/stores/72195408039",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 24, 2026 at 1:11 pm",
+    "store_name": "Bonnet Cosmetic",
+    "store_url": "/772311/stores/69903220790",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "March 24, 2026 at 1:11 pm",
+    "store_name": "Bonnet Cosmetic",
+    "store_url": "/772311/stores/69903220790",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28814147638Open payments"
+  },
+  {
+    "date": "March 24, 2026 at 1:10 pm",
+    "store_name": "Bonnet Cosmetic",
+    "store_url": "/772311/stores/69903220790",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 24, 2026 at 6:01 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "March 24, 2026 at 6:00 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "March 23, 2026 at 5:00 pm",
+    "store_name": "JAC Vapour",
+    "store_url": "/772311/stores/92797075842",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 78533099906Open payments"
+  },
+  {
+    "date": "March 21, 2026 at 1:13 am",
+    "store_name": "Jawahir",
+    "store_url": "/772311/stores/95919374665",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 21, 2026 at 12:32 am",
+    "store_name": "REDACTED",
+    "store_url": "/772311/stores/79921316184",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 20, 2026 at 11:09 pm",
+    "store_name": "JAC Vapour",
+    "store_url": "/772311/stores/92797075842",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 78533165442Open payments"
+  },
+  {
+    "date": "March 20, 2026 at 11:09 pm",
+    "store_name": "JAC Vapour",
+    "store_url": "/772311/stores/92797075842",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 4, 2024 at 4:40 am",
+    "store_name": "BRAND BOA",
+    "store_url": "/772311/stores/83932021076",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 3, 2024 at 8:44 pm",
+    "store_name": "ELEVATEglobal",
+    "store_url": "/772311/stores/84791853386",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 3, 2024 at 8:16 pm",
+    "store_name": "ELEVATEglobal",
+    "store_url": "/772311/stores/84791853386",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 2, 2024 at 6:00 pm",
+    "store_name": "Luxehomezone",
+    "store_url": "/772311/stores/76695830834",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33961148722Open payments"
+  },
+  {
+    "date": "December 2, 2024 at 6:00 pm",
+    "store_name": "Luxehomezone",
+    "store_url": "/772311/stores/76695830834",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33961181490Open payments"
+  },
+  {
+    "date": "December 2, 2024 at 6:00 pm",
+    "store_name": "Luxehomezone",
+    "store_url": "/772311/stores/76695830834",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33961247026Open payments"
+  },
+  {
+    "date": "December 2, 2024 at 6:00 pm",
+    "store_name": "Luxehomezone",
+    "store_url": "/772311/stores/76695830834",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33961312562Open payments"
+  },
+  {
+    "date": "December 2, 2024 at 6:00 pm",
+    "store_name": "Luxehomezone",
+    "store_url": "/772311/stores/76695830834",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33961214258Open payments"
+  },
+  {
+    "date": "December 2, 2024 at 1:43 pm",
+    "store_name": "Ethni Beauty Market",
+    "store_url": "/772311/stores/22620340298",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 37212225878Open payments"
+  },
+  {
+    "date": "December 2, 2024 at 1:39 pm",
+    "store_name": "Ethni Beauty Market",
+    "store_url": "/772311/stores/22620340298",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 30, 2024 at 1:44 pm",
+    "store_name": "Luxehomezone",
+    "store_url": "/772311/stores/76695830834",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 30, 2024 at 1:43 pm",
+    "store_name": "Luxehomezone",
+    "store_url": "/772311/stores/76695830834",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33961279794Open payments"
+  },
+  {
+    "date": "November 30, 2024 at 1:40 pm",
+    "store_name": "Luxehomezone",
+    "store_url": "/772311/stores/76695830834",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 29, 2024 at 6:00 pm",
+    "store_name": "Serene Yards",
+    "store_url": "/772311/stores/68556620031",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29750460671Open payments"
+  },
+  {
+    "date": "November 29, 2024 at 6:00 pm",
+    "store_name": "Serene Yards",
+    "store_url": "/772311/stores/68556620031",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29750395135Open payments"
+  },
+  {
+    "date": "November 29, 2024 at 6:00 pm",
+    "store_name": "Serene Yards",
+    "store_url": "/772311/stores/68556620031",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29750427903Open payments"
+  },
+  {
+    "date": "November 29, 2024 at 6:00 pm",
+    "store_name": "B.WEISS Health",
+    "store_url": "/772311/stores/50765136030",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28012970142Open payments"
+  },
+  {
+    "date": "November 29, 2024 at 6:00 pm",
+    "store_name": "B.WEISS Health",
+    "store_url": "/772311/stores/50765136030",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28012937374Open payments"
+  },
+  {
+    "date": "November 29, 2024 at 6:00 pm",
+    "store_name": "B.WEISS Health",
+    "store_url": "/772311/stores/50765136030",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28012904606Open payments"
+  },
+  {
+    "date": "November 29, 2024 at 12:48 pm",
+    "store_name": "Genetic Labs Australia",
+    "store_url": "/772311/stores/69904138518",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  }
+]

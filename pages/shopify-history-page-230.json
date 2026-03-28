@@ -1,0 +1,142 @@
+[
+  {
+    "date": "May 29, 2023 at 9:55 am",
+    "store_name": "Brews And Ques (NZ)",
+    "store_url": "/772311/stores/65440121091",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 29, 2023 at 9:55 am",
+    "store_name": "Brews And Ques (NZ)",
+    "store_url": "/772311/stores/65440121091",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27551793411Open payments"
+  },
+  {
+    "date": "May 29, 2023 at 8:52 am",
+    "store_name": "Mood Digital",
+    "store_url": "/772311/stores/67819536670",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 29, 2023 at 8:52 am",
+    "store_name": "Mood Digital",
+    "store_url": "/772311/stores/67819536670",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30158553429Open payments"
+  },
+  {
+    "date": "May 29, 2023 at 8:51 am",
+    "store_name": "Mood Digital",
+    "store_url": "/772311/stores/67819536670",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30158553429Open payments"
+  },
+  {
+    "date": "May 29, 2023 at 8:51 am",
+    "store_name": "Mood Digital",
+    "store_url": "/772311/stores/67819536670",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 28, 2023 at 8:44 pm",
+    "store_name": "megamenufun",
+    "store_url": "/772311/stores/76543820076",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 28, 2023 at 8:42 pm",
+    "store_name": "megamenufun",
+    "store_url": "/772311/stores/76543820076",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 28, 2023 at 5:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29409411356Open payments"
+  },
+  {
+    "date": "May 28, 2023 at 5:00 pm",
+    "store_name": "hao_test_111",
+    "store_url": "/772311/stores/76112462101",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29333356821Open payments"
+  },
+  {
+    "date": "May 27, 2023 at 8:04 pm",
+    "store_name": "TRENDY ASPECT LLC",
+    "store_url": "/772311/stores/59207286959",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "May 27, 2023 at 8:04 pm",
+    "store_name": "TRENDY ASPECT LLC",
+    "store_url": "/772311/stores/59207286959",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27428290800Open payments"
+  },
+  {
+    "date": "May 27, 2023 at 5:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29388046620Open payments"
+  },
+  {
+    "date": "May 27, 2023 at 5:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29388275996Open payments"
+  },
+  {
+    "date": "May 27, 2023 at 11:17 am",
+    "store_name": "Bavaria Trachten",
+    "store_url": "/772311/stores/9307160631",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22884810870Open payments"
+  },
+  {
+    "date": "May 27, 2023 at 11:17 am",
+    "store_name": "Bavaria Trachten",
+    "store_url": "/772311/stores/9307160631",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 27, 2023 at 4:29 am",
+    "store_name": "Envision App Testing",
+    "store_url": "/772311/stores/76428771607",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 26, 2023 at 11:05 pm",
+    "store_name": "Pond365",
+    "store_url": "/772311/stores/71548764453",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28410020133Open payments"
+  },
+  {
+    "date": "May 26, 2023 at 5:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29386932508Open payments"
+  },
+  {
+    "date": "May 26, 2023 at 5:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29386572060Open payments"
+  }
+]

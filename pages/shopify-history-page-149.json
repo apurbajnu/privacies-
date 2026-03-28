@@ -1,0 +1,142 @@
+[
+  {
+    "date": "May 18, 2024 at 3:38 pm",
+    "store_name": "ShandaarBuy",
+    "store_url": "/772311/stores/67136651505",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28988145905Open payments"
+  },
+  {
+    "date": "May 18, 2024 at 3:37 pm",
+    "store_name": "ShandaarBuy",
+    "store_url": "/772311/stores/67136651505",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 18, 2024 at 10:32 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31813534011Open payments"
+  },
+  {
+    "date": "May 18, 2024 at 10:32 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "May 18, 2024 at 6:25 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31813534011Open payments"
+  },
+  {
+    "date": "May 18, 2024 at 6:24 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "May 17, 2024 at 7:03 pm",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "May 17, 2024 at 7:03 pm",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "May 17, 2024 at 5:00 pm",
+    "store_name": "KINNLS",
+    "store_url": "/772311/stores/61745365225",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30036394217Open payments"
+  },
+  {
+    "date": "May 17, 2024 at 5:00 pm",
+    "store_name": "KINNLS",
+    "store_url": "/772311/stores/61745365225",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30036361449Open payments"
+  },
+  {
+    "date": "May 17, 2024 at 5:00 pm",
+    "store_name": "KINNLS",
+    "store_url": "/772311/stores/61745365225",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30036426985Open payments"
+  },
+  {
+    "date": "May 17, 2024 at 3:40 pm",
+    "store_name": "Eduyush",
+    "store_url": "/772311/stores/25020727343",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 17, 2024 at 10:41 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/85097414935",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 17, 2024 at 10:41 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/85097414935",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33020379415Open payments"
+  },
+  {
+    "date": "May 17, 2024 at 10:40 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/85097414935",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 16, 2024 at 11:54 pm",
+    "store_name": "Equilibrum",
+    "store_url": "/772311/stores/8985186",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 16, 2024 at 11:54 pm",
+    "store_name": "Equilibrum",
+    "store_url": "/772311/stores/8985186",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26592575685Open payments"
+  },
+  {
+    "date": "May 16, 2024 at 11:53 pm",
+    "store_name": "Equilibrum",
+    "store_url": "/772311/stores/8985186",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 15, 2024 at 1:19 pm",
+    "store_name": "KINNLS",
+    "store_url": "/772311/stores/61745365225",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30036459753Open payments"
+  },
+  {
+    "date": "May 15, 2024 at 1:19 pm",
+    "store_name": "KINNLS",
+    "store_url": "/772311/stores/61745365225",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

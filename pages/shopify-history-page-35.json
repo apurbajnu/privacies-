@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 8, 2025 at 6:27 am",
+    "store_name": "Aliive",
+    "store_url": "/772311/stores/62852792394",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24956862538Open payments"
+  },
+  {
+    "date": "July 8, 2025 at 6:19 am",
+    "store_name": "Aliive",
+    "store_url": "/772311/stores/62852792394",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "July 7, 2025 at 5:57 pm",
+    "store_name": "VisioncarePro: Rx Lens & Frame - Prescription Eye Lens Configurator (PWD: demo)",
+    "store_url": "/772311/stores/84062142755",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 7, 2025 at 5:46 pm",
+    "store_name": "VisioncarePro: Rx Lens & Frame - Prescription Eye Lens Configurator (PWD: demo)",
+    "store_url": "/772311/stores/84062142755",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 7, 2025 at 5:00 pm",
+    "store_name": "Divina Aura",
+    "store_url": "/772311/stores/89571262829",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34601501037Open payments"
+  },
+  {
+    "date": "July 7, 2025 at 6:00 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "July 7, 2025 at 6:00 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "July 6, 2025 at 7:10 pm",
+    "store_name": "Master Nutritional",
+    "store_url": "/772311/stores/76374999319",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 6, 2025 at 7:01 pm",
+    "store_name": "Master Nutritional",
+    "store_url": "/772311/stores/76374999319",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 6, 2025 at 6:52 pm",
+    "store_name": "Master Nutritional",
+    "store_url": "/772311/stores/76374999319",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 6, 2025 at 6:51 pm",
+    "store_name": "Master Nutritional",
+    "store_url": "/772311/stores/76374999319",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 6, 2025 at 3:03 pm",
+    "store_name": "Served by Sammy",
+    "store_url": "/772311/stores/70693847332",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "July 6, 2025 at 3:03 pm",
+    "store_name": "Served by Sammy",
+    "store_url": "/772311/stores/70693847332",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33922122020Open payments"
+  },
+  {
+    "date": "July 3, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Premium - $3.99 USD (Test). Subscription ID: 26055409743Open payments"
+  },
+  {
+    "date": "July 3, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Premium - $3.99 USD (Test). Subscription ID: 26051838031Open payments"
+  },
+  {
+    "date": "July 3, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Premium - $3.99 USD (Test). Subscription ID: 26051903567Open payments"
+  },
+  {
+    "date": "July 3, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Premium - $3.99 USD (Test). Subscription ID: 26052034639Open payments"
+  },
+  {
+    "date": "July 3, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Premium - $3.99 USD (Test). Subscription ID: 26051870799Open payments"
+  },
+  {
+    "date": "July 3, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Premium - $3.99 USD (Test). Subscription ID: 26052001871Open payments"
+  },
+  {
+    "date": "July 3, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Premium - $3.99 USD (Test). Subscription ID: 26051936335Open payments"
+  }
+]

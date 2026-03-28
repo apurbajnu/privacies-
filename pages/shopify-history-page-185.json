@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 27, 2023 at 12:52 pm",
+    "store_name": "Jain Yoga",
+    "store_url": "/772311/stores/4671570049",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 27, 2023 at 11:10 am",
+    "store_name": "Fleshy",
+    "store_url": "/772311/stores/57873793114",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23066738778Open payments"
+  },
+  {
+    "date": "December 27, 2023 at 11:10 am",
+    "store_name": "Fleshy",
+    "store_url": "/772311/stores/57873793114",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 27, 2023 at 5:45 am",
+    "store_name": "Core Growth",
+    "store_url": "/772311/stores/67208577271",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27935441143Open payments"
+  },
+  {
+    "date": "December 27, 2023 at 5:45 am",
+    "store_name": "Core Growth",
+    "store_url": "/772311/stores/67208577271",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 26, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31694029084Open payments"
+  },
+  {
+    "date": "December 25, 2023 at 6:05 pm",
+    "store_name": "АДОРА",
+    "store_url": "/772311/stores/62562664635",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 25, 2023 at 6:00 pm",
+    "store_name": "Blank Room",
+    "store_url": "/772311/stores/55548313903",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31968690479Open payments"
+  },
+  {
+    "date": "December 25, 2023 at 6:00 pm",
+    "store_name": "Blank Room",
+    "store_url": "/772311/stores/55548313903",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31967674671Open payments"
+  },
+  {
+    "date": "December 25, 2023 at 6:00 pm",
+    "store_name": "Blank Room",
+    "store_url": "/772311/stores/55548313903",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31967641903Open payments"
+  },
+  {
+    "date": "December 25, 2023 at 6:00 pm",
+    "store_name": "Blank Room",
+    "store_url": "/772311/stores/55548313903",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31967609135Open payments"
+  },
+  {
+    "date": "December 25, 2023 at 6:00 pm",
+    "store_name": "Blank Room",
+    "store_url": "/772311/stores/55548313903",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31967707439Open payments"
+  },
+  {
+    "date": "December 25, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31692128540Open payments"
+  },
+  {
+    "date": "December 25, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31692194076Open payments"
+  },
+  {
+    "date": "December 25, 2023 at 1:57 pm",
+    "store_name": "Connor Agustin",
+    "store_url": "/772311/stores/27835695192",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23922835544Open payments"
+  },
+  {
+    "date": "December 25, 2023 at 1:57 pm",
+    "store_name": "Connor Agustin",
+    "store_url": "/772311/stores/27835695192",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 25, 2023 at 1:36 pm",
+    "store_name": "Connor Agustin",
+    "store_url": "/772311/stores/27835695192",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23922835544Open payments"
+  },
+  {
+    "date": "December 25, 2023 at 1:33 pm",
+    "store_name": "Connor Agustin",
+    "store_url": "/772311/stores/27835695192",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 24, 2023 at 5:53 pm",
+    "store_name": "L'Amour du plug",
+    "store_url": "/772311/stores/79020523829",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31783289141Open payments"
+  },
+  {
+    "date": "December 24, 2023 at 5:53 pm",
+    "store_name": "L'Amour du plug",
+    "store_url": "/772311/stores/79020523829",
+    "event": "AttentionUninstalled",
+    "event_details": "N’utilise pas l’application pour le moment"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "June 25, 2022 at 5:00 pm",
+    "store_name": "Tallest Tree",
+    "store_url": "/772311/stores/60483010799",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26423230703Open payments"
+  },
+  {
+    "date": "June 22, 2022 at 7:07 pm",
+    "store_name": "Tallest Tree",
+    "store_url": "/772311/stores/60483010799",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 18, 2022 at 2:15 pm",
+    "store_name": "Cambridge",
+    "store_url": "/772311/stores/20344406038",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 23644602390Open payments"
+  },
+  {
+    "date": "June 18, 2022 at 2:15 pm",
+    "store_name": "Cambridge",
+    "store_url": "/772311/stores/20344406038",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $4.99 USD (Test). Subscription ID: 23183622166Open payments"
+  },
+  {
+    "date": "June 14, 2022 at 5:03 pm",
+    "store_name": "UB Group Media",
+    "store_url": "/772311/stores/56393138360",
+    "event": "Subscription charge declined",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25173098680Open payments"
+  },
+  {
+    "date": "June 14, 2022 at 5:02 pm",
+    "store_name": "UB Group Media",
+    "store_url": "/772311/stores/56393138360",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 10, 2022 at 5:00 pm",
+    "store_name": "welzo",
+    "store_url": "/772311/stores/57197527133",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22721888349Open payments"
+  },
+  {
+    "date": "June 8, 2022 at 4:40 pm",
+    "store_name": "Christian Pure",
+    "store_url": "/772311/stores/23478501453",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "June 8, 2022 at 4:38 pm",
+    "store_name": "Christian Pure",
+    "store_url": "/772311/stores/23478501453",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 8, 2022 at 12:44 pm",
+    "store_name": "welzo",
+    "store_url": "/772311/stores/57197527133",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 8, 2022 at 12:43 pm",
+    "store_name": "welzo",
+    "store_url": "/772311/stores/57197527133",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 3, 2022 at 5:04 pm",
+    "store_name": "Ligwijzer.nl",
+    "store_url": "/772311/stores/60691185919",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26498334975Open payments"
+  },
+  {
+    "date": "June 3, 2022 at 5:04 pm",
+    "store_name": "Ligwijzer.nl",
+    "store_url": "/772311/stores/60691185919",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well; see red boxes showing up everywhere, settings are not saved..."
+  },
+  {
+    "date": "June 3, 2022 at 2:18 pm",
+    "store_name": "Ligwijzer.nl",
+    "store_url": "/772311/stores/60691185919",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26498334975Open payments"
+  },
+  {
+    "date": "June 3, 2022 at 2:18 pm",
+    "store_name": "Ligwijzer.nl",
+    "store_url": "/772311/stores/60691185919",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 31, 2022 at 3:40 am",
+    "store_name": "Hardline Nutrition Lebanon",
+    "store_url": "/772311/stores/55075111012",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 26, 2022 at 4:18 am",
+    "store_name": "Dope Dog",
+    "store_url": "/772311/stores/22143103",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27024949475Open payments"
+  },
+  {
+    "date": "May 26, 2022 at 4:17 am",
+    "store_name": "Dope Dog",
+    "store_url": "/772311/stores/22143103",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 24, 2022 at 10:24 pm",
+    "store_name": "vengos",
+    "store_url": "/772311/stores/8597766201",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 24, 2022 at 8:41 pm",
+    "store_name": "Brandico  Official",
+    "store_url": "/772311/stores/57053216883",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  }
+]

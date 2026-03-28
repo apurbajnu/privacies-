@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 15, 2024 at 12:38 pm",
+    "store_name": "Krypto Channel",
+    "store_url": "/772311/stores/83987169627",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32793723227Open payments"
+  },
+  {
+    "date": "August 14, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34056896835Open payments"
+  },
+  {
+    "date": "August 14, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34056929603Open payments"
+  },
+  {
+    "date": "August 14, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34056405315Open payments"
+  },
+  {
+    "date": "August 14, 2024 at 5:00 pm",
+    "store_name": "MAXXUS",
+    "store_url": "/772311/stores/68193026264",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29062201560Open payments"
+  },
+  {
+    "date": "August 14, 2024 at 1:20 pm",
+    "store_name": "EPIC Fishing",
+    "store_url": "/772311/stores/87393501476",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34198421796Open payments"
+  },
+  {
+    "date": "August 14, 2024 at 1:19 pm",
+    "store_name": "EPIC Fishing",
+    "store_url": "/772311/stores/87393501476",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 14, 2024 at 11:35 am",
+    "store_name": "White Horse Coffee",
+    "store_url": "/772311/stores/71654179134",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33141653822Open payments"
+  },
+  {
+    "date": "August 14, 2024 at 11:33 am",
+    "store_name": "White Horse Coffee",
+    "store_url": "/772311/stores/71654179134",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 14, 2024 at 8:59 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31813534011Open payments"
+  },
+  {
+    "date": "August 14, 2024 at 8:58 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "August 14, 2024 at 8:34 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32816890158Open payments"
+  },
+  {
+    "date": "August 14, 2024 at 8:34 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "August 14, 2024 at 7:17 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "August 14, 2024 at 7:17 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32816890158Open payments"
+  },
+  {
+    "date": "August 14, 2024 at 7:15 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31813534011Open payments"
+  },
+  {
+    "date": "August 14, 2024 at 7:15 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "August 14, 2024 at 3:21 am",
+    "store_name": "Pink Mouse Planner Shop",
+    "store_url": "/772311/stores/55228694713",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27673821369Open payments"
+  },
+  {
+    "date": "August 14, 2024 at 3:21 am",
+    "store_name": "Pink Mouse Planner Shop",
+    "store_url": "/772311/stores/55228694713",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features; It wasn't what I was looking for."
+  },
+  {
+    "date": "August 14, 2024 at 3:18 am",
+    "store_name": "Pink Mouse Planner Shop",
+    "store_url": "/772311/stores/55228694713",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27673821369Open payments"
+  }
+]

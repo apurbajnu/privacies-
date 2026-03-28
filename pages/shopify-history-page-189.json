@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 13, 2023 at 1:30 am",
+    "store_name": "rosalieve",
+    "store_url": "/772311/stores/42164060313",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31611421020Open payments"
+  },
+  {
+    "date": "December 13, 2023 at 1:30 am",
+    "store_name": "rosalieve",
+    "store_url": "/772311/stores/42164060313",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 12, 2023 at 11:47 pm",
+    "store_name": "CityLocs",
+    "store_url": "/772311/stores/5196401",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 12, 2023 at 11:47 pm",
+    "store_name": "CityLocs",
+    "store_url": "/772311/stores/5196401",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23270424664Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31609159964Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 6:00 pm",
+    "store_name": "McGuire Diamonds",
+    "store_url": "/772311/stores/20039467108",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31760318804Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 6:00 pm",
+    "store_name": "McGuire Diamonds",
+    "store_url": "/772311/stores/20039467108",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31760351572Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 6:00 pm",
+    "store_name": "McGuire Diamonds",
+    "store_url": "/772311/stores/20039467108",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31760253268Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 6:00 pm",
+    "store_name": "McGuire Diamonds",
+    "store_url": "/772311/stores/20039467108",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31760417108Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 6:00 pm",
+    "store_name": "McGuire Diamonds",
+    "store_url": "/772311/stores/20039467108",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31760384340Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 6:00 pm",
+    "store_name": "McGuire Diamonds",
+    "store_url": "/772311/stores/20039467108",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31760154964Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 6:00 pm",
+    "store_name": "McGuire Diamonds",
+    "store_url": "/772311/stores/20039467108",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31760220500Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 6:00 pm",
+    "store_name": "McGuire Diamonds",
+    "store_url": "/772311/stores/20039467108",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31760187732Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 6:00 pm",
+    "store_name": "McGuire Diamonds",
+    "store_url": "/772311/stores/20039467108",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31760286036Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 6:00 pm",
+    "store_name": "McGuire Diamonds",
+    "store_url": "/772311/stores/20039467108",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31760122196Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 6:05 am",
+    "store_name": "Magnesium Wash",
+    "store_url": "/772311/stores/39665402022",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25776521382Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 6:05 am",
+    "store_name": "Magnesium Wash",
+    "store_url": "/772311/stores/39665402022",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "December 12, 2023 at 2:24 am",
+    "store_name": "XClusiq",
+    "store_url": "/772311/stores/77177585988",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 12, 2023 at 2:24 am",
+    "store_name": "XClusiq",
+    "store_url": "/772311/stores/77177585988",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31639535940Open payments"
+  },
+  {
+    "date": "December 12, 2023 at 2:21 am",
+    "store_name": "XClusiq",
+    "store_url": "/772311/stores/77177585988",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31639535940Open payments"
+  }
+]

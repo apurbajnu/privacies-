@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 2, 2024 at 5:00 pm",
+    "store_name": "Freelancer Files",
+    "store_url": "/772311/stores/88148476220",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32878919996Open payments"
+  },
+  {
+    "date": "July 2, 2024 at 3:03 pm",
+    "store_name": "PitcheroGPS",
+    "store_url": "/772311/stores/55021469901",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31561285837Open payments"
+  },
+  {
+    "date": "July 2, 2024 at 3:03 pm",
+    "store_name": "PitcheroGPS",
+    "store_url": "/772311/stores/55021469901",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "July 2, 2024 at 2:59 pm",
+    "store_name": "PitcheroGPS",
+    "store_url": "/772311/stores/55021469901",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31561285837Open payments"
+  },
+  {
+    "date": "July 2, 2024 at 2:58 pm",
+    "store_name": "PitcheroGPS",
+    "store_url": "/772311/stores/55021469901",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 2, 2024 at 2:44 pm",
+    "store_name": "QUINQO",
+    "store_url": "/772311/stores/88695144786",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33570193746Open payments"
+  },
+  {
+    "date": "July 2, 2024 at 2:36 pm",
+    "store_name": "QUINQO",
+    "store_url": "/772311/stores/88695144786",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 2, 2024 at 2:10 pm",
+    "store_name": "FREEDARESPORT",
+    "store_url": "/772311/stores/27760853053",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23204069437Open payments"
+  },
+  {
+    "date": "July 2, 2024 at 2:10 pm",
+    "store_name": "FREEDARESPORT",
+    "store_url": "/772311/stores/27760853053",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "July 1, 2024 at 11:47 pm",
+    "store_name": "Southern Seeds",
+    "store_url": "/772311/stores/31040503945",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 1, 2024 at 11:47 pm",
+    "store_name": "Southern Seeds",
+    "store_url": "/772311/stores/31040503945",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25390383241Open payments"
+  },
+  {
+    "date": "July 1, 2024 at 11:45 pm",
+    "store_name": "Southern Seeds",
+    "store_url": "/772311/stores/31040503945",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25390383241Open payments"
+  },
+  {
+    "date": "July 1, 2024 at 11:44 pm",
+    "store_name": "Southern Seeds",
+    "store_url": "/772311/stores/31040503945",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 1, 2024 at 8:43 pm",
+    "store_name": "trueCABLE Sand box",
+    "store_url": "/772311/stores/63988695281",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29144285425Open payments"
+  },
+  {
+    "date": "July 1, 2024 at 8:42 pm",
+    "store_name": "trueCABLE Sand box",
+    "store_url": "/772311/stores/63988695281",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 1, 2024 at 8:01 pm",
+    "store_name": "SexiestTattoo",
+    "store_url": "/772311/stores/82429083982",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33332560206Open payments"
+  },
+  {
+    "date": "July 1, 2024 at 8:01 pm",
+    "store_name": "SexiestTattoo",
+    "store_url": "/772311/stores/82429083982",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 1, 2024 at 7:37 pm",
+    "store_name": "SexiestTattoo",
+    "store_url": "/772311/stores/82429083982",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33332560206Open payments"
+  },
+  {
+    "date": "July 1, 2024 at 7:36 pm",
+    "store_name": "SexiestTattoo",
+    "store_url": "/772311/stores/82429083982",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 1, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28665348308Open payments"
+  }
+]

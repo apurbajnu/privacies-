@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 7, 2024 at 6:52 pm",
+    "store_name": "IMZY Moroccan Jewellery",
+    "store_url": "/772311/stores/67223781675",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32406896939Open payments"
+  },
+  {
+    "date": "March 7, 2024 at 5:00 pm",
+    "store_name": "IMZY Moroccan Jewellery",
+    "store_url": "/772311/stores/67223781675",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 6, 2024 at 7:47 pm",
+    "store_name": "NutriSeeds",
+    "store_url": "/772311/stores/17073635",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27010039981Open payments"
+  },
+  {
+    "date": "March 6, 2024 at 7:47 pm",
+    "store_name": "NutriSeeds",
+    "store_url": "/772311/stores/17073635",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 6, 2024 at 7:27 pm",
+    "store_name": "instyle",
+    "store_url": "/772311/stores/62306943162",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 6, 2024 at 7:18 pm",
+    "store_name": "instyle",
+    "store_url": "/772311/stores/62306943162",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27152122042Open payments"
+  },
+  {
+    "date": "March 6, 2024 at 7:17 pm",
+    "store_name": "instyle",
+    "store_url": "/772311/stores/62306943162",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 6, 2024 at 5:28 pm",
+    "store_name": "NutriSeeds",
+    "store_url": "/772311/stores/17073635",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27010039981Open payments"
+  },
+  {
+    "date": "March 6, 2024 at 5:27 pm",
+    "store_name": "NutriSeeds",
+    "store_url": "/772311/stores/17073635",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 5, 2024 at 9:27 am",
+    "store_name": "Haircare Superstore",
+    "store_url": "/772311/stores/8271101999",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23795007555Open payments"
+  },
+  {
+    "date": "March 5, 2024 at 9:27 am",
+    "store_name": "Haircare Superstore",
+    "store_url": "/772311/stores/8271101999",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 5, 2024 at 12:14 am",
+    "store_name": "Poker Chip Lounge",
+    "store_url": "/772311/stores/68724687144",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32219791656Open payments"
+  },
+  {
+    "date": "March 5, 2024 at 12:13 am",
+    "store_name": "Poker Chip Lounge",
+    "store_url": "/772311/stores/68724687144",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 4, 2024 at 4:29 pm",
+    "store_name": "PICSIL SPORT",
+    "store_url": "/772311/stores/60968829140",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 4, 2024 at 4:27 pm",
+    "store_name": "PICSIL SPORT",
+    "store_url": "/772311/stores/60968829140",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 4, 2024 at 4:11 pm",
+    "store_name": "UB Group Media",
+    "store_url": "/772311/stores/56393138360",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "March 1, 2024 at 2:15 am",
+    "store_name": "kindapparelcrew",
+    "store_url": "/772311/stores/58070237367",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26764607671Open payments"
+  },
+  {
+    "date": "March 1, 2024 at 2:14 am",
+    "store_name": "kindapparelcrew",
+    "store_url": "/772311/stores/58070237367",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 29, 2024 at 6:28 pm",
+    "store_name": "Infima Games",
+    "store_url": "/772311/stores/81516200262",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features, Not working or compatible with store"
+  },
+  {
+    "date": "February 29, 2024 at 6:28 pm",
+    "store_name": "Infima Games",
+    "store_url": "/772311/stores/81516200262",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32447562054Open payments"
+  }
+]

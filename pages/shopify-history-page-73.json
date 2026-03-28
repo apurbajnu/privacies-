@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 19, 2024 at 6:00 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/65811382317",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 19, 2024 at 6:00 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/65811382317",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26083852333Open payments"
+  },
+  {
+    "date": "December 19, 2024 at 5:55 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/65811382317",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 18, 2024 at 9:02 pm",
+    "store_name": "Crunchy & Co",
+    "store_url": "/772311/stores/66629763221",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30776361109Open payments"
+  },
+  {
+    "date": "December 18, 2024 at 9:01 pm",
+    "store_name": "Crunchy & Co",
+    "store_url": "/772311/stores/66629763221",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 18, 2024 at 6:19 am",
+    "store_name": "Just Right Reader",
+    "store_url": "/772311/stores/41856630943",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29728932081Open payments"
+  },
+  {
+    "date": "December 18, 2024 at 6:19 am",
+    "store_name": "Just Right Reader",
+    "store_url": "/772311/stores/41856630943",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 18, 2024 at 2:36 am",
+    "store_name": "Tallest Tree",
+    "store_url": "/772311/stores/60483010799",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "December 17, 2024 at 9:08 pm",
+    "store_name": "Shunya Artesanía Natural",
+    "store_url": "/772311/stores/87351656790",
+    "event": "AttentionUninstalled",
+    "event_details": "Costo caro o inesperado"
+  },
+  {
+    "date": "December 17, 2024 at 9:08 pm",
+    "store_name": "Shunya Artesanía Natural",
+    "store_url": "/772311/stores/87351656790",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 38241698134Open payments"
+  },
+  {
+    "date": "December 17, 2024 at 9:06 pm",
+    "store_name": "Shunya Artesanía Natural",
+    "store_url": "/772311/stores/87351656790",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 38241567062Open payments"
+  },
+  {
+    "date": "December 17, 2024 at 9:05 pm",
+    "store_name": "Shunya Artesanía Natural",
+    "store_url": "/772311/stores/87351656790",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 15, 2024 at 9:07 pm",
+    "store_name": "Migraneo",
+    "store_url": "/772311/stores/87660265815",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 43239506263Open payments"
+  },
+  {
+    "date": "December 15, 2024 at 9:07 pm",
+    "store_name": "Migraneo",
+    "store_url": "/772311/stores/87660265815",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 15, 2024 at 8:53 pm",
+    "store_name": "Migraneo",
+    "store_url": "/772311/stores/87660265815",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 43239506263Open payments"
+  },
+  {
+    "date": "December 15, 2024 at 8:48 pm",
+    "store_name": "Migraneo",
+    "store_url": "/772311/stores/87660265815",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 13, 2024 at 6:49 am",
+    "store_name": "Murphy Beds Manitoba",
+    "store_url": "/772311/stores/65483931839",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28742058175Open payments"
+  },
+  {
+    "date": "December 13, 2024 at 6:49 am",
+    "store_name": "Murphy Beds Manitoba",
+    "store_url": "/772311/stores/65483931839",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "December 10, 2024 at 8:56 pm",
+    "store_name": "ARgENTUM",
+    "store_url": "/772311/stores/1530313",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 67952771452Open payments"
+  },
+  {
+    "date": "December 10, 2024 at 8:56 pm",
+    "store_name": "ARgENTUM",
+    "store_url": "/772311/stores/1530313",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

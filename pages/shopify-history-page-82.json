@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 29, 2024 at 7:24 am",
+    "store_name": "Byers Boutique",
+    "store_url": "/772311/stores/17558503524",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "October 29, 2024 at 7:19 am",
+    "store_name": "Vaughn-Jackson 454",
+    "store_url": "/772311/stores/90033422616",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 29, 2024 at 7:19 am",
+    "store_name": "Vaughn-Jackson 454",
+    "store_url": "/772311/stores/90033422616",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 29, 2024 at 6:03 am",
+    "store_name": "Byers Boutique",
+    "store_url": "/772311/stores/17558503524",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27354726584Open payments"
+  },
+  {
+    "date": "October 29, 2024 at 6:03 am",
+    "store_name": "Byers Boutique",
+    "store_url": "/772311/stores/17558503524",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "October 27, 2024 at 5:08 pm",
+    "store_name": "Nanshy",
+    "store_url": "/772311/stores/61991551169",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32127713473Open payments"
+  },
+  {
+    "date": "October 27, 2024 at 5:08 pm",
+    "store_name": "Nanshy",
+    "store_url": "/772311/stores/61991551169",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 27, 2024 at 1:30 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/66530672820",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 25, 2024 at 1:10 pm",
+    "store_name": "YUMA FR",
+    "store_url": "/772311/stores/86379299164",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 24, 2024 at 2:23 am",
+    "store_name": "Lovelygirly",
+    "store_url": "/772311/stores/28509929507",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 23, 2024 at 5:00 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/62289510515",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25358631027Open payments"
+  },
+  {
+    "date": "October 23, 2024 at 5:00 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/62289510515",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25358663795Open payments"
+  },
+  {
+    "date": "October 23, 2024 at 5:00 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/62289510515",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25358598259Open payments"
+  },
+  {
+    "date": "October 23, 2024 at 11:57 am",
+    "store_name": "MAWA Designs",
+    "store_url": "/772311/stores/69487853806",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28591882478Open payments"
+  },
+  {
+    "date": "October 23, 2024 at 11:57 am",
+    "store_name": "MAWA Designs",
+    "store_url": "/772311/stores/69487853806",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "October 23, 2024 at 10:48 am",
+    "store_name": "Golden Essence Australia",
+    "store_url": "/772311/stores/88504467745",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33619149089Open payments"
+  },
+  {
+    "date": "October 23, 2024 at 10:48 am",
+    "store_name": "Golden Essence Australia",
+    "store_url": "/772311/stores/88504467745",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features"
+  },
+  {
+    "date": "October 23, 2024 at 9:42 am",
+    "store_name": "Ibérico Taste",
+    "store_url": "/772311/stores/73462382889",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 23, 2024 at 8:17 am",
+    "store_name": "Golden Essence Australia",
+    "store_url": "/772311/stores/88504467745",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33619149089Open payments"
+  },
+  {
+    "date": "October 23, 2024 at 8:16 am",
+    "store_name": "Golden Essence Australia",
+    "store_url": "/772311/stores/88504467745",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

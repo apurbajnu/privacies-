@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 20, 2026 at 10:05 pm",
+    "store_name": "JAC Vapour",
+    "store_url": "/772311/stores/92797075842",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 78533165442Open payments"
+  },
+  {
+    "date": "March 20, 2026 at 10:02 pm",
+    "store_name": "JAC Vapour",
+    "store_url": "/772311/stores/92797075842",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 20, 2026 at 9:38 pm",
+    "store_name": "REDACTED",
+    "store_url": "/772311/stores/79400567122",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31643664722Open payments"
+  },
+  {
+    "date": "March 20, 2026 at 9:38 pm",
+    "store_name": "REDACTED",
+    "store_url": "/772311/stores/79400567122",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 20, 2026 at 5:00 pm",
+    "store_name": "Manicura24",
+    "store_url": "/772311/stores/88631181626",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 79094088053Open payments"
+  },
+  {
+    "date": "March 20, 2026 at 5:00 pm",
+    "store_name": "Manicura24",
+    "store_url": "/772311/stores/88631181626",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 79094120821Open payments"
+  },
+  {
+    "date": "March 20, 2026 at 5:00 pm",
+    "store_name": "Manicura24",
+    "store_url": "/772311/stores/88631181626",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 79094153589Open payments"
+  },
+  {
+    "date": "March 20, 2026 at 8:50 am",
+    "store_name": "365 Gifty",
+    "store_url": "/772311/stores/97740947777",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 19, 2026 at 2:09 pm",
+    "store_name": "Huge Dildos",
+    "store_url": "/772311/stores/74812948698",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 19, 2026 at 8:32 am",
+    "store_name": "AAAAA",
+    "store_url": "/772311/stores/64822542591",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30586831103Open payments"
+  },
+  {
+    "date": "March 19, 2026 at 8:32 am",
+    "store_name": "AAAAA",
+    "store_url": "/772311/stores/64822542591",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 19, 2026 at 7:39 am",
+    "store_name": "REDACTED",
+    "store_url": "/772311/stores/77050609964",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 19, 2026 at 7:39 am",
+    "store_name": "REDACTED",
+    "store_url": "/772311/stores/77050609964",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31600967980Open payments"
+  },
+  {
+    "date": "March 18, 2026 at 4:18 pm",
+    "store_name": "Manicura24",
+    "store_url": "/772311/stores/88631181626",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 17, 2026 at 5:00 pm",
+    "store_name": "Ekaproeka",
+    "store_url": "/772311/stores/90142376277",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 55616405845Open payments"
+  },
+  {
+    "date": "March 16, 2026 at 11:57 pm",
+    "store_name": "Liftpartner",
+    "store_url": "/772311/stores/92317319492",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 65412956484Open payments"
+  },
+  {
+    "date": "March 16, 2026 at 11:56 pm",
+    "store_name": "Liftpartner",
+    "store_url": "/772311/stores/92317319492",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 65412923716Open payments"
+  },
+  {
+    "date": "March 16, 2026 at 11:55 pm",
+    "store_name": "Liftpartner",
+    "store_url": "/772311/stores/92317319492",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 15, 2026 at 11:46 pm",
+    "store_name": "Séfia",
+    "store_url": "/772311/stores/70301483266",
+    "event": "AttentionUninstalled",
+    "event_details": "Non satisfait(e) de l'assistance"
+  },
+  {
+    "date": "March 14, 2026 at 9:50 pm",
+    "store_name": "Ekaproeka",
+    "store_url": "/772311/stores/90142376277",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

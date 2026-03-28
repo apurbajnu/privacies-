@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 1, 2024 at 12:51 am",
+    "store_name": "RUFUS BFF",
+    "store_url": "/772311/stores/59438399620",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27923841156Open payments"
+  },
+  {
+    "date": "October 1, 2024 at 12:51 am",
+    "store_name": "RUFUS BFF",
+    "store_url": "/772311/stores/59438399620",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 30, 2024 at 9:02 pm",
+    "store_name": "Essembi",
+    "store_url": "/772311/stores/71332987158",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33441251606Open payments"
+  },
+  {
+    "date": "September 30, 2024 at 9:02 pm",
+    "store_name": "Essembi",
+    "store_url": "/772311/stores/71332987158",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 30, 2024 at 4:17 pm",
+    "store_name": "Rafaelle",
+    "store_url": "/772311/stores/57960300732",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28804710632Open payments"
+  },
+  {
+    "date": "September 30, 2024 at 4:17 pm",
+    "store_name": "Rafaelle",
+    "store_url": "/772311/stores/57960300732",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 30, 2024 at 2:35 am",
+    "store_name": "Pump Station & Nurtury",
+    "store_url": "/772311/stores/28084124",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28722987260Open payments"
+  },
+  {
+    "date": "September 30, 2024 at 2:35 am",
+    "store_name": "Pump Station & Nurtury",
+    "store_url": "/772311/stores/28084124",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store, Not satisfied with support; Did not work upon first install; could not fix after reading documentation and troubleshooting.  Reached out to support 2 days ago but haven't heard back. Documentation says that all new installs are automatically reviewd within 48 hrs-but not here."
+  },
+  {
+    "date": "September 29, 2024 at 5:16 pm",
+    "store_name": "RuyaTreasures",
+    "store_url": "/772311/stores/63411323045",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 29, 2024 at 5:00 pm",
+    "store_name": "Human of Impact",
+    "store_url": "/772311/stores/59532116049",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24824643665Open payments"
+  },
+  {
+    "date": "September 29, 2024 at 11:17 am",
+    "store_name": "RuyaTreasures",
+    "store_url": "/772311/stores/63411323045",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 28, 2024 at 11:18 pm",
+    "store_name": "Maglio Cicardini",
+    "store_url": "/772311/stores/59867037773",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24080973901Open payments"
+  },
+  {
+    "date": "September 28, 2024 at 11:17 pm",
+    "store_name": "Maglio Cicardini",
+    "store_url": "/772311/stores/59867037773",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 28, 2024 at 5:00 pm",
+    "store_name": "Couture Alley",
+    "store_url": "/772311/stores/84363084121",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34229518681Open payments"
+  },
+  {
+    "date": "September 27, 2024 at 5:00 pm",
+    "store_name": "Couture Alley",
+    "store_url": "/772311/stores/84363084121",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34220245337Open payments"
+  },
+  {
+    "date": "September 27, 2024 at 5:56 am",
+    "store_name": "Human of Impact",
+    "store_url": "/772311/stores/59532116049",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 27, 2024 at 1:03 am",
+    "store_name": "Pump Station & Nurtury",
+    "store_url": "/772311/stores/28084124",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28722987260Open payments"
+  },
+  {
+    "date": "September 27, 2024 at 1:03 am",
+    "store_name": "Pump Station & Nurtury",
+    "store_url": "/772311/stores/28084124",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 26, 2024 at 5:00 pm",
+    "store_name": "Giunti Staging",
+    "store_url": "/772311/stores/81804525850",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33883423002Open payments"
+  },
+  {
+    "date": "September 26, 2024 at 5:00 pm",
+    "store_name": "Giunti Staging",
+    "store_url": "/772311/stores/81804525850",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33884078362Open payments"
+  }
+]

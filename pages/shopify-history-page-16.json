@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 27, 2025 at 3:42 pm",
+    "store_name": "Dente91",
+    "store_url": "/772311/stores/87855366443",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 27, 2025 at 3:41 pm",
+    "store_name": "Whey91.com",
+    "store_url": "/772311/stores/64952893609",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 27, 2025 at 3:41 pm",
+    "store_name": "Whey91.com",
+    "store_url": "/772311/stores/64952893609",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 27, 2025 at 9:10 am",
+    "store_name": "AD/BC",
+    "store_url": "/772311/stores/70172606685",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31169773789Open payments"
+  },
+  {
+    "date": "October 27, 2025 at 9:00 am",
+    "store_name": "AD/BC",
+    "store_url": "/772311/stores/70172606685",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 26, 2025 at 7:08 am",
+    "store_name": "kingzquill",
+    "store_url": "/772311/stores/78849409315",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 25, 2025 at 1:49 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "October 24, 2025 at 8:28 pm",
+    "store_name": "Uformula",
+    "store_url": "/772311/stores/93917446450",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "October 24, 2025 at 8:23 pm",
+    "store_name": "Uformula",
+    "store_url": "/772311/stores/93917446450",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 24, 2025 at 5:23 pm",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "October 23, 2025 at 7:59 pm",
+    "store_name": "Groove Life",
+    "store_url": "/772311/stores/10111278",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 23, 2025 at 3:33 pm",
+    "store_name": "LACONICUM",
+    "store_url": "/772311/stores/1470592",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 23, 2025 at 3:33 pm",
+    "store_name": "LACONICUM",
+    "store_url": "/772311/stores/1470592",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 49819222364Open payments"
+  },
+  {
+    "date": "October 23, 2025 at 10:53 am",
+    "store_name": "FORBASE Srl - Ingrosso e installazione pannelli fotovoltaici in Italia.",
+    "store_url": "/772311/stores/92596601219",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 23, 2025 at 7:26 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "October 23, 2025 at 7:26 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "October 23, 2025 at 6:05 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "October 23, 2025 at 6:05 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "October 22, 2025 at 7:58 pm",
+    "store_name": "US-C",
+    "store_url": "/772311/stores/62431002739",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 22, 2025 at 7:58 pm",
+    "store_name": "US-C",
+    "store_url": "/772311/stores/62431002739",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD (Test). Subscription ID: 26814152819Open payments"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 29, 2025 at 2:50 pm",
+    "store_name": "PVY E-BIKE",
+    "store_url": "/772311/stores/83537723726",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 27, 2025 at 5:00 pm",
+    "store_name": "dev-dalexhd",
+    "store_url": "/772311/stores/64459505724",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26797146172Open payments"
+  },
+  {
+    "date": "July 27, 2025 at 5:00 pm",
+    "store_name": "dev-dalexhd",
+    "store_url": "/772311/stores/64459505724",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26797178940Open payments"
+  },
+  {
+    "date": "July 27, 2025 at 2:19 pm",
+    "store_name": "lingshuang",
+    "store_url": "/772311/stores/96297255176",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 24, 2025 at 5:41 pm",
+    "store_name": "Tuco Kids",
+    "store_url": "/772311/stores/61999907032",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 24, 2025 at 5:21 pm",
+    "store_name": "dev-dalexhd",
+    "store_url": "/772311/stores/64459505724",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 24, 2025 at 4:09 pm",
+    "store_name": "Dietetica Ferrer",
+    "store_url": "/772311/stores/5390781",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 68419551570Open payments"
+  },
+  {
+    "date": "July 24, 2025 at 4:09 pm",
+    "store_name": "Dietetica Ferrer",
+    "store_url": "/772311/stores/5390781",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 24, 2025 at 4:06 pm",
+    "store_name": "Dietetica Ferrer",
+    "store_url": "/772311/stores/5390781",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 68419551570Open payments"
+  },
+  {
+    "date": "July 24, 2025 at 4:05 pm",
+    "store_name": "Dietetica Ferrer",
+    "store_url": "/772311/stores/5390781",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 24, 2025 at 12:15 pm",
+    "store_name": "WhallPro",
+    "store_url": "/772311/stores/77553041725",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 35692216637Open payments"
+  },
+  {
+    "date": "July 24, 2025 at 12:15 pm",
+    "store_name": "WhallPro",
+    "store_url": "/772311/stores/77553041725",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 24, 2025 at 12:04 pm",
+    "store_name": "WhallPro",
+    "store_url": "/772311/stores/77553041725",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 35692216637Open payments"
+  },
+  {
+    "date": "July 24, 2025 at 12:03 pm",
+    "store_name": "WhallPro",
+    "store_url": "/772311/stores/77553041725",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 23, 2025 at 10:15 am",
+    "store_name": "Ink Defense",
+    "store_url": "/772311/stores/26422575179",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features"
+  },
+  {
+    "date": "July 23, 2025 at 10:15 am",
+    "store_name": "Ink Defense",
+    "store_url": "/772311/stores/26422575179",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34461843730Open payments"
+  },
+  {
+    "date": "July 19, 2025 at 8:12 am",
+    "store_name": "Fizabelle",
+    "store_url": "/772311/stores/70433046713",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 19, 2025 at 8:10 am",
+    "store_name": "Fizabelle",
+    "store_url": "/772311/stores/70433046713",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 18, 2025 at 5:00 pm",
+    "store_name": "MAMAZING",
+    "store_url": "/772311/stores/89530532153",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 63693160761Open payments"
+  },
+  {
+    "date": "July 17, 2025 at 6:13 pm",
+    "store_name": "NCC.health",
+    "store_url": "/772311/stores/28252340277",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

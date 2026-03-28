@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 19, 2024 at 4:50 pm",
+    "store_name": "I Love Wrapper",
+    "store_url": "/772311/stores/71104069890",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 19, 2024 at 2:17 pm",
+    "store_name": "GEMA Shop",
+    "store_url": "/772311/stores/75777966428",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33928675676Open payments"
+  },
+  {
+    "date": "August 19, 2024 at 2:17 pm",
+    "store_name": "GEMA Shop",
+    "store_url": "/772311/stores/75777966428",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 19, 2024 at 2:15 pm",
+    "store_name": "GEMA Shop",
+    "store_url": "/772311/stores/75777966428",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33928675676Open payments"
+  },
+  {
+    "date": "August 19, 2024 at 2:14 pm",
+    "store_name": "GEMA Shop",
+    "store_url": "/772311/stores/75777966428",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 18, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28917661908Open payments"
+  },
+  {
+    "date": "August 18, 2024 at 5:00 pm",
+    "store_name": "MAXXUS",
+    "store_url": "/772311/stores/68193026264",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29078782168Open payments"
+  },
+  {
+    "date": "August 16, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28908912852Open payments"
+  },
+  {
+    "date": "August 16, 2024 at 2:52 pm",
+    "store_name": "POKéINK",
+    "store_url": "/772311/stores/68605542635",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29836640491Open payments"
+  },
+  {
+    "date": "August 16, 2024 at 2:52 pm",
+    "store_name": "POKéINK",
+    "store_url": "/772311/stores/68605542635",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use, Limited or missing features, App security or privacy issues, Not working or compatible with store"
+  },
+  {
+    "date": "August 16, 2024 at 2:50 pm",
+    "store_name": "POKéINK",
+    "store_url": "/772311/stores/68605542635",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29836640491Open payments"
+  },
+  {
+    "date": "August 16, 2024 at 2:49 pm",
+    "store_name": "POKéINK",
+    "store_url": "/772311/stores/68605542635",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 16, 2024 at 4:22 am",
+    "store_name": "Pool Table Universe",
+    "store_url": "/772311/stores/65808007416",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 15, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28903964884Open payments"
+  },
+  {
+    "date": "August 15, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28903833812Open payments"
+  },
+  {
+    "date": "August 15, 2024 at 5:00 pm",
+    "store_name": "diaminyaesthetics",
+    "store_url": "/772311/stores/87177134375",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33959543079Open payments"
+  },
+  {
+    "date": "August 15, 2024 at 5:00 pm",
+    "store_name": "Audio Intensity",
+    "store_url": "/772311/stores/6891389",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24730206297Open payments"
+  },
+  {
+    "date": "August 15, 2024 at 5:00 pm",
+    "store_name": "Audio Intensity",
+    "store_url": "/772311/stores/6891389",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24730107993Open payments"
+  },
+  {
+    "date": "August 15, 2024 at 5:00 pm",
+    "store_name": "EMANI",
+    "store_url": "/772311/stores/20069059",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28834201845Open payments"
+  },
+  {
+    "date": "August 15, 2024 at 12:38 pm",
+    "store_name": "Krypto Channel",
+    "store_url": "/772311/stores/83987169627",
+    "event": "AttentionUninstalled",
+    "event_details": "N’utilise pas l’application pour le moment"
+  }
+]

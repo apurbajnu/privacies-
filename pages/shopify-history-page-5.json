@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 9, 2026 at 1:25 am",
+    "store_name": "Faith Time Art",
+    "store_url": "/772311/stores/88527012210",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 7, 2026 at 3:45 am",
+    "store_name": "AquaBlu Mosaics",
+    "store_url": "/772311/stores/12057108",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 35307553133Open payments"
+  },
+  {
+    "date": "January 7, 2026 at 3:32 am",
+    "store_name": "AquaBlu Mosaics",
+    "store_url": "/772311/stores/12057108",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 6, 2026 at 7:12 pm",
+    "store_name": "Syzjewelry",
+    "store_url": "/772311/stores/37990629514",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28630319242Open payments"
+  },
+  {
+    "date": "January 6, 2026 at 7:11 pm",
+    "store_name": "Syzjewelry",
+    "store_url": "/772311/stores/37990629514",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 5, 2026 at 8:07 pm",
+    "store_name": "Filtrespiscine : Vente de filtres spa et piscine",
+    "store_url": "/772311/stores/91753152856",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 5, 2026 at 7:24 am",
+    "store_name": "オーガニックワインのマヴィ",
+    "store_url": "/772311/stores/97223115050",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 4, 2026 at 12:50 pm",
+    "store_name": "Insitut Euler",
+    "store_url": "/772311/stores/95493456197",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "January 4, 2026 at 4:29 am",
+    "store_name": "Footyb",
+    "store_url": "/772311/stores/64487489731",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 4, 2026 at 1:53 am",
+    "store_name": "Footyb",
+    "store_url": "/772311/stores/64487489731",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27441922243Open payments"
+  },
+  {
+    "date": "January 4, 2026 at 1:52 am",
+    "store_name": "Footyb",
+    "store_url": "/772311/stores/64487489731",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2026 at 8:26 pm",
+    "store_name": "SNUUD",
+    "store_url": "/772311/stores/65875542233",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2026 at 8:23 pm",
+    "store_name": "SNUUD",
+    "store_url": "/772311/stores/65875542233",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2026 at 6:42 pm",
+    "store_name": "Musclesense Nutrition",
+    "store_url": "/772311/stores/94629429513",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 63077155081Open payments"
+  },
+  {
+    "date": "January 3, 2026 at 6:42 pm",
+    "store_name": "Musclesense Nutrition",
+    "store_url": "/772311/stores/94629429513",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2026 at 12:30 pm",
+    "store_name": "Eduyush",
+    "store_url": "/772311/stores/25020727343",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 2, 2026 at 5:17 am",
+    "store_name": "Musclesense Nutrition",
+    "store_url": "/772311/stores/94629429513",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 63077155081Open payments"
+  },
+  {
+    "date": "January 2, 2026 at 5:16 am",
+    "store_name": "Musclesense Nutrition",
+    "store_url": "/772311/stores/94629429513",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 31, 2025 at 3:46 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/65018921075",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 31, 2025 at 3:45 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/65018921075",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27164213363Open payments"
+  }
+]

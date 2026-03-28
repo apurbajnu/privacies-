@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 4, 2025 at 5:06 pm",
+    "store_name": "Blanq Canvas",
+    "store_url": "/772311/stores/82482987350",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "August 4, 2025 at 5:04 pm",
+    "store_name": "Blanq Canvas",
+    "store_url": "/772311/stores/82482987350",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 3, 2025 at 4:07 pm",
+    "store_name": "AIRNEX",
+    "store_url": "/772311/stores/36136845450",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 3, 2025 at 4:06 pm",
+    "store_name": "AIRNEX",
+    "store_url": "/772311/stores/36136845450",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "August 1, 2025 at 5:00 pm",
+    "store_name": "NDL Pro-Health",
+    "store_url": "/772311/stores/79810953507",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 69606900090Open payments"
+  },
+  {
+    "date": "August 1, 2025 at 5:00 pm",
+    "store_name": "NDL Pro-Health",
+    "store_url": "/772311/stores/79810953507",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 69606932858Open payments"
+  },
+  {
+    "date": "August 1, 2025 at 5:00 pm",
+    "store_name": "NDL Pro-Health",
+    "store_url": "/772311/stores/79810953507",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 69607031162Open payments"
+  },
+  {
+    "date": "August 1, 2025 at 5:00 pm",
+    "store_name": "NDL Pro-Health",
+    "store_url": "/772311/stores/79810953507",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 69606998394Open payments"
+  },
+  {
+    "date": "August 1, 2025 at 5:00 pm",
+    "store_name": "NDL Pro-Health",
+    "store_url": "/772311/stores/79810953507",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 69606965626Open payments"
+  },
+  {
+    "date": "August 1, 2025 at 5:00 pm",
+    "store_name": "TMD Locks",
+    "store_url": "/772311/stores/89066832197",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 45805896005Open payments"
+  },
+  {
+    "date": "August 1, 2025 at 4:33 pm",
+    "store_name": "Kathnbenz",
+    "store_url": "/772311/stores/63493308499",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 31, 2025 at 8:35 pm",
+    "store_name": "Divina Aura",
+    "store_url": "/772311/stores/89571262829",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "July 31, 2025 at 7:13 pm",
+    "store_name": "AIRNEX",
+    "store_url": "/772311/stores/36136845450",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 30, 2025 at 7:11 pm",
+    "store_name": "TMD Locks",
+    "store_url": "/772311/stores/89066832197",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 45816578373Open payments"
+  },
+  {
+    "date": "July 30, 2025 at 2:51 pm",
+    "store_name": "NDL Pro-Health",
+    "store_url": "/772311/stores/79810953507",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 69607162234Open payments"
+  },
+  {
+    "date": "July 30, 2025 at 2:30 pm",
+    "store_name": "NDL Pro-Health",
+    "store_url": "/772311/stores/79810953507",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 29, 2025 at 6:46 pm",
+    "store_name": "TMD Locks",
+    "store_url": "/772311/stores/89066832197",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 29, 2025 at 6:44 pm",
+    "store_name": "TMD Locks",
+    "store_url": "/772311/stores/89066832197",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 29, 2025 at 6:39 pm",
+    "store_name": "TMD Locks",
+    "store_url": "/772311/stores/89066832197",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 29, 2025 at 2:50 pm",
+    "store_name": "PVY E-BIKE",
+    "store_url": "/772311/stores/83537723726",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 66475589966Open payments"
+  }
+]

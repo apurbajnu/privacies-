@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 22, 2025 at 7:55 pm",
+    "store_name": "US-C",
+    "store_url": "/772311/stores/62431002739",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD (Test). Subscription ID: 26814152819Open payments"
+  },
+  {
+    "date": "October 22, 2025 at 7:54 pm",
+    "store_name": "US-C",
+    "store_url": "/772311/stores/62431002739",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 22, 2025 at 6:16 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 22, 2025 at 6:16 pm",
+    "store_name": "Flo.Collection",
+    "store_url": "/772311/stores/69185798166",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD (Test). Subscription ID: 36899192854Open payments"
+  },
+  {
+    "date": "October 22, 2025 at 3:39 pm",
+    "store_name": "dynnguyen",
+    "store_url": "/772311/stores/76780175383",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 22, 2025 at 10:15 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/95398265203",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 22, 2025 at 5:20 am",
+    "store_name": "Tent Society",
+    "store_url": "/772311/stores/68924833952",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31107809440Open payments"
+  },
+  {
+    "date": "October 22, 2025 at 5:20 am",
+    "store_name": "Tent Society",
+    "store_url": "/772311/stores/68924833952",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "October 22, 2025 at 5:10 am",
+    "store_name": "Tent Society",
+    "store_url": "/772311/stores/68924833952",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31107809440Open payments"
+  },
+  {
+    "date": "October 22, 2025 at 5:08 am",
+    "store_name": "Tent Society",
+    "store_url": "/772311/stores/68924833952",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 21, 2025 at 8:35 pm",
+    "store_name": "LACONICUM",
+    "store_url": "/772311/stores/1470592",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 49819222364Open payments"
+  },
+  {
+    "date": "October 21, 2025 at 8:34 pm",
+    "store_name": "LACONICUM",
+    "store_url": "/772311/stores/1470592",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 21, 2025 at 1:47 am",
+    "store_name": "NatraCure",
+    "store_url": "/772311/stores/17382335",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 19, 2025 at 7:23 am",
+    "store_name": "Muskratmarketing",
+    "store_url": "/772311/stores/46905622687",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 19, 2025 at 6:57 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/95829164414",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "October 19, 2025 at 4:39 am",
+    "store_name": "Pool Table Universe",
+    "store_url": "/772311/stores/65808007416",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 18, 2025 at 4:55 pm",
+    "store_name": "Roupéz Skidshop",
+    "store_url": "/772311/stores/67903291620",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 69905285498Open payments"
+  },
+  {
+    "date": "October 18, 2025 at 4:55 pm",
+    "store_name": "Roupéz Skidshop",
+    "store_url": "/772311/stores/67903291620",
+    "event": "AttentionUninstalled",
+    "event_details": "Begränsade eller saknade funktioner"
+  },
+  {
+    "date": "October 18, 2025 at 4:50 pm",
+    "store_name": "Roupéz Skidshop",
+    "store_url": "/772311/stores/67903291620",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 69905285498Open payments"
+  },
+  {
+    "date": "October 18, 2025 at 4:49 pm",
+    "store_name": "Roupéz Skidshop",
+    "store_url": "/772311/stores/67903291620",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

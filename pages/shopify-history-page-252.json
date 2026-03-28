@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 10, 2023 at 3:38 pm",
+    "store_name": "HELDENTIER",
+    "store_url": "/772311/stores/55571578934",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 9, 2023 at 9:39 pm",
+    "store_name": "Oukside",
+    "store_url": "/772311/stores/60786737380",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27420721380Open payments"
+  },
+  {
+    "date": "March 9, 2023 at 9:39 pm",
+    "store_name": "Oukside",
+    "store_url": "/772311/stores/60786737380",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 8, 2023 at 6:00 pm",
+    "store_name": "Unbound Crew",
+    "store_url": "/772311/stores/69154341173",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28688187701Open payments"
+  },
+  {
+    "date": "March 8, 2023 at 6:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25771966486Open payments"
+  },
+  {
+    "date": "March 8, 2023 at 6:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25771835414Open payments"
+  },
+  {
+    "date": "March 8, 2023 at 3:09 am",
+    "store_name": "Beauty special touch",
+    "store_url": "/772311/stores/70484459819",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28765815083Open payments"
+  },
+  {
+    "date": "March 8, 2023 at 3:09 am",
+    "store_name": "Beauty special touch",
+    "store_url": "/772311/stores/70484459819",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 8, 2023 at 3:05 am",
+    "store_name": "Beauty special touch",
+    "store_url": "/772311/stores/70484459819",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28765815083Open payments"
+  },
+  {
+    "date": "March 8, 2023 at 3:05 am",
+    "store_name": "Beauty special touch",
+    "store_url": "/772311/stores/70484459819",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 8, 2023 at 2:33 am",
+    "store_name": "Beauty special touch",
+    "store_url": "/772311/stores/70484459819",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28765258027Open payments"
+  },
+  {
+    "date": "March 8, 2023 at 2:33 am",
+    "store_name": "Beauty special touch",
+    "store_url": "/772311/stores/70484459819",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 8, 2023 at 2:04 am",
+    "store_name": "Beauty special touch",
+    "store_url": "/772311/stores/70484459819",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28765258027Open payments"
+  },
+  {
+    "date": "March 8, 2023 at 2:03 am",
+    "store_name": "Beauty special touch",
+    "store_url": "/772311/stores/70484459819",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 7, 2023 at 11:19 pm",
+    "store_name": "Only Love",
+    "store_url": "/772311/stores/61644734644",
+    "event": "AttentionUninstalled",
+    "event_details": "L'application ne vaut pas son prix; After 3 emails and two weeks of waiting, still no answer from the technical team, I strongly advise against it. I have been patient but obviously it is useless"
+  },
+  {
+    "date": "March 7, 2023 at 11:19 pm",
+    "store_name": "Only Love",
+    "store_url": "/772311/stores/61644734644",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28635660601Open payments"
+  },
+  {
+    "date": "March 7, 2023 at 8:20 am",
+    "store_name": "HelenLedCo",
+    "store_url": "/772311/stores/61596500131",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26409664675Open payments"
+  },
+  {
+    "date": "March 7, 2023 at 8:20 am",
+    "store_name": "HelenLedCo",
+    "store_url": "/772311/stores/61596500131",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 6, 2023 at 11:14 pm",
+    "store_name": "PzDeals",
+    "store_url": "/772311/stores/15044320",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28737274171Open payments"
+  },
+  {
+    "date": "March 6, 2023 at 11:14 pm",
+    "store_name": "PzDeals",
+    "store_url": "/772311/stores/15044320",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

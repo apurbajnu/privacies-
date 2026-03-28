@@ -1,0 +1,142 @@
+[
+  {
+    "date": "April 4, 2024 at 3:20 am",
+    "store_name": "thepawplace",
+    "store_url": "/772311/stores/82222121284",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32708362564Open payments"
+  },
+  {
+    "date": "April 4, 2024 at 3:20 am",
+    "store_name": "thepawplace",
+    "store_url": "/772311/stores/82222121284",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 4, 2024 at 3:19 am",
+    "store_name": "thepawplace",
+    "store_url": "/772311/stores/82222121284",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32708362564Open payments"
+  },
+  {
+    "date": "April 4, 2024 at 3:19 am",
+    "store_name": "thepawplace",
+    "store_url": "/772311/stores/82222121284",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 1, 2024 at 6:49 pm",
+    "store_name": "swimmondo2024",
+    "store_url": "/772311/stores/80848978249",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32487047497Open payments"
+  },
+  {
+    "date": "April 1, 2024 at 6:49 pm",
+    "store_name": "swimmondo2024",
+    "store_url": "/772311/stores/80848978249",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 31, 2024 at 5:00 pm",
+    "store_name": "Krypto Channel",
+    "store_url": "/772311/stores/83987169627",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32793624923Open payments"
+  },
+  {
+    "date": "March 31, 2024 at 10:36 am",
+    "store_name": "Health Orchard",
+    "store_url": "/772311/stores/60559458536",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28192440552Open payments"
+  },
+  {
+    "date": "March 31, 2024 at 10:36 am",
+    "store_name": "Health Orchard",
+    "store_url": "/772311/stores/60559458536",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 30, 2024 at 5:56 pm",
+    "store_name": "Krypto Channel",
+    "store_url": "/772311/stores/83987169627",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32793723227Open payments"
+  },
+  {
+    "date": "March 30, 2024 at 5:56 pm",
+    "store_name": "Krypto Channel",
+    "store_url": "/772311/stores/83987169627",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "March 30, 2024 at 6:41 am",
+    "store_name": "Negramoti",
+    "store_url": "/772311/stores/79400567122",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31643664722Open payments"
+  },
+  {
+    "date": "March 30, 2024 at 6:40 am",
+    "store_name": "Negramoti",
+    "store_url": "/772311/stores/79400567122",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "March 29, 2024 at 11:05 am",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "March 29, 2024 at 11:05 am",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27686043863Open payments"
+  },
+  {
+    "date": "March 29, 2024 at 6:17 am",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27686043863Open payments"
+  },
+  {
+    "date": "March 29, 2024 at 6:17 am",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "March 29, 2024 at 4:11 am",
+    "store_name": "K-Tropix",
+    "store_url": "/772311/stores/70518341938",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32366788914Open payments"
+  },
+  {
+    "date": "March 29, 2024 at 4:11 am",
+    "store_name": "K-Tropix",
+    "store_url": "/772311/stores/70518341938",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 28, 2024 at 7:37 pm",
+    "store_name": "Krypto Channel",
+    "store_url": "/772311/stores/83987169627",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32793723227Open payments"
+  }
+]

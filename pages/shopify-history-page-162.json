@@ -1,0 +1,142 @@
+[
+  {
+    "date": "April 10, 2024 at 6:35 pm",
+    "store_name": "Yuma GmbH",
+    "store_url": "/772311/stores/73604071692",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33173176588Open payments"
+  },
+  {
+    "date": "April 10, 2024 at 6:34 pm",
+    "store_name": "Yuma GmbH",
+    "store_url": "/772311/stores/73604071692",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 10, 2024 at 1:15 am",
+    "store_name": "AC Connectors",
+    "store_url": "/772311/stores/14910210",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 7, 2024 at 7:34 pm",
+    "store_name": "Snugkins",
+    "store_url": "/772311/stores/52910227608",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26709426328Open payments"
+  },
+  {
+    "date": "April 7, 2024 at 7:34 pm",
+    "store_name": "Snugkins",
+    "store_url": "/772311/stores/52910227608",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "April 7, 2024 at 11:15 am",
+    "store_name": "Snugkins",
+    "store_url": "/772311/stores/52910227608",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26709426328Open payments"
+  },
+  {
+    "date": "April 7, 2024 at 11:13 am",
+    "store_name": "Snugkins",
+    "store_url": "/772311/stores/52910227608",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 6, 2024 at 5:00 pm",
+    "store_name": "seroun1",
+    "store_url": "/772311/stores/58397917273",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24364843097Open payments"
+  },
+  {
+    "date": "April 6, 2024 at 5:00 pm",
+    "store_name": "seroun1",
+    "store_url": "/772311/stores/58397917273",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24364875865Open payments"
+  },
+  {
+    "date": "April 4, 2024 at 10:24 pm",
+    "store_name": "»Nach Grau kommt Himmelblau«",
+    "store_url": "/772311/stores/76533662042",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "April 4, 2024 at 10:24 pm",
+    "store_name": "»Nach Grau kommt Himmelblau«",
+    "store_url": "/772311/stores/76533662042",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32766984538Open payments"
+  },
+  {
+    "date": "April 4, 2024 at 10:22 pm",
+    "store_name": "»Nach Grau kommt Himmelblau«",
+    "store_url": "/772311/stores/76533662042",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32766984538Open payments"
+  },
+  {
+    "date": "April 4, 2024 at 10:22 pm",
+    "store_name": "»Nach Grau kommt Himmelblau«",
+    "store_url": "/772311/stores/76533662042",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 4, 2024 at 1:41 pm",
+    "store_name": "Energetic Soul Growth",
+    "store_url": "/772311/stores/75447730450",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32334217490Open payments"
+  },
+  {
+    "date": "April 4, 2024 at 1:41 pm",
+    "store_name": "Energetic Soul Growth",
+    "store_url": "/772311/stores/75447730450",
+    "event": "AttentionUninstalled",
+    "event_details": "Not satisfied with support, Hard to set up or use; i cannot use this app. it seems so simple but i cannot for the life with me get it to do what its intended to do. i tried getting accessing to support but even that seems difficult?"
+  },
+  {
+    "date": "April 4, 2024 at 12:53 pm",
+    "store_name": "Energetic Soul Growth",
+    "store_url": "/772311/stores/75447730450",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32334217490Open payments"
+  },
+  {
+    "date": "April 4, 2024 at 12:53 pm",
+    "store_name": "Energetic Soul Growth",
+    "store_url": "/772311/stores/75447730450",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 4, 2024 at 9:54 am",
+    "store_name": "Rown",
+    "store_url": "/772311/stores/67092381950",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28278554878Open payments"
+  },
+  {
+    "date": "April 4, 2024 at 9:54 am",
+    "store_name": "Rown",
+    "store_url": "/772311/stores/67092381950",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 4, 2024 at 9:40 am",
+    "store_name": "seroun1",
+    "store_url": "/772311/stores/58397917273",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

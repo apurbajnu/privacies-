@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 13, 2024 at 6:18 am",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28081225979Open payments"
+  },
+  {
+    "date": "February 13, 2024 at 6:18 am",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "February 13, 2024 at 2:20 am",
+    "store_name": "4EverMolded",
+    "store_url": "/772311/stores/85542830365",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32770031901Open payments"
+  },
+  {
+    "date": "February 13, 2024 at 2:19 am",
+    "store_name": "4EverMolded",
+    "store_url": "/772311/stores/85542830365",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 12, 2024 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31992643868Open payments"
+  },
+  {
+    "date": "February 12, 2024 at 7:04 am",
+    "store_name": "Pink tiful of LOVE",
+    "store_url": "/772311/stores/12462096448",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "February 12, 2024 at 7:04 am",
+    "store_name": "Pink tiful of LOVE",
+    "store_url": "/772311/stores/12462096448",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28959637739Open payments"
+  },
+  {
+    "date": "February 12, 2024 at 7:01 am",
+    "store_name": "Pink tiful of LOVE",
+    "store_url": "/772311/stores/12462096448",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28959637739Open payments"
+  },
+  {
+    "date": "February 12, 2024 at 7:01 am",
+    "store_name": "Pink tiful of LOVE",
+    "store_url": "/772311/stores/12462096448",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 12, 2024 at 6:45 am",
+    "store_name": "My Cabinet of curiosity",
+    "store_url": "/772311/stores/56409849922",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 11, 2024 at 10:23 pm",
+    "store_name": "Slique.co.il",
+    "store_url": "/772311/stores/45328040097",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 11, 2024 at 9:52 pm",
+    "store_name": "Slique.co.il",
+    "store_url": "/772311/stores/45328040097",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 11, 2024 at 2:52 am",
+    "store_name": "Amily Jewels",
+    "store_url": "/772311/stores/77427835158",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31983403286Open payments"
+  },
+  {
+    "date": "February 11, 2024 at 2:52 am",
+    "store_name": "Amily Jewels",
+    "store_url": "/772311/stores/77427835158",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 11, 2024 at 2:28 am",
+    "store_name": "Amily Jewels",
+    "store_url": "/772311/stores/77427835158",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31983403286Open payments"
+  },
+  {
+    "date": "February 11, 2024 at 2:18 am",
+    "store_name": "Amily Jewels",
+    "store_url": "/772311/stores/77427835158",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 10, 2024 at 6:01 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "February 10, 2024 at 6:01 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "February 9, 2024 at 8:07 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28081225979Open payments"
+  },
+  {
+    "date": "February 9, 2024 at 8:07 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  }
+]

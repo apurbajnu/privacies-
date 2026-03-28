@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 17, 2023 at 6:08 pm",
+    "store_name": "rosalieve",
+    "store_url": "/772311/stores/42164060313",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31611421020Open payments"
+  },
+  {
+    "date": "December 17, 2023 at 6:08 pm",
+    "store_name": "rosalieve",
+    "store_url": "/772311/stores/42164060313",
+    "event": "AttentionUninstalled",
+    "event_details": "Fungerar inte eller är inte kompatibel med butiken"
+  },
+  {
+    "date": "December 17, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31646777628Open payments"
+  },
+  {
+    "date": "December 17, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31646810396Open payments"
+  },
+  {
+    "date": "December 17, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31646843164Open payments"
+  },
+  {
+    "date": "December 17, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31646449948Open payments"
+  },
+  {
+    "date": "December 17, 2023 at 5:36 pm",
+    "store_name": "RTS Skincare",
+    "store_url": "/772311/stores/64937132251",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28374499547Open payments"
+  },
+  {
+    "date": "December 17, 2023 at 5:36 pm",
+    "store_name": "RTS Skincare",
+    "store_url": "/772311/stores/64937132251",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 16, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31633572124Open payments"
+  },
+  {
+    "date": "December 16, 2023 at 5:33 pm",
+    "store_name": "Kaiju Care",
+    "store_url": "/772311/stores/61854089411",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25596461251Open payments"
+  },
+  {
+    "date": "December 16, 2023 at 5:32 pm",
+    "store_name": "Kaiju Care",
+    "store_url": "/772311/stores/61854089411",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 15, 2023 at 9:50 pm",
+    "store_name": "Selah Sleep",
+    "store_url": "/772311/stores/81574265153",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 15, 2023 at 5:45 pm",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 14, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31617548572Open payments"
+  },
+  {
+    "date": "December 13, 2023 at 9:33 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28081225979Open payments"
+  },
+  {
+    "date": "December 13, 2023 at 9:32 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 13, 2023 at 6:41 pm",
+    "store_name": "RoyalPeace",
+    "store_url": "/772311/stores/66071101704",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31559123208Open payments"
+  },
+  {
+    "date": "December 13, 2023 at 6:41 pm",
+    "store_name": "RoyalPeace",
+    "store_url": "/772311/stores/66071101704",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 13, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31615549724Open payments"
+  },
+  {
+    "date": "December 13, 2023 at 6:00 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD (Test). Subscription ID: 28401860630Open payments"
+  }
+]

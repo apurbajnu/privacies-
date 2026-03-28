@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 6, 2025 at 10:47 pm",
+    "store_name": "Nan's Original Recipes",
+    "store_url": "/772311/stores/70023708891",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "February 6, 2025 at 10:47 pm",
+    "store_name": "Nan's Original Recipes",
+    "store_url": "/772311/stores/70023708891",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31172624603Open payments"
+  },
+  {
+    "date": "February 6, 2025 at 10:34 pm",
+    "store_name": "Nan's Original Recipes",
+    "store_url": "/772311/stores/70023708891",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31172624603Open payments"
+  },
+  {
+    "date": "February 6, 2025 at 10:34 pm",
+    "store_name": "Nan's Original Recipes",
+    "store_url": "/772311/stores/70023708891",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 6, 2025 at 7:49 pm",
+    "store_name": "Bee Cave Acupuncture",
+    "store_url": "/772311/stores/37404508205",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 6, 2025 at 7:49 pm",
+    "store_name": "Bee Cave Acupuncture",
+    "store_url": "/772311/stores/37404508205",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26249068589Open payments"
+  },
+  {
+    "date": "February 6, 2025 at 7:48 pm",
+    "store_name": "Mommy o' Clock",
+    "store_url": "/772311/stores/50329288853",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 6, 2025 at 7:48 pm",
+    "store_name": "Mommy o' Clock",
+    "store_url": "/772311/stores/50329288853",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28714860693Open payments"
+  },
+  {
+    "date": "February 6, 2025 at 7:48 pm",
+    "store_name": "Bee Cave Acupuncture",
+    "store_url": "/772311/stores/37404508205",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 6, 2025 at 2:12 pm",
+    "store_name": "Deep Ayurveda India",
+    "store_url": "/772311/stores/68404642071",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34432090391Open payments"
+  },
+  {
+    "date": "February 6, 2025 at 2:12 pm",
+    "store_name": "Deep Ayurveda India",
+    "store_url": "/772311/stores/68404642071",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features"
+  },
+  {
+    "date": "February 6, 2025 at 1:49 pm",
+    "store_name": "Deep Ayurveda India",
+    "store_url": "/772311/stores/68404642071",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34432090391Open payments"
+  },
+  {
+    "date": "February 6, 2025 at 1:47 pm",
+    "store_name": "Deep Ayurveda India",
+    "store_url": "/772311/stores/68404642071",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 6, 2025 at 9:47 am",
+    "store_name": "test for hxs",
+    "store_url": "/772311/stores/77831373114",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 6, 2025 at 9:00 am",
+    "store_name": "test for hxs",
+    "store_url": "/772311/stores/77831373114",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 6, 2025 at 3:22 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/90003603780",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 5, 2025 at 11:24 am",
+    "store_name": "Vedaxry-Experience Vedic Luxury",
+    "store_url": "/772311/stores/74034118962",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 5, 2025 at 11:21 am",
+    "store_name": "Vedaxry-Experience Vedic Luxury",
+    "store_url": "/772311/stores/74034118962",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 5, 2025 at 3:04 am",
+    "store_name": "EcoElectronix",
+    "store_url": "/772311/stores/10524040",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25698730099Open payments"
+  },
+  {
+    "date": "February 5, 2025 at 3:04 am",
+    "store_name": "EcoElectronix",
+    "store_url": "/772311/stores/10524040",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

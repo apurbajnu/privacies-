@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 25, 2023 at 6:26 pm",
+    "store_name": "Elevant",
+    "store_url": "/772311/stores/66332754139",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 25, 2023 at 6:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25385369622Open payments"
+  },
+  {
+    "date": "January 25, 2023 at 6:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25384681494Open payments"
+  },
+  {
+    "date": "January 25, 2023 at 12:16 am",
+    "store_name": "Suffolk Candles",
+    "store_url": "/772311/stores/51583287474",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 25, 2023 at 12:16 am",
+    "store_name": "Suffolk Candles",
+    "store_url": "/772311/stores/51583287474",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25583517874Open payments"
+  },
+  {
+    "date": "January 24, 2023 at 10:53 pm",
+    "store_name": "Suffolk Candles",
+    "store_url": "/772311/stores/51583287474",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25583517874Open payments"
+  },
+  {
+    "date": "January 24, 2023 at 10:53 pm",
+    "store_name": "Suffolk Candles",
+    "store_url": "/772311/stores/51583287474",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 24, 2023 at 10:31 pm",
+    "store_name": "Suffolk Candles",
+    "store_url": "/772311/stores/51583287474",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25583419570Open payments"
+  },
+  {
+    "date": "January 24, 2023 at 10:31 pm",
+    "store_name": "Suffolk Candles",
+    "store_url": "/772311/stores/51583287474",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "January 24, 2023 at 10:27 pm",
+    "store_name": "Suffolk Candles",
+    "store_url": "/772311/stores/51583287474",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25583419570Open payments"
+  },
+  {
+    "date": "January 24, 2023 at 10:27 pm",
+    "store_name": "Suffolk Candles",
+    "store_url": "/772311/stores/51583287474",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 24, 2023 at 12:04 pm",
+    "store_name": "私のストア",
+    "store_url": "/772311/stores/71044694311",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28324004135Open payments"
+  },
+  {
+    "date": "January 24, 2023 at 12:03 pm",
+    "store_name": "私のストア",
+    "store_url": "/772311/stores/71044694311",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 24, 2023 at 2:34 am",
+    "store_name": "Yum Yum Mama",
+    "store_url": "/772311/stores/56577097911",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27344896259Open payments"
+  },
+  {
+    "date": "January 24, 2023 at 2:34 am",
+    "store_name": "Yum Yum Mama",
+    "store_url": "/772311/stores/56577097911",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well; Just a red box I see"
+  },
+  {
+    "date": "January 24, 2023 at 2:31 am",
+    "store_name": "Yum Yum Mama",
+    "store_url": "/772311/stores/56577097911",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27344896259Open payments"
+  },
+  {
+    "date": "January 24, 2023 at 2:31 am",
+    "store_name": "Yum Yum Mama",
+    "store_url": "/772311/stores/56577097911",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 23, 2023 at 12:51 am",
+    "store_name": "Level Up Desks",
+    "store_url": "/772311/stores/56594628814",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24189010126Open payments"
+  },
+  {
+    "date": "January 23, 2023 at 12:51 am",
+    "store_name": "Level Up Desks",
+    "store_url": "/772311/stores/56594628814",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 23, 2023 at 12:45 am",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

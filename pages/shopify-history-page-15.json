@@ -1,0 +1,142 @@
+[
+  {
+    "date": "November 3, 2025 at 3:04 pm",
+    "store_name": "Nos Colonnes",
+    "store_url": "/772311/stores/10642096190",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30596595965Open payments"
+  },
+  {
+    "date": "November 3, 2025 at 3:03 pm",
+    "store_name": "Nos Colonnes",
+    "store_url": "/772311/stores/10642096190",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 3, 2025 at 2:59 pm",
+    "store_name": "Healthi-Life Longevity Center",
+    "store_url": "/772311/stores/68100849835",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30029349035Open payments"
+  },
+  {
+    "date": "November 3, 2025 at 2:58 pm",
+    "store_name": "Healthi-Life Longevity Center",
+    "store_url": "/772311/stores/68100849835",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 3, 2025 at 2:07 pm",
+    "store_name": "Dente91",
+    "store_url": "/772311/stores/87855366443",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 1, 2025 at 5:00 pm",
+    "store_name": "Sofa Luz",
+    "store_url": "/772311/stores/91508441428",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 110613135700Open payments"
+  },
+  {
+    "date": "October 31, 2025 at 8:52 pm",
+    "store_name": "Solitss",
+    "store_url": "/772311/stores/84157694297",
+    "event": "AttentionUninstalled",
+    "event_details": "App wird derzeit nicht genutzt"
+  },
+  {
+    "date": "October 30, 2025 at 8:07 am",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24717459518Open payments"
+  },
+  {
+    "date": "October 30, 2025 at 8:07 am",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "October 30, 2025 at 6:31 am",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24717459518Open payments"
+  },
+  {
+    "date": "October 30, 2025 at 6:31 am",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "October 30, 2025 at 12:14 am",
+    "store_name": "Sofa Luz",
+    "store_url": "/772311/stores/91508441428",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 110615724372Open payments"
+  },
+  {
+    "date": "October 29, 2025 at 9:06 pm",
+    "store_name": "Sofa Luz",
+    "store_url": "/772311/stores/91508441428",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 29, 2025 at 5:01 pm",
+    "store_name": "Author Box Demo",
+    "store_url": "/772311/stores/72663236890",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 56515592474Open payments"
+  },
+  {
+    "date": "October 28, 2025 at 9:52 am",
+    "store_name": "Superstate.no",
+    "store_url": "/772311/stores/95563448666",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 56489673050Open payments"
+  },
+  {
+    "date": "October 28, 2025 at 9:52 am",
+    "store_name": "Superstate.no",
+    "store_url": "/772311/stores/95563448666",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "October 28, 2025 at 9:39 am",
+    "store_name": "Superstate.no",
+    "store_url": "/772311/stores/95563448666",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 56489673050Open payments"
+  },
+  {
+    "date": "October 28, 2025 at 9:36 am",
+    "store_name": "Superstate.no",
+    "store_url": "/772311/stores/95563448666",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 28, 2025 at 9:00 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/95398265203",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 27, 2025 at 3:45 pm",
+    "store_name": "Dente91",
+    "store_url": "/772311/stores/87855366443",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

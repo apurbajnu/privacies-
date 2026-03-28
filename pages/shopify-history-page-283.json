@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 9, 2022 at 10:31 am",
+    "store_name": "Éditions Nèg Mawon",
+    "store_url": "/772311/stores/58950516829",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23138173021Open payments"
+  },
+  {
+    "date": "October 9, 2022 at 10:31 am",
+    "store_name": "Éditions Nèg Mawon",
+    "store_url": "/772311/stores/58950516829",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 8, 2022 at 5:46 pm",
+    "store_name": "Lite from Dark",
+    "store_url": "/772311/stores/60884254958",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26588053742Open payments"
+  },
+  {
+    "date": "October 8, 2022 at 5:46 pm",
+    "store_name": "Lite from Dark",
+    "store_url": "/772311/stores/60884254958",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "October 8, 2022 at 5:43 pm",
+    "store_name": "Lite from Dark",
+    "store_url": "/772311/stores/60884254958",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26588053742Open payments"
+  },
+  {
+    "date": "October 8, 2022 at 5:42 pm",
+    "store_name": "Lite from Dark",
+    "store_url": "/772311/stores/60884254958",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 7, 2022 at 8:33 pm",
+    "store_name": "XMARTIAL",
+    "store_url": "/772311/stores/20360199",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26913898660Open payments"
+  },
+  {
+    "date": "October 7, 2022 at 8:32 pm",
+    "store_name": "XMARTIAL",
+    "store_url": "/772311/stores/20360199",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 7, 2022 at 6:22 pm",
+    "store_name": "SpeechGears India",
+    "store_url": "/772311/stores/57458000047",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 7, 2022 at 6:18 pm",
+    "store_name": "SpeechGears India",
+    "store_url": "/772311/stores/57458000047",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 7, 2022 at 5:00 pm",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 23779868728Open payments"
+  },
+  {
+    "date": "October 7, 2022 at 5:00 pm",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 23779901496Open payments"
+  },
+  {
+    "date": "October 7, 2022 at 1:06 pm",
+    "store_name": "The Himalayan Yeti",
+    "store_url": "/772311/stores/55054925872",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 7, 2022 at 1:00 pm",
+    "store_name": "The Himalayan Yeti",
+    "store_url": "/772311/stores/55054925872",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 5, 2022 at 4:58 pm",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 5, 2022 at 4:55 pm",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 4, 2022 at 3:34 pm",
+    "store_name": "Muskratmarketing",
+    "store_url": "/772311/stores/46905622687",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25658228895Open payments"
+  },
+  {
+    "date": "October 4, 2022 at 12:45 pm",
+    "store_name": "ZANVIS",
+    "store_url": "/772311/stores/16541643",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28263678011Open payments"
+  },
+  {
+    "date": "October 4, 2022 at 12:45 pm",
+    "store_name": "ZANVIS",
+    "store_url": "/772311/stores/16541643",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 2, 2022 at 8:47 pm",
+    "store_name": "Muskratmarketing",
+    "store_url": "/772311/stores/46905622687",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  }
+]

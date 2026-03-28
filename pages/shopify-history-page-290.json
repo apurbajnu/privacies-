@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 22, 2022 at 3:18 pm",
+    "store_name": "IMARKU",
+    "store_url": "/772311/stores/56481448141",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "August 22, 2022 at 2:47 pm",
+    "store_name": "IMARKU",
+    "store_url": "/772311/stores/56481448141",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 22, 2022 at 6:56 am",
+    "store_name": "T&H Organics Skin Care",
+    "store_url": "/772311/stores/57441026108",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "August 22, 2022 at 6:56 am",
+    "store_name": "T&H Organics Skin Care",
+    "store_url": "/772311/stores/57441026108",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23160324156Open payments"
+  },
+  {
+    "date": "August 21, 2022 at 1:52 pm",
+    "store_name": "Muskratmarketing",
+    "store_url": "/772311/stores/46905622687",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25658228895Open payments"
+  },
+  {
+    "date": "August 21, 2022 at 1:51 pm",
+    "store_name": "Muskratmarketing",
+    "store_url": "/772311/stores/46905622687",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 20, 2022 at 8:39 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27686043863Open payments"
+  },
+  {
+    "date": "August 20, 2022 at 4:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 20, 2022 at 2:20 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "August 20, 2022 at 1:18 pm",
+    "store_name": "LVBagaholic",
+    "store_url": "/772311/stores/334921742",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26446463234Open payments"
+  },
+  {
+    "date": "August 20, 2022 at 1:18 pm",
+    "store_name": "LVBagaholic",
+    "store_url": "/772311/stores/334921742",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 19, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27668349143Open payments"
+  },
+  {
+    "date": "August 19, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27668414679Open payments"
+  },
+  {
+    "date": "August 19, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27668644055Open payments"
+  },
+  {
+    "date": "August 19, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27668447447Open payments"
+  },
+  {
+    "date": "August 18, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27662090455Open payments"
+  },
+  {
+    "date": "August 18, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27662057687Open payments"
+  },
+  {
+    "date": "August 18, 2022 at 3:47 pm",
+    "store_name": "Boisson CBD d'origine française",
+    "store_url": "/772311/stores/60421144827",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26784858363Open payments"
+  },
+  {
+    "date": "August 18, 2022 at 3:46 pm",
+    "store_name": "Boisson CBD d'origine française",
+    "store_url": "/772311/stores/60421144827",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "August 18, 2022 at 3:07 pm",
+    "store_name": "Boisson CBD d'origine française",
+    "store_url": "/772311/stores/60421144827",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26784858363Open payments"
+  }
+]

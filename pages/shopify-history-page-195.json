@@ -1,0 +1,142 @@
+[
+  {
+    "date": "November 29, 2023 at 6:00 am",
+    "store_name": "Audio Intensity",
+    "store_url": "/772311/stores/6891389",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 29, 2023 at 2:11 am",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 29, 2023 at 2:11 am",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 28, 2023 at 7:07 pm",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 28, 2023 at 7:07 pm",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 28, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31513739548Open payments"
+  },
+  {
+    "date": "November 28, 2023 at 3:29 am",
+    "store_name": "Negramoti",
+    "store_url": "/772311/stores/79400567122",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31643664722Open payments"
+  },
+  {
+    "date": "November 28, 2023 at 3:28 am",
+    "store_name": "Negramoti",
+    "store_url": "/772311/stores/79400567122",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 28, 2023 at 3:25 am",
+    "store_name": "BeBaked",
+    "store_url": "/772311/stores/67105587518",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31528681816Open payments"
+  },
+  {
+    "date": "November 28, 2023 at 3:24 am",
+    "store_name": "BeBaked",
+    "store_url": "/772311/stores/67105587518",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 28, 2023 at 12:13 am",
+    "store_name": "Glamour Gleam",
+    "store_url": "/772311/stores/77050609964",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31600967980Open payments"
+  },
+  {
+    "date": "November 28, 2023 at 12:11 am",
+    "store_name": "Glamour Gleam",
+    "store_url": "/772311/stores/77050609964",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 27, 2023 at 7:14 pm",
+    "store_name": "RIA Eyewear",
+    "store_url": "/772311/stores/25001197647",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28652273899Open payments"
+  },
+  {
+    "date": "November 27, 2023 at 7:14 pm",
+    "store_name": "RIA Eyewear",
+    "store_url": "/772311/stores/25001197647",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use; does not detail at all how to actually implement using the app"
+  },
+  {
+    "date": "November 27, 2023 at 7:06 pm",
+    "store_name": "RIA Eyewear",
+    "store_url": "/772311/stores/25001197647",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28652273899Open payments"
+  },
+  {
+    "date": "November 27, 2023 at 7:05 pm",
+    "store_name": "RIA Eyewear",
+    "store_url": "/772311/stores/25001197647",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 27, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31512396060Open payments"
+  },
+  {
+    "date": "November 27, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31508463900Open payments"
+  },
+  {
+    "date": "November 27, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31508365596Open payments"
+  },
+  {
+    "date": "November 27, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31508431132Open payments"
+  }
+]

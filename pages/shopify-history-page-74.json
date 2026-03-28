@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 10, 2024 at 3:57 pm",
+    "store_name": "ITEDA 國際優才兒童教育協會",
+    "store_url": "/772311/stores/77662912804",
+    "event": "AttentionUninstalled",
+    "event_details": "Expensive or unexpected cost"
+  },
+  {
+    "date": "December 10, 2024 at 3:57 pm",
+    "store_name": "ITEDA 國際優才兒童教育協會",
+    "store_url": "/772311/stores/77662912804",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34870198564Open payments"
+  },
+  {
+    "date": "December 10, 2024 at 3:57 pm",
+    "store_name": "ITEDA 國際優才兒童教育協會",
+    "store_url": "/772311/stores/77662912804",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 10, 2024 at 1:16 pm",
+    "store_name": "MAMAZING",
+    "store_url": "/772311/stores/89530532153",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34460074297Open payments"
+  },
+  {
+    "date": "December 10, 2024 at 1:15 pm",
+    "store_name": "MAMAZING",
+    "store_url": "/772311/stores/89530532153",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 8, 2024 at 4:03 pm",
+    "store_name": "RTS Skincare",
+    "store_url": "/772311/stores/64937132251",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28374499547Open payments"
+  },
+  {
+    "date": "December 8, 2024 at 4:03 pm",
+    "store_name": "RTS Skincare",
+    "store_url": "/772311/stores/64937132251",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "December 8, 2024 at 3:53 pm",
+    "store_name": "RTS Skincare",
+    "store_url": "/772311/stores/64937132251",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "December 7, 2024 at 7:40 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 7, 2024 at 7:40 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 7, 2024 at 12:02 am",
+    "store_name": "Ascension",
+    "store_url": "/772311/stores/11252740",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27090485440Open payments"
+  },
+  {
+    "date": "December 7, 2024 at 12:02 am",
+    "store_name": "Ascension",
+    "store_url": "/772311/stores/11252740",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 6, 2024 at 6:00 pm",
+    "store_name": "ELEVATEglobal",
+    "store_url": "/772311/stores/84791853386",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 50311102794Open payments"
+  },
+  {
+    "date": "December 6, 2024 at 6:00 pm",
+    "store_name": "ELEVATEglobal",
+    "store_url": "/772311/stores/84791853386",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 50310218058Open payments"
+  },
+  {
+    "date": "December 6, 2024 at 6:00 pm",
+    "store_name": "ELEVATEglobal",
+    "store_url": "/772311/stores/84791853386",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 50310185290Open payments"
+  },
+  {
+    "date": "December 4, 2024 at 10:22 pm",
+    "store_name": "DigyKeys",
+    "store_url": "/772311/stores/77888651531",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 38192087307Open payments"
+  },
+  {
+    "date": "December 4, 2024 at 10:22 pm",
+    "store_name": "DigyKeys",
+    "store_url": "/772311/stores/77888651531",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 4, 2024 at 4:47 am",
+    "store_name": "BRAND BOA",
+    "store_url": "/772311/stores/83932021076",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 4, 2024 at 4:47 am",
+    "store_name": "BRAND BOA",
+    "store_url": "/772311/stores/83932021076",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 91958313300Open payments"
+  },
+  {
+    "date": "December 4, 2024 at 4:41 am",
+    "store_name": "BRAND BOA",
+    "store_url": "/772311/stores/83932021076",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 91958313300Open payments"
+  }
+]

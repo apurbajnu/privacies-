@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 3, 2022 at 6:00 pm",
+    "store_name": "Ozers Nutrition",
+    "store_url": "/772311/stores/68338286886",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27910635814Open payments"
+  },
+  {
+    "date": "December 1, 2022 at 6:03 pm",
+    "store_name": "Tsun Dev",
+    "store_url": "/772311/stores/60531671229",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26386399421Open payments"
+  },
+  {
+    "date": "December 1, 2022 at 6:00 pm",
+    "store_name": "offbinary",
+    "store_url": "/772311/stores/50286952621",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25973227693Open payments"
+  },
+  {
+    "date": "December 1, 2022 at 5:47 pm",
+    "store_name": "ZeniComfort",
+    "store_url": "/772311/stores/60207497471",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 1, 2022 at 5:47 pm",
+    "store_name": "ZeniComfort",
+    "store_url": "/772311/stores/60207497471",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27307540735Open payments"
+  },
+  {
+    "date": "December 1, 2022 at 1:36 am",
+    "store_name": "Ozers Nutrition",
+    "store_url": "/772311/stores/68338286886",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27910766886Open payments"
+  },
+  {
+    "date": "December 1, 2022 at 1:29 am",
+    "store_name": "Ozers Nutrition",
+    "store_url": "/772311/stores/68338286886",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 1, 2022 at 12:06 am",
+    "store_name": "ZeniComfort",
+    "store_url": "/772311/stores/60207497471",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27307540735Open payments"
+  },
+  {
+    "date": "December 1, 2022 at 12:05 am",
+    "store_name": "ZeniComfort",
+    "store_url": "/772311/stores/60207497471",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 29, 2022 at 2:46 am",
+    "store_name": "Fitnessbooks.shop",
+    "store_url": "/772311/stores/54994370689",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "November 29, 2022 at 2:46 am",
+    "store_name": "Fitnessbooks.shop",
+    "store_url": "/772311/stores/54994370689",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22126461057Open payments"
+  },
+  {
+    "date": "November 29, 2022 at 2:36 am",
+    "store_name": "Fitnessbooks.shop",
+    "store_url": "/772311/stores/54994370689",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22126461057Open payments"
+  },
+  {
+    "date": "November 29, 2022 at 2:36 am",
+    "store_name": "Fitnessbooks.shop",
+    "store_url": "/772311/stores/54994370689",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 29, 2022 at 1:40 am",
+    "store_name": "offbinary",
+    "store_url": "/772311/stores/50286952621",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25973260461Open payments"
+  },
+  {
+    "date": "November 29, 2022 at 1:39 am",
+    "store_name": "offbinary",
+    "store_url": "/772311/stores/50286952621",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 28, 2022 at 6:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 24801280022Open payments"
+  },
+  {
+    "date": "November 28, 2022 at 9:45 am",
+    "store_name": "Healthy Scam Reviews",
+    "store_url": "/772311/stores/55602020644",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27570045220Open payments"
+  },
+  {
+    "date": "November 28, 2022 at 9:45 am",
+    "store_name": "Healthy Scam Reviews",
+    "store_url": "/772311/stores/55602020644",
+    "event": "AttentionUninstalled",
+    "event_details": "I found a better app"
+  },
+  {
+    "date": "November 26, 2022 at 4:40 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 26, 2022 at 2:44 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "November 25, 2025 at 1:28 pm",
+    "store_name": "2Bluebox",
+    "store_url": "/772311/stores/90553057560",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 36730274072Open payments"
+  },
+  {
+    "date": "November 25, 2025 at 1:27 pm",
+    "store_name": "2Bluebox",
+    "store_url": "/772311/stores/90553057560",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 25, 2025 at 3:34 am",
+    "store_name": "Tobios Kits",
+    "store_url": "/772311/stores/95140512008",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "November 25, 2025 at 3:21 am",
+    "store_name": "Tobios Kits",
+    "store_url": "/772311/stores/95140512008",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 24, 2025 at 9:02 pm",
+    "store_name": "Mahaanss",
+    "store_url": "/772311/stores/60145008695",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 24, 2025 at 6:39 am",
+    "store_name": "REDACTED",
+    "store_url": "/772311/stores/78817820997",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 22, 2025 at 8:10 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "November 22, 2025 at 8:10 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "November 22, 2025 at 8:08 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/95829164414",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 22, 2025 at 6:21 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "November 22, 2025 at 6:21 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "November 21, 2025 at 6:00 pm",
+    "store_name": "Koza Home",
+    "store_url": "/772311/stores/62384373804",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27202486316Open payments"
+  },
+  {
+    "date": "November 20, 2025 at 6:00 pm",
+    "store_name": "Joy Global Inc(1)",
+    "store_url": "/772311/stores/94816731446",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 35616391478Open payments"
+  },
+  {
+    "date": "November 20, 2025 at 6:00 pm",
+    "store_name": "Joy Global Inc(1)",
+    "store_url": "/772311/stores/94816731446",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 35616325942Open payments"
+  },
+  {
+    "date": "November 20, 2025 at 6:00 pm",
+    "store_name": "Joy Global Inc(1)",
+    "store_url": "/772311/stores/94816731446",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 35616358710Open payments"
+  },
+  {
+    "date": "November 20, 2025 at 9:28 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/95829164414",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "November 20, 2025 at 7:41 am",
+    "store_name": "DITO MOBILE",
+    "store_url": "/772311/stores/77705412834",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 20, 2025 at 7:38 am",
+    "store_name": "DITO MOBILE",
+    "store_url": "/772311/stores/77705412834",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 19, 2025 at 6:01 am",
+    "store_name": "Total Gym Store",
+    "store_url": "/772311/stores/68642242857",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "November 18, 2025 at 8:27 pm",
+    "store_name": "Koza Home",
+    "store_url": "/772311/stores/62384373804",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

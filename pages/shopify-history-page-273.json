@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 10, 2022 at 5:19 pm",
+    "store_name": "dandechoisnike",
+    "store_url": "/772311/stores/62423924918",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 8:12 pm",
+    "store_name": "Oukside",
+    "store_url": "/772311/stores/60786737380",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27420721380Open payments"
+  },
+  {
+    "date": "December 9, 2022 at 8:11 pm",
+    "store_name": "Oukside",
+    "store_url": "/772311/stores/60786737380",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 8:06 pm",
+    "store_name": "Oukside",
+    "store_url": "/772311/stores/60786737380",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26888863972Open payments"
+  },
+  {
+    "date": "December 9, 2022 at 8:06 pm",
+    "store_name": "Oukside",
+    "store_url": "/772311/stores/60786737380",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 8:03 pm",
+    "store_name": "Ozers Nutrition",
+    "store_url": "/772311/stores/68338286886",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27910766886Open payments"
+  },
+  {
+    "date": "December 9, 2022 at 8:03 pm",
+    "store_name": "Ozers Nutrition",
+    "store_url": "/772311/stores/68338286886",
+    "event": "AttentionUninstalled",
+    "event_details": "Ne répond pas à mes besoins"
+  },
+  {
+    "date": "December 9, 2022 at 7:29 pm",
+    "store_name": "Easy Table Of content",
+    "store_url": "/772311/stores/62133076025",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 7:29 pm",
+    "store_name": "Easy Table Of content",
+    "store_url": "/772311/stores/62133076025",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 7:24 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 7:24 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 7:22 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 7:22 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 7:13 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 7:13 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 7:09 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 7:08 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 6:33 am",
+    "store_name": "Meervermogen.nl",
+    "store_url": "/772311/stores/62723129533",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25881313469Open payments"
+  },
+  {
+    "date": "December 9, 2022 at 6:33 am",
+    "store_name": "Meervermogen.nl",
+    "store_url": "/772311/stores/62723129533",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 4:54 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

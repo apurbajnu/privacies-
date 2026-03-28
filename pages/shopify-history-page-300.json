@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 8, 2022 at 5:48 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 8, 2022 at 5:48 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 8, 2022 at 5:35 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 8, 2022 at 5:34 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 8, 2022 at 5:34 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 22536290383Open payments"
+  },
+  {
+    "date": "March 3, 2022 at 10:07 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 22536290383Open payments"
+  },
+  {
+    "date": "March 3, 2022 at 10:06 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 3, 2022 at 10:06 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $4.99 USD (Test). Subscription ID: 22430548047Open payments"
+  },
+  {
+    "date": "March 3, 2022 at 10:06 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 11, 2022 at 7:32 pm",
+    "store_name": "sportprotection",
+    "store_url": "/772311/stores/48064168096",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 11, 2022 at 7:32 pm",
+    "store_name": "sportprotection",
+    "store_url": "/772311/stores/48064168096",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $4.99 USD. Subscription ID: 24633770144Open payments"
+  },
+  {
+    "date": "February 11, 2022 at 7:27 pm",
+    "store_name": "sportprotection",
+    "store_url": "/772311/stores/48064168096",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $4.99 USD. Subscription ID: 24633770144Open payments"
+  },
+  {
+    "date": "February 11, 2022 at 7:27 pm",
+    "store_name": "sportprotection",
+    "store_url": "/772311/stores/48064168096",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 21, 2022 at 8:47 pm",
+    "store_name": "appstoretest8",
+    "store_url": "/772311/stores/24819684",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 21, 2022 at 8:46 pm",
+    "store_name": "appstoretest8",
+    "store_url": "/772311/stores/24819684",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 21, 2022 at 8:45 pm",
+    "store_name": "appstoretest8",
+    "store_url": "/772311/stores/24819684",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 21, 2022 at 8:45 pm",
+    "store_name": "appstoretest8",
+    "store_url": "/772311/stores/24819684",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 21, 2022 at 6:00 pm",
+    "store_name": "vengoss",
+    "store_url": "/772311/stores/55743381681",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $4.99 USD. Subscription ID: 24288264369Open payments"
+  },
+  {
+    "date": "January 21, 2022 at 6:00 pm",
+    "store_name": "vengoss",
+    "store_url": "/772311/stores/55743381681",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $4.99 USD. Subscription ID: 24288362673Open payments"
+  },
+  {
+    "date": "January 19, 2022 at 2:52 am",
+    "store_name": "freezekuno",
+    "store_url": "/772311/stores/61313876185",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $4.99 USD (Test). Subscription ID: 26333708505Open payments"
+  }
+]

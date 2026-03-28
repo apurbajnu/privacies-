@@ -1,0 +1,142 @@
+[
+  {
+    "date": "September 1, 2025 at 2:37 am",
+    "store_name": "Learning-Focused",
+    "store_url": "/772311/stores/67914301636",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 30, 2025 at 5:46 pm",
+    "store_name": "Cosco Store India",
+    "store_url": "/772311/stores/57313788079",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "August 30, 2025 at 5:43 pm",
+    "store_name": "Cosco Store India",
+    "store_url": "/772311/stores/57313788079",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 29, 2025 at 2:16 pm",
+    "store_name": "Mother's Earth NL",
+    "store_url": "/772311/stores/76911280466",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "August 29, 2025 at 2:13 pm",
+    "store_name": "Mother's Earth NL",
+    "store_url": "/772311/stores/76911280466",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 27, 2025 at 7:21 am",
+    "store_name": "Cigman",
+    "store_url": "/772311/stores/57573998692",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27021869156Open payments"
+  },
+  {
+    "date": "August 27, 2025 at 7:21 am",
+    "store_name": "Cigman",
+    "store_url": "/772311/stores/57573998692",
+    "event": "AttentionUninstalled",
+    "event_details": "无法正常工作或与商店不兼容, 现在不使用此应用"
+  },
+  {
+    "date": "August 26, 2025 at 10:18 pm",
+    "store_name": "Buy Taiwan Online",
+    "store_url": "/772311/stores/60542222595",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29856989443Open payments"
+  },
+  {
+    "date": "August 26, 2025 at 10:18 pm",
+    "store_name": "Buy Taiwan Online",
+    "store_url": "/772311/stores/60542222595",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "August 22, 2025 at 6:08 am",
+    "store_name": "Frara Perfume",
+    "store_url": "/772311/stores/69937692905",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "August 22, 2025 at 5:09 am",
+    "store_name": "Foodtripto",
+    "store_url": "/772311/stores/71936147686",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30942298342Open payments"
+  },
+  {
+    "date": "August 22, 2025 at 5:09 am",
+    "store_name": "Foodtripto",
+    "store_url": "/772311/stores/71936147686",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 22, 2025 at 1:26 am",
+    "store_name": "Foodtripto",
+    "store_url": "/772311/stores/71936147686",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30942298342Open payments"
+  },
+  {
+    "date": "August 22, 2025 at 1:25 am",
+    "store_name": "Foodtripto",
+    "store_url": "/772311/stores/71936147686",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 20, 2025 at 5:00 pm",
+    "store_name": "sequoialipo",
+    "store_url": "/772311/stores/71458816158",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29230760094Open payments"
+  },
+  {
+    "date": "August 20, 2025 at 5:00 pm",
+    "store_name": "4RunnerMods",
+    "store_url": "/772311/stores/68900749393",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26096828497Open payments"
+  },
+  {
+    "date": "August 20, 2025 at 5:00 pm",
+    "store_name": "4RunnerMods",
+    "store_url": "/772311/stores/68900749393",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26096762961Open payments"
+  },
+  {
+    "date": "August 20, 2025 at 4:05 pm",
+    "store_name": "P É T A L E Z",
+    "store_url": "/772311/stores/91455979829",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 20, 2025 at 4:04 pm",
+    "store_name": "P É T A L E Z",
+    "store_url": "/772311/stores/91455979829",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 19, 2025 at 9:52 pm",
+    "store_name": "KREMEO",
+    "store_url": "/772311/stores/92274655616",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 105647210880Open payments"
+  }
+]

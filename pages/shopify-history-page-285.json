@@ -1,0 +1,142 @@
+[
+  {
+    "date": "September 27, 2022 at 5:00 pm",
+    "store_name": "Balance Coffee",
+    "store_url": "/772311/stores/66085716215",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26753564919Open payments"
+  },
+  {
+    "date": "September 27, 2022 at 5:00 pm",
+    "store_name": "CosMix",
+    "store_url": "/772311/stores/28175073373",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23114055773Open payments"
+  },
+  {
+    "date": "September 27, 2022 at 5:00 pm",
+    "store_name": "CosMix",
+    "store_url": "/772311/stores/28175073373",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23114023005Open payments"
+  },
+  {
+    "date": "September 27, 2022 at 2:02 pm",
+    "store_name": "Go Turkey",
+    "store_url": "/772311/stores/56855199921",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 25, 2022 at 5:00 pm",
+    "store_name": "CosMix",
+    "store_url": "/772311/stores/28175073373",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23110942813Open payments"
+  },
+  {
+    "date": "September 25, 2022 at 5:00 pm",
+    "store_name": "CosMix",
+    "store_url": "/772311/stores/28175073373",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23110484061Open payments"
+  },
+  {
+    "date": "September 25, 2022 at 3:31 pm",
+    "store_name": "Balance Coffee",
+    "store_url": "/772311/stores/66085716215",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26753597687Open payments"
+  },
+  {
+    "date": "September 24, 2022 at 5:58 pm",
+    "store_name": "CosMix",
+    "store_url": "/772311/stores/28175073373",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 23, 2022 at 11:52 pm",
+    "store_name": "SitStay",
+    "store_url": "/772311/stores/8266259",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24900042948Open payments"
+  },
+  {
+    "date": "September 23, 2022 at 11:52 pm",
+    "store_name": "SitStay",
+    "store_url": "/772311/stores/8266259",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "September 23, 2022 at 11:23 pm",
+    "store_name": "SitStay",
+    "store_url": "/772311/stores/8266259",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24900042948Open payments"
+  },
+  {
+    "date": "September 23, 2022 at 11:23 pm",
+    "store_name": "SitStay",
+    "store_url": "/772311/stores/8266259",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 23, 2022 at 3:41 pm",
+    "store_name": "SexJujube",
+    "store_url": "/772311/stores/53595996356",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27074298105Open payments"
+  },
+  {
+    "date": "September 23, 2022 at 3:40 pm",
+    "store_name": "SexJujube",
+    "store_url": "/772311/stores/53595996356",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 23, 2022 at 1:43 pm",
+    "store_name": "CosMix",
+    "store_url": "/772311/stores/28175073373",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2022 at 8:54 pm",
+    "store_name": "АДОРА",
+    "store_url": "/772311/stores/62562664635",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2022 at 6:49 pm",
+    "store_name": "Balance Coffee",
+    "store_url": "/772311/stores/66085716215",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 21, 2022 at 12:27 am",
+    "store_name": "cuboid-marketing",
+    "store_url": "/772311/stores/65342963927",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27839299799Open payments"
+  },
+  {
+    "date": "September 21, 2022 at 12:27 am",
+    "store_name": "cuboid-marketing",
+    "store_url": "/772311/stores/65342963927",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 18, 2022 at 5:00 pm",
+    "store_name": "Easy Table Of content",
+    "store_url": "/772311/stores/62133076025",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23513890873Open payments"
+  }
+]

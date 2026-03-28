@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 26, 2023 at 10:13 am",
+    "store_name": "Golden Leaf Shop",
+    "store_url": "/772311/stores/20918632497",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25616384170Open payments"
+  },
+  {
+    "date": "February 26, 2023 at 10:12 am",
+    "store_name": "Golden Leaf Shop",
+    "store_url": "/772311/stores/20918632497",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 26, 2023 at 10:12 am",
+    "store_name": "Golden Leaf Shop",
+    "store_url": "/772311/stores/20918632497",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 26, 2023 at 10:12 am",
+    "store_name": "Golden Leaf Shop",
+    "store_url": "/772311/stores/20918632497",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25616351402Open payments"
+  },
+  {
+    "date": "February 26, 2023 at 9:47 am",
+    "store_name": "Golden Leaf Shop",
+    "store_url": "/772311/stores/20918632497",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25616351402Open payments"
+  },
+  {
+    "date": "February 26, 2023 at 9:47 am",
+    "store_name": "Golden Leaf Shop",
+    "store_url": "/772311/stores/20918632497",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 26, 2023 at 12:54 am",
+    "store_name": "Sapphic Society",
+    "store_url": "/772311/stores/72383922459",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28609282331Open payments"
+  },
+  {
+    "date": "February 26, 2023 at 12:54 am",
+    "store_name": "Sapphic Society",
+    "store_url": "/772311/stores/72383922459",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 25, 2023 at 9:25 pm",
+    "store_name": "Only Love",
+    "store_url": "/772311/stores/61644734644",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28635660601Open payments"
+  },
+  {
+    "date": "February 25, 2023 at 9:25 pm",
+    "store_name": "Only Love",
+    "store_url": "/772311/stores/61644734644",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 25, 2023 at 6:00 pm",
+    "store_name": "Heads Up For Tails",
+    "store_url": "/772311/stores/8607957054",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22870491198Open payments"
+  },
+  {
+    "date": "February 25, 2023 at 9:14 am",
+    "store_name": "SprintingWorkouts.com | The Sprinting Website",
+    "store_url": "/772311/stores/1544454207",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23229595711Open payments"
+  },
+  {
+    "date": "February 25, 2023 at 9:14 am",
+    "store_name": "SprintingWorkouts.com | The Sprinting Website",
+    "store_url": "/772311/stores/1544454207",
+    "event": "AttentionUninstalled",
+    "event_details": "Other; Settings do not save properly, keeps adding H4 header back in. If there was a way to edit the table of contents text so it is not just copy and pasting the header tags, that would be helpful."
+  },
+  {
+    "date": "February 25, 2023 at 8:03 am",
+    "store_name": "PhotoSpring Inc",
+    "store_url": "/772311/stores/5847974006",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22724673670Open payments"
+  },
+  {
+    "date": "February 25, 2023 at 8:03 am",
+    "store_name": "PhotoSpring Inc",
+    "store_url": "/772311/stores/5847974006",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 24, 2023 at 11:24 pm",
+    "store_name": "SprintingWorkouts.com | The Sprinting Website",
+    "store_url": "/772311/stores/1544454207",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23229595711Open payments"
+  },
+  {
+    "date": "February 24, 2023 at 11:24 pm",
+    "store_name": "SprintingWorkouts.com | The Sprinting Website",
+    "store_url": "/772311/stores/1544454207",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 24, 2023 at 6:24 pm",
+    "store_name": "aalance",
+    "store_url": "/772311/stores/62426284248",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30468342028Open payments"
+  },
+  {
+    "date": "February 24, 2023 at 6:24 pm",
+    "store_name": "aalance",
+    "store_url": "/772311/stores/62426284248",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 24, 2023 at 6:23 pm",
+    "store_name": "Juicefly Alcohol & Vape Delivery",
+    "store_url": "/772311/stores/52373586089",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

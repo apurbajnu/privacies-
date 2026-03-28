@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 29, 2025 at 5:00 pm",
+    "store_name": "TEVERUN SCOOTER",
+    "store_url": "/772311/stores/68431904923",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30007034011Open payments"
+  },
+  {
+    "date": "March 29, 2025 at 5:00 pm",
+    "store_name": "TEVERUN SCOOTER",
+    "store_url": "/772311/stores/68431904923",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30006968475Open payments"
+  },
+  {
+    "date": "March 29, 2025 at 5:00 pm",
+    "store_name": "TEVERUN SCOOTER",
+    "store_url": "/772311/stores/68431904923",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30006902939Open payments"
+  },
+  {
+    "date": "March 29, 2025 at 5:00 pm",
+    "store_name": "TEVERUN SCOOTER",
+    "store_url": "/772311/stores/68431904923",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30006935707Open payments"
+  },
+  {
+    "date": "March 29, 2025 at 2:08 am",
+    "store_name": "Emma Relief",
+    "store_url": "/772311/stores/60922691802",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features; It just didn't work as our devs expected."
+  },
+  {
+    "date": "March 29, 2025 at 2:08 am",
+    "store_name": "Emma Relief",
+    "store_url": "/772311/stores/60922691802",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30607573210Open payments"
+  },
+  {
+    "date": "March 28, 2025 at 9:13 pm",
+    "store_name": "Personal-Prints",
+    "store_url": "/772311/stores/5196157",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 28, 2025 at 9:02 pm",
+    "store_name": "Personal-Prints",
+    "store_url": "/772311/stores/5196157",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 28, 2025 at 5:00 pm",
+    "store_name": "Rangita",
+    "store_url": "/772311/stores/65362264242",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28060516530Open payments"
+  },
+  {
+    "date": "March 28, 2025 at 5:00 pm",
+    "store_name": "Rangita",
+    "store_url": "/772311/stores/65362264242",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28060549298Open payments"
+  },
+  {
+    "date": "March 28, 2025 at 5:00 pm",
+    "store_name": "Rangita",
+    "store_url": "/772311/stores/65362264242",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28060582066Open payments"
+  },
+  {
+    "date": "March 28, 2025 at 6:30 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/90349666676",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34102477172Open payments"
+  },
+  {
+    "date": "March 28, 2025 at 6:30 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/90349666676",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "March 27, 2025 at 10:57 pm",
+    "store_name": "eu.rehband.com",
+    "store_url": "/772311/stores/87035642191",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 44313542991Open payments"
+  },
+  {
+    "date": "March 27, 2025 at 10:57 pm",
+    "store_name": "eu.rehband.com",
+    "store_url": "/772311/stores/87035642191",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 27, 2025 at 9:50 pm",
+    "store_name": "eu.rehband.com",
+    "store_url": "/772311/stores/87035642191",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 44313542991Open payments"
+  },
+  {
+    "date": "March 27, 2025 at 9:49 pm",
+    "store_name": "eu.rehband.com",
+    "store_url": "/772311/stores/87035642191",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 27, 2025 at 8:32 pm",
+    "store_name": "TEVERUN SCOOTER",
+    "store_url": "/772311/stores/68431904923",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 27, 2025 at 7:35 pm",
+    "store_name": "prepmymeal",
+    "store_url": "/772311/stores/33763491884",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 40894169352Open payments"
+  },
+  {
+    "date": "March 27, 2025 at 7:35 pm",
+    "store_name": "prepmymeal",
+    "store_url": "/772311/stores/33763491884",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 15, 2023 at 11:34 am",
+    "store_name": "SarsariCreations",
+    "store_url": "/772311/stores/60669395106",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26027950242Open payments"
+  },
+  {
+    "date": "January 15, 2023 at 11:34 am",
+    "store_name": "SarsariCreations",
+    "store_url": "/772311/stores/60669395106",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not support the Locations feature"
+  },
+  {
+    "date": "January 14, 2023 at 12:50 pm",
+    "store_name": "SarsariCreations",
+    "store_url": "/772311/stores/60669395106",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26027950242Open payments"
+  },
+  {
+    "date": "January 14, 2023 at 12:48 pm",
+    "store_name": "SarsariCreations",
+    "store_url": "/772311/stores/60669395106",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 14, 2023 at 4:02 am",
+    "store_name": "RIFRUF",
+    "store_url": "/772311/stores/41138454681",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26652344473Open payments"
+  },
+  {
+    "date": "January 14, 2023 at 4:00 am",
+    "store_name": "RIFRUF",
+    "store_url": "/772311/stores/41138454681",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 13, 2023 at 6:00 pm",
+    "store_name": "CBI App Store",
+    "store_url": "/772311/stores/65343619319",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27110932727Open payments"
+  },
+  {
+    "date": "January 13, 2023 at 6:00 pm",
+    "store_name": "CBI App Store",
+    "store_url": "/772311/stores/65343619319",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27110965495Open payments"
+  },
+  {
+    "date": "January 13, 2023 at 9:31 am",
+    "store_name": "I Heart Wall Art",
+    "store_url": "/772311/stores/19290325058",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25744638112Open payments"
+  },
+  {
+    "date": "January 13, 2023 at 9:31 am",
+    "store_name": "I Heart Wall Art",
+    "store_url": "/772311/stores/19290325058",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "January 13, 2023 at 9:30 am",
+    "store_name": "I Heart Wall Art",
+    "store_url": "/772311/stores/19290325058",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25744638112Open payments"
+  },
+  {
+    "date": "January 13, 2023 at 9:29 am",
+    "store_name": "I Heart Wall Art",
+    "store_url": "/772311/stores/19290325058",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 12, 2023 at 8:10 pm",
+    "store_name": "GUYA - Guayusa GmbH",
+    "store_url": "/772311/stores/1219526721",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29855056140Open payments"
+  },
+  {
+    "date": "January 12, 2023 at 8:10 pm",
+    "store_name": "GUYA - Guayusa GmbH",
+    "store_url": "/772311/stores/1219526721",
+    "event": "AttentionUninstalled",
+    "event_details": "Entspricht nicht meinen Bedürfnissen"
+  },
+  {
+    "date": "January 12, 2023 at 8:00 pm",
+    "store_name": "GUYA - Guayusa GmbH",
+    "store_url": "/772311/stores/1219526721",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29855056140Open payments"
+  },
+  {
+    "date": "January 12, 2023 at 7:59 pm",
+    "store_name": "GUYA - Guayusa GmbH",
+    "store_url": "/772311/stores/1219526721",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 11, 2023 at 6:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25201246230Open payments"
+  },
+  {
+    "date": "January 11, 2023 at 1:56 pm",
+    "store_name": "CBI App Store",
+    "store_url": "/772311/stores/65343619319",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 11, 2023 at 1:55 pm",
+    "store_name": "CBI App Store",
+    "store_url": "/772311/stores/65343619319",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 11, 2023 at 5:59 am",
+    "store_name": "vomeragro",
+    "store_url": "/772311/stores/55436378196",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22612213844Open payments"
+  }
+]

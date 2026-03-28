@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 26, 2025 at 11:50 am",
+    "store_name": "Rangita",
+    "store_url": "/772311/stores/65362264242",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 26, 2025 at 6:05 am",
+    "store_name": "Fasciite plantaire",
+    "store_url": "/772311/stores/92925362505",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 40061600073Open payments"
+  },
+  {
+    "date": "March 24, 2025 at 1:49 pm",
+    "store_name": "qinbanliang",
+    "store_url": "/772311/stores/75326849243",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 24, 2025 at 1:35 am",
+    "store_name": "Steireif eShop",
+    "store_url": "/772311/stores/93680304474",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 24, 2025 at 1:31 am",
+    "store_name": "Steireif eShop",
+    "store_url": "/772311/stores/93680304474",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 23, 2025 at 5:16 pm",
+    "store_name": "Heavenly Heat Saunas",
+    "store_url": "/772311/stores/90163347735",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34472427799Open payments"
+  },
+  {
+    "date": "March 23, 2025 at 5:16 pm",
+    "store_name": "Heavenly Heat Saunas",
+    "store_url": "/772311/stores/90163347735",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now; please cancel subscription"
+  },
+  {
+    "date": "March 23, 2025 at 5:00 pm",
+    "store_name": "Shondo thương hiệu giày dép thoải mái và xu hướng của giới trẻ",
+    "store_url": "/772311/stores/92755132718",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34455879982Open payments"
+  },
+  {
+    "date": "March 23, 2025 at 5:00 pm",
+    "store_name": "Shondo thương hiệu giày dép thoải mái và xu hướng của giới trẻ",
+    "store_url": "/772311/stores/92755132718",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34455683374Open payments"
+  },
+  {
+    "date": "March 23, 2025 at 5:00 pm",
+    "store_name": "Shondo thương hiệu giày dép thoải mái và xu hướng của giới trẻ",
+    "store_url": "/772311/stores/92755132718",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34455748910Open payments"
+  },
+  {
+    "date": "March 23, 2025 at 5:00 pm",
+    "store_name": "Shondo thương hiệu giày dép thoải mái và xu hướng của giới trẻ",
+    "store_url": "/772311/stores/92755132718",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34455716142Open payments"
+  },
+  {
+    "date": "March 23, 2025 at 5:00 pm",
+    "store_name": "Shondo thương hiệu giày dép thoải mái và xu hướng của giới trẻ",
+    "store_url": "/772311/stores/92755132718",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34455781678Open payments"
+  },
+  {
+    "date": "March 23, 2025 at 5:00 pm",
+    "store_name": "Shondo thương hiệu giày dép thoải mái và xu hướng của giới trẻ",
+    "store_url": "/772311/stores/92755132718",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34455847214Open payments"
+  },
+  {
+    "date": "March 23, 2025 at 5:00 pm",
+    "store_name": "Shondo thương hiệu giày dép thoải mái và xu hướng của giới trẻ",
+    "store_url": "/772311/stores/92755132718",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34455814446Open payments"
+  },
+  {
+    "date": "March 23, 2025 at 5:00 pm",
+    "store_name": "Shondo thương hiệu giày dép thoải mái và xu hướng của giới trẻ",
+    "store_url": "/772311/stores/92755132718",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34455650606Open payments"
+  },
+  {
+    "date": "March 22, 2025 at 3:31 pm",
+    "store_name": "MAWA Designs",
+    "store_url": "/772311/stores/69487853806",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28591882478Open payments"
+  },
+  {
+    "date": "March 22, 2025 at 3:30 pm",
+    "store_name": "MAWA Designs",
+    "store_url": "/772311/stores/69487853806",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "March 22, 2025 at 6:40 am",
+    "store_name": "MAWA Designs",
+    "store_url": "/772311/stores/69487853806",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28591882478Open payments"
+  },
+  {
+    "date": "March 22, 2025 at 6:40 am",
+    "store_name": "MAWA Designs",
+    "store_url": "/772311/stores/69487853806",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "March 21, 2025 at 5:00 pm",
+    "store_name": "Shondo thương hiệu giày dép thoải mái và xu hướng của giới trẻ",
+    "store_url": "/772311/stores/92755132718",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34444411182Open payments"
+  }
+]

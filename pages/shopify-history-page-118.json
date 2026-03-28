@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 8, 2024 at 5:00 pm",
+    "store_name": "FITNESSKIT GmbH",
+    "store_url": "/772311/stores/45186482330",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34188755212Open payments"
+  },
+  {
+    "date": "August 8, 2024 at 5:00 pm",
+    "store_name": "FITNESSKIT GmbH",
+    "store_url": "/772311/stores/45186482330",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34188591372Open payments"
+  },
+  {
+    "date": "August 8, 2024 at 5:00 pm",
+    "store_name": "FITNESSKIT GmbH",
+    "store_url": "/772311/stores/45186482330",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34188689676Open payments"
+  },
+  {
+    "date": "August 8, 2024 at 5:00 pm",
+    "store_name": "FITNESSKIT GmbH",
+    "store_url": "/772311/stores/45186482330",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34188624140Open payments"
+  },
+  {
+    "date": "August 8, 2024 at 5:00 pm",
+    "store_name": "FITNESSKIT GmbH",
+    "store_url": "/772311/stores/45186482330",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34189279500Open payments"
+  },
+  {
+    "date": "August 8, 2024 at 5:00 pm",
+    "store_name": "FITNESSKIT GmbH",
+    "store_url": "/772311/stores/45186482330",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34188361996Open payments"
+  },
+  {
+    "date": "August 8, 2024 at 5:00 pm",
+    "store_name": "FITNESSKIT GmbH",
+    "store_url": "/772311/stores/45186482330",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34188329228Open payments"
+  },
+  {
+    "date": "August 8, 2024 at 3:56 pm",
+    "store_name": "Audio Intensity",
+    "store_url": "/772311/stores/6891389",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features"
+  },
+  {
+    "date": "August 8, 2024 at 3:55 pm",
+    "store_name": "Audio Intensity",
+    "store_url": "/772311/stores/6891389",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 8, 2024 at 4:13 am",
+    "store_name": "enamslocs.com",
+    "store_url": "/772311/stores/53287125191",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27109064903Open payments"
+  },
+  {
+    "date": "August 8, 2024 at 4:12 am",
+    "store_name": "enamslocs.com",
+    "store_url": "/772311/stores/53287125191",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 7, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28869132500Open payments"
+  },
+  {
+    "date": "August 7, 2024 at 5:57 am",
+    "store_name": "Gorilla Sports Schweiz",
+    "store_url": "/772311/stores/64679444671",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "August 6, 2024 at 11:49 pm",
+    "store_name": "Ibérico Taste",
+    "store_url": "/772311/stores/73462382889",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 6, 2024 at 11:00 pm",
+    "store_name": "EMANI",
+    "store_url": "/772311/stores/20069059",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 6, 2024 at 9:09 pm",
+    "store_name": "Giunti Staging",
+    "store_url": "/772311/stores/81804525850",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 5, 2024 at 7:19 pm",
+    "store_name": "FITNESSKIT GmbH",
+    "store_url": "/772311/stores/45186482330",
+    "event": "AttentionUninstalled",
+    "event_details": "App wird jetzt nicht verwendet"
+  },
+  {
+    "date": "August 5, 2024 at 5:39 pm",
+    "store_name": "FITNESSKIT GmbH",
+    "store_url": "/772311/stores/45186482330",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 5, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28858384596Open payments"
+  },
+  {
+    "date": "August 5, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33946075459Open payments"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 17, 2024 at 7:15 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31813534011Open payments"
+  },
+  {
+    "date": "July 17, 2024 at 7:15 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "July 16, 2024 at 9:08 pm",
+    "store_name": "Yonder",
+    "store_url": "/772311/stores/25237061695",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24139497535Open payments"
+  },
+  {
+    "date": "July 16, 2024 at 9:08 pm",
+    "store_name": "Yonder",
+    "store_url": "/772311/stores/25237061695",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 16, 2024 at 5:34 pm",
+    "store_name": "Milk Depot Inc.",
+    "store_url": "/772311/stores/58454212689",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24576327761Open payments"
+  },
+  {
+    "date": "July 16, 2024 at 5:33 pm",
+    "store_name": "Milk Depot Inc.",
+    "store_url": "/772311/stores/58454212689",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 16, 2024 at 6:01 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "July 16, 2024 at 6:01 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "July 15, 2024 at 1:55 pm",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features"
+  },
+  {
+    "date": "July 15, 2024 at 1:55 pm",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23029448800Open payments"
+  },
+  {
+    "date": "July 14, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28738748628Open payments"
+  },
+  {
+    "date": "July 14, 2024 at 5:00 pm",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23029252192Open payments"
+  },
+  {
+    "date": "July 14, 2024 at 5:00 pm",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23029514336Open payments"
+  },
+  {
+    "date": "July 14, 2024 at 5:00 pm",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23029317728Open payments"
+  },
+  {
+    "date": "July 14, 2024 at 5:00 pm",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23029416032Open payments"
+  },
+  {
+    "date": "July 14, 2024 at 5:00 pm",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23029579872Open payments"
+  },
+  {
+    "date": "July 14, 2024 at 5:00 pm",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23029383264Open payments"
+  },
+  {
+    "date": "July 14, 2024 at 5:00 pm",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23029547104Open payments"
+  },
+  {
+    "date": "July 14, 2024 at 5:00 pm",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23029284960Open payments"
+  },
+  {
+    "date": "July 14, 2024 at 5:00 pm",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23029350496Open payments"
+  }
+]

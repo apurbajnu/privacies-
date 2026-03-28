@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 21, 2025 at 2:22 pm",
+    "store_name": "Shondo thương hiệu giày dép thoải mái và xu hướng của giới trẻ",
+    "store_url": "/772311/stores/92755132718",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34455912750Open payments"
+  },
+  {
+    "date": "March 19, 2025 at 2:05 pm",
+    "store_name": "Solar and Wind",
+    "store_url": "/772311/stores/64401899574",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "March 19, 2025 at 12:21 pm",
+    "store_name": "Shondo thương hiệu giày dép thoải mái và xu hướng của giới trẻ",
+    "store_url": "/772311/stores/92755132718",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 19, 2025 at 12:19 pm",
+    "store_name": "MARICERA",
+    "store_url": "/772311/stores/82074173759",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 37625364799Open payments"
+  },
+  {
+    "date": "March 19, 2025 at 12:19 pm",
+    "store_name": "MARICERA",
+    "store_url": "/772311/stores/82074173759",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "March 19, 2025 at 9:20 am",
+    "store_name": "Universal AV Solutions",
+    "store_url": "/772311/stores/91013251356",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "March 19, 2025 at 9:18 am",
+    "store_name": "SIMBA Shower Screen Seal",
+    "store_url": "/772311/stores/74671358205",
+    "event": "AttentionUninstalled",
+    "event_details": "不适用于商店或与商店不兼容"
+  },
+  {
+    "date": "March 19, 2025 at 9:18 am",
+    "store_name": "SIMBA Shower Screen Seal",
+    "store_url": "/772311/stores/74671358205",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29740105981Open payments"
+  },
+  {
+    "date": "March 19, 2025 at 9:08 am",
+    "store_name": "SIMBA Shower Screen Seal",
+    "store_url": "/772311/stores/74671358205",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29740105981Open payments"
+  },
+  {
+    "date": "March 19, 2025 at 9:08 am",
+    "store_name": "SIMBA Shower Screen Seal",
+    "store_url": "/772311/stores/74671358205",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 19, 2025 at 1:50 am",
+    "store_name": "Solar and Wind",
+    "store_url": "/772311/stores/64401899574",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "March 18, 2025 at 9:56 pm",
+    "store_name": "Emma Relief",
+    "store_url": "/772311/stores/60922691802",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30607573210Open payments"
+  },
+  {
+    "date": "March 18, 2025 at 9:56 pm",
+    "store_name": "Emma Relief",
+    "store_url": "/772311/stores/60922691802",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 18, 2025 at 5:00 pm",
+    "store_name": "ThermoGadzety",
+    "store_url": "/772311/stores/90833551740",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 68581818748Open payments"
+  },
+  {
+    "date": "March 18, 2025 at 4:16 pm",
+    "store_name": "Kailop.de",
+    "store_url": "/772311/stores/88425857370",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 54591357274Open payments"
+  },
+  {
+    "date": "March 18, 2025 at 4:15 pm",
+    "store_name": "Kailop.de",
+    "store_url": "/772311/stores/88425857370",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 17, 2025 at 7:56 pm",
+    "store_name": "Edmon Descanso",
+    "store_url": "/772311/stores/66877128958",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30190895358Open payments"
+  },
+  {
+    "date": "March 17, 2025 at 7:56 pm",
+    "store_name": "Edmon Descanso",
+    "store_url": "/772311/stores/66877128958",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 17, 2025 at 7:41 pm",
+    "store_name": "Edmon Descanso",
+    "store_url": "/772311/stores/66877128958",
+    "event": "AttentionUninstalled",
+    "event_details": "Difícil de configurar o usar"
+  },
+  {
+    "date": "March 17, 2025 at 7:41 pm",
+    "store_name": "Edmon Descanso",
+    "store_url": "/772311/stores/66877128958",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30181654782Open payments"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 9, 2025 at 1:41 am",
+    "store_name": "Ahgly Company",
+    "store_url": "/772311/stores/65654915309",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "February 8, 2025 at 6:00 pm",
+    "store_name": "Deep Ayurveda India",
+    "store_url": "/772311/stores/68404642071",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34432057623Open payments"
+  },
+  {
+    "date": "February 8, 2025 at 6:00 pm",
+    "store_name": "test for hxs",
+    "store_url": "/772311/stores/77831373114",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34209923386Open payments"
+  },
+  {
+    "date": "February 8, 2025 at 6:00 pm",
+    "store_name": "test for hxs",
+    "store_url": "/772311/stores/77831373114",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34209956154Open payments"
+  },
+  {
+    "date": "February 8, 2025 at 6:00 pm",
+    "store_name": "test for hxs",
+    "store_url": "/772311/stores/77831373114",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34209792314Open payments"
+  },
+  {
+    "date": "February 7, 2025 at 6:18 pm",
+    "store_name": "Arc de Shapes",
+    "store_url": "/772311/stores/64722403385",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26631438393Open payments"
+  },
+  {
+    "date": "February 7, 2025 at 6:11 pm",
+    "store_name": "Arc de Shapes",
+    "store_url": "/772311/stores/64722403385",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26631176249Open payments"
+  },
+  {
+    "date": "February 7, 2025 at 6:11 pm",
+    "store_name": "Arc de Shapes",
+    "store_url": "/772311/stores/64722403385",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 7, 2025 at 6:00 pm",
+    "store_name": "Vedaxry-Experience Vedic Luxury",
+    "store_url": "/772311/stores/74034118962",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34826846514Open payments"
+  },
+  {
+    "date": "February 7, 2025 at 6:00 pm",
+    "store_name": "Vedaxry-Experience Vedic Luxury",
+    "store_url": "/772311/stores/74034118962",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34826944818Open payments"
+  },
+  {
+    "date": "February 7, 2025 at 6:00 pm",
+    "store_name": "Vedaxry-Experience Vedic Luxury",
+    "store_url": "/772311/stores/74034118962",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34826879282Open payments"
+  },
+  {
+    "date": "February 7, 2025 at 6:00 pm",
+    "store_name": "Vedaxry-Experience Vedic Luxury",
+    "store_url": "/772311/stores/74034118962",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34826912050Open payments"
+  },
+  {
+    "date": "February 7, 2025 at 6:00 pm",
+    "store_name": "Vedaxry-Experience Vedic Luxury",
+    "store_url": "/772311/stores/74034118962",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34826748210Open payments"
+  },
+  {
+    "date": "February 7, 2025 at 6:00 pm",
+    "store_name": "Vedaxry-Experience Vedic Luxury",
+    "store_url": "/772311/stores/74034118962",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34826780978Open payments"
+  },
+  {
+    "date": "February 7, 2025 at 6:00 pm",
+    "store_name": "Vedaxry-Experience Vedic Luxury",
+    "store_url": "/772311/stores/74034118962",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34826813746Open payments"
+  },
+  {
+    "date": "February 7, 2025 at 6:00 pm",
+    "store_name": "Vedaxry-Experience Vedic Luxury",
+    "store_url": "/772311/stores/74034118962",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34826715442Open payments"
+  },
+  {
+    "date": "February 7, 2025 at 3:24 pm",
+    "store_name": "Store Test",
+    "store_url": "/772311/stores/81394565431",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 7, 2025 at 3:23 pm",
+    "store_name": "KNT - Engagement Rings, Wedding Bands & Fine Jewelry",
+    "store_url": "/772311/stores/57510330564",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 7, 2025 at 3:16 pm",
+    "store_name": "KNT - Engagement Rings, Wedding Bands & Fine Jewelry",
+    "store_url": "/772311/stores/57510330564",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28951969988Open payments"
+  },
+  {
+    "date": "February 7, 2025 at 3:06 pm",
+    "store_name": "KNT - Engagement Rings, Wedding Bands & Fine Jewelry",
+    "store_url": "/772311/stores/57510330564",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

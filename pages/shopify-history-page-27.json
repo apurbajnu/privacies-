@@ -1,0 +1,142 @@
+[
+  {
+    "date": "September 10, 2025 at 11:57 am",
+    "store_name": "Natural Treasure",
+    "store_url": "/772311/stores/87501046065",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 10, 2025 at 11:57 am",
+    "store_name": "Natural Treasure",
+    "store_url": "/772311/stores/87501046065",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 10, 2025 at 11:54 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "September 10, 2025 at 11:54 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "September 10, 2025 at 11:44 am",
+    "store_name": "Natural Treasure",
+    "store_url": "/772311/stores/87501046065",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 10, 2025 at 12:16 am",
+    "store_name": "RNOSA LTD | 8SVG",
+    "store_url": "/772311/stores/71404519742",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 8, 2025 at 7:53 pm",
+    "store_name": "Skin Made",
+    "store_url": "/772311/stores/92974350678",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 8, 2025 at 7:51 pm",
+    "store_name": "Skin Made",
+    "store_url": "/772311/stores/92974350678",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 8, 2025 at 7:11 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 8, 2025 at 7:10 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 8, 2025 at 5:05 pm",
+    "store_name": "Nicotine Warehouse",
+    "store_url": "/772311/stores/80384131416",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "September 7, 2025 at 6:00 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "September 7, 2025 at 6:00 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "September 3, 2025 at 1:23 pm",
+    "store_name": "maktaggweb",
+    "store_url": "/772311/stores/95421923673",
+    "event": "AttentionUninstalled",
+    "event_details": "No funciona o no es compatible con la tienda"
+  },
+  {
+    "date": "September 3, 2025 at 1:21 pm",
+    "store_name": "maktaggweb",
+    "store_url": "/772311/stores/95421923673",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 1, 2025 at 3:11 pm",
+    "store_name": "Lanas Rubí B2C",
+    "store_url": "/772311/stores/91774255485",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 1, 2025 at 2:58 pm",
+    "store_name": "Lanas Rubí B2C",
+    "store_url": "/772311/stores/91774255485",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 1, 2025 at 2:56 am",
+    "store_name": "Learning-Focused",
+    "store_url": "/772311/stores/67914301636",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 1, 2025 at 2:41 am",
+    "store_name": "Learning-Focused",
+    "store_url": "/772311/stores/67914301636",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 1, 2025 at 2:40 am",
+    "store_name": "Learning-Focused",
+    "store_url": "/772311/stores/67914301636",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

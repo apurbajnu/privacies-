@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 14, 2026 at 9:50 pm",
+    "store_name": "Ekaproeka",
+    "store_url": "/772311/stores/90142376277",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 55617126741Open payments"
+  },
+  {
+    "date": "March 14, 2026 at 9:48 pm",
+    "store_name": "Ekaproeka",
+    "store_url": "/772311/stores/90142376277",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 55617126741Open payments"
+  },
+  {
+    "date": "March 14, 2026 at 9:48 pm",
+    "store_name": "Ekaproeka",
+    "store_url": "/772311/stores/90142376277",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 14, 2026 at 9:06 pm",
+    "store_name": "Ekaproeka",
+    "store_url": "/772311/stores/90142376277",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "March 14, 2026 at 9:06 pm",
+    "store_name": "Ekaproeka",
+    "store_url": "/772311/stores/90142376277",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 55616438613Open payments"
+  },
+  {
+    "date": "March 14, 2026 at 8:58 pm",
+    "store_name": "Ekaproeka",
+    "store_url": "/772311/stores/90142376277",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 55616438613Open payments"
+  },
+  {
+    "date": "March 14, 2026 at 8:57 pm",
+    "store_name": "Ekaproeka",
+    "store_url": "/772311/stores/90142376277",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 14, 2026 at 5:00 pm",
+    "store_name": "Primabiotic.pl",
+    "store_url": "/772311/stores/100415570255",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 47459860815Open payments"
+  },
+  {
+    "date": "March 14, 2026 at 5:00 pm",
+    "store_name": "Primabiotic.pl",
+    "store_url": "/772311/stores/100415570255",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 47459893583Open payments"
+  },
+  {
+    "date": "March 14, 2026 at 12:14 am",
+    "store_name": "Kay's Crafts",
+    "store_url": "/772311/stores/98029338963",
+    "event": "Subscription charge canceled",
+    "event_details": "Extended - $3.99 USD. Subscription ID: 52755661139Open payments"
+  },
+  {
+    "date": "March 14, 2026 at 12:14 am",
+    "store_name": "Kay's Crafts",
+    "store_url": "/772311/stores/98029338963",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "March 13, 2026 at 11:56 pm",
+    "store_name": "Kay's Crafts",
+    "store_url": "/772311/stores/98029338963",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Extended - $3.99 USD. Subscription ID: 52755661139Open payments"
+  },
+  {
+    "date": "March 13, 2026 at 11:56 pm",
+    "store_name": "Kay's Crafts",
+    "store_url": "/772311/stores/98029338963",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 52755530067Open payments"
+  },
+  {
+    "date": "March 13, 2026 at 11:50 pm",
+    "store_name": "Kay's Crafts",
+    "store_url": "/772311/stores/98029338963",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 52755530067Open payments"
+  },
+  {
+    "date": "March 13, 2026 at 11:48 pm",
+    "store_name": "Kay's Crafts",
+    "store_url": "/772311/stores/98029338963",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 13, 2026 at 11:35 pm",
+    "store_name": "Hi, Finch",
+    "store_url": "/772311/stores/83915047217",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 47149383985Open payments"
+  },
+  {
+    "date": "March 13, 2026 at 11:29 pm",
+    "store_name": "Hi, Finch",
+    "store_url": "/772311/stores/83915047217",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 13, 2026 at 2:35 pm",
+    "store_name": "Séfia",
+    "store_url": "/772311/stores/70301483266",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 12, 2026 at 8:56 am",
+    "store_name": "Primabiotic.pl",
+    "store_url": "/772311/stores/100415570255",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 47459926351Open payments"
+  },
+  {
+    "date": "March 12, 2026 at 8:55 am",
+    "store_name": "Primabiotic.pl",
+    "store_url": "/772311/stores/100415570255",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

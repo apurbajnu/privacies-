@@ -1,0 +1,142 @@
+[
+  {
+    "date": "November 29, 2024 at 12:48 pm",
+    "store_name": "Genetic Labs Australia",
+    "store_url": "/772311/stores/69904138518",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33774731542Open payments"
+  },
+  {
+    "date": "November 29, 2024 at 12:37 pm",
+    "store_name": "Genetic Labs Australia",
+    "store_url": "/772311/stores/69904138518",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33774731542Open payments"
+  },
+  {
+    "date": "November 29, 2024 at 12:37 pm",
+    "store_name": "Genetic Labs Australia",
+    "store_url": "/772311/stores/69904138518",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 28, 2024 at 9:31 pm",
+    "store_name": "Petsworld",
+    "store_url": "/772311/stores/65546616983",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 28, 2024 at 9:31 pm",
+    "store_name": "Petsworld",
+    "store_url": "/772311/stores/65546616983",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31819071639Open payments"
+  },
+  {
+    "date": "November 28, 2024 at 9:31 pm",
+    "store_name": "Petsworld",
+    "store_url": "/772311/stores/65546616983",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31819071639Open payments"
+  },
+  {
+    "date": "November 28, 2024 at 9:31 pm",
+    "store_name": "Petsworld",
+    "store_url": "/772311/stores/65546616983",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 28, 2024 at 6:34 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/90410647878",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "November 28, 2024 at 6:00 pm",
+    "store_name": "Charles Floate Training",
+    "store_url": "/772311/stores/71330300212",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 79539470715Open payments"
+  },
+  {
+    "date": "November 28, 2024 at 6:00 pm",
+    "store_name": "Charles Floate Training",
+    "store_url": "/772311/stores/71330300212",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 79539405179Open payments"
+  },
+  {
+    "date": "November 27, 2024 at 6:01 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/90410647878",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 42828890438Open payments"
+  },
+  {
+    "date": "November 27, 2024 at 6:01 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/90410647878",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 42828923206Open payments"
+  },
+  {
+    "date": "November 27, 2024 at 6:00 pm",
+    "store_name": "BRI BUTTONS",
+    "store_url": "/772311/stores/86643999062",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 36846633302Open payments"
+  },
+  {
+    "date": "November 27, 2024 at 1:31 pm",
+    "store_name": "SophieSalm",
+    "store_url": "/772311/stores/775553081",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32380518745Open payments"
+  },
+  {
+    "date": "November 27, 2024 at 1:31 pm",
+    "store_name": "SophieSalm",
+    "store_url": "/772311/stores/775553081",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use; paid for it and never worked"
+  },
+  {
+    "date": "November 27, 2024 at 8:51 am",
+    "store_name": "Serene Yards",
+    "store_url": "/772311/stores/68556620031",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 27, 2024 at 8:49 am",
+    "store_name": "Serene Yards",
+    "store_url": "/772311/stores/68556620031",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 25, 2024 at 9:38 pm",
+    "store_name": "Charles Floate Training",
+    "store_url": "/772311/stores/71330300212",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 25, 2024 at 3:04 am",
+    "store_name": "BRI BUTTONS",
+    "store_url": "/772311/stores/86643999062",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "November 25, 2024 at 3:04 am",
+    "store_name": "BRI BUTTONS",
+    "store_url": "/772311/stores/86643999062",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 36846666070Open payments"
+  }
+]

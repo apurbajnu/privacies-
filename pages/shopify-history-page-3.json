@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 25, 2026 at 8:59 pm",
+    "store_name": "Navaneeth's Test Store",
+    "store_url": "/772311/stores/78885748988",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 25, 2026 at 6:00 pm",
+    "store_name": "D´AROME",
+    "store_url": "/772311/stores/101018468691",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 52205977939Open payments"
+  },
+  {
+    "date": "January 25, 2026 at 6:00 pm",
+    "store_name": "D´AROME",
+    "store_url": "/772311/stores/101018468691",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 52206141779Open payments"
+  },
+  {
+    "date": "January 25, 2026 at 5:32 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/98525282618",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "January 25, 2026 at 6:10 am",
+    "store_name": "D´AROME",
+    "store_url": "/772311/stores/101018468691",
+    "event": "AttentionUninstalled",
+    "event_details": "Difícil de configurar o usar"
+  },
+  {
+    "date": "January 24, 2026 at 6:06 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/98525282618",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 24, 2026 at 3:46 am",
+    "store_name": "DigyKeys",
+    "store_url": "/772311/stores/77888651531",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 38192087307Open payments"
+  },
+  {
+    "date": "January 24, 2026 at 3:46 am",
+    "store_name": "DigyKeys",
+    "store_url": "/772311/stores/77888651531",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 23, 2026 at 4:42 pm",
+    "store_name": "D´AROME",
+    "store_url": "/772311/stores/101018468691",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 23, 2026 at 3:49 pm",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "January 23, 2026 at 3:43 pm",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "January 22, 2026 at 8:11 pm",
+    "store_name": "デジタルサイネージ",
+    "store_url": "/772311/stores/97925464346",
+    "event": "AttentionUninstalled",
+    "event_details": "費用が高い、または想定外の費用がかかった"
+  },
+  {
+    "date": "January 22, 2026 at 8:11 pm",
+    "store_name": "デジタルサイネージ",
+    "store_url": "/772311/stores/97925464346",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 56944328986Open payments"
+  },
+  {
+    "date": "January 22, 2026 at 8:10 pm",
+    "store_name": "デジタルサイネージ",
+    "store_url": "/772311/stores/97925464346",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 22, 2026 at 7:32 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "January 22, 2026 at 7:32 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "January 22, 2026 at 6:04 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "January 22, 2026 at 6:04 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "January 21, 2026 at 6:14 am",
+    "store_name": "オーガニックワインのマヴィ",
+    "store_url": "/772311/stores/97223115050",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 20, 2026 at 4:26 pm",
+    "store_name": "Augustine Approved",
+    "store_url": "/772311/stores/57634226255",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  }
+]

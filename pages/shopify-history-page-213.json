@@ -1,0 +1,142 @@
+[
+  {
+    "date": "September 5, 2023 at 11:55 pm",
+    "store_name": "NAILRICA",
+    "store_url": "/772311/stores/80767156497",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 5, 2023 at 10:26 pm",
+    "store_name": "NAILRICA",
+    "store_url": "/772311/stores/80767156497",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30709383441Open payments"
+  },
+  {
+    "date": "September 5, 2023 at 10:21 pm",
+    "store_name": "NAILRICA",
+    "store_url": "/772311/stores/80767156497",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 30, 2023 at 5:00 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 27372126230Open payments"
+  },
+  {
+    "date": "August 28, 2023 at 10:09 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/76890440012",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30649319756Open payments"
+  },
+  {
+    "date": "August 28, 2023 at 10:09 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/76890440012",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 27, 2023 at 8:30 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 27, 2023 at 8:15 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 26, 2023 at 4:21 pm",
+    "store_name": "We Love Spells",
+    "store_url": "/772311/stores/43843682458",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25253413060Open payments"
+  },
+  {
+    "date": "August 26, 2023 at 4:21 pm",
+    "store_name": "We Love Spells",
+    "store_url": "/772311/stores/43843682458",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "August 23, 2023 at 4:07 pm",
+    "store_name": "Cibamat",
+    "store_url": "/772311/stores/27280146480",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23424991280Open payments"
+  },
+  {
+    "date": "August 23, 2023 at 4:07 pm",
+    "store_name": "Cibamat",
+    "store_url": "/772311/stores/27280146480",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "August 23, 2023 at 3:56 pm",
+    "store_name": "Cibamat",
+    "store_url": "/772311/stores/27280146480",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23424991280Open payments"
+  },
+  {
+    "date": "August 23, 2023 at 3:55 pm",
+    "store_name": "Cibamat",
+    "store_url": "/772311/stores/27280146480",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 23, 2023 at 11:54 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/80102097205",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30451401013Open payments"
+  },
+  {
+    "date": "August 23, 2023 at 11:53 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/80102097205",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 23, 2023 at 11:49 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/80102097205",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30451401013Open payments"
+  },
+  {
+    "date": "August 23, 2023 at 11:49 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/80102097205",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 23, 2023 at 3:06 am",
+    "store_name": "Big Sky Anglers",
+    "store_url": "/772311/stores/55558307894",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30419943707Open payments"
+  },
+  {
+    "date": "August 23, 2023 at 3:06 am",
+    "store_name": "Big Sky Anglers",
+    "store_url": "/772311/stores/55558307894",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

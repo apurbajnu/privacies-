@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 1, 2023 at 6:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25460178966Open payments"
+  },
+  {
+    "date": "February 1, 2023 at 6:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25460080662Open payments"
+  },
+  {
+    "date": "February 1, 2023 at 5:45 pm",
+    "store_name": "Buddha & Karma",
+    "store_url": "/772311/stores/47418409121",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 1, 2023 at 5:45 pm",
+    "store_name": "Buddha & Karma",
+    "store_url": "/772311/stores/47418409121",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27425997022Open payments"
+  },
+  {
+    "date": "February 1, 2023 at 3:20 pm",
+    "store_name": "Buddha & Karma",
+    "store_url": "/772311/stores/47418409121",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27425997022Open payments"
+  },
+  {
+    "date": "February 1, 2023 at 3:19 pm",
+    "store_name": "Buddha & Karma",
+    "store_url": "/772311/stores/47418409121",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 31, 2023 at 9:28 pm",
+    "store_name": "Every",
+    "store_url": "/772311/stores/22865281104",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30119264524Open payments"
+  },
+  {
+    "date": "January 31, 2023 at 9:28 pm",
+    "store_name": "Every",
+    "store_url": "/772311/stores/22865281104",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "January 31, 2023 at 2:30 pm",
+    "store_name": "Every",
+    "store_url": "/772311/stores/22865281104",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30119264524Open payments"
+  },
+  {
+    "date": "January 31, 2023 at 2:28 pm",
+    "store_name": "Every",
+    "store_url": "/772311/stores/22865281104",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 30, 2023 at 3:01 pm",
+    "store_name": "hanfgeflüster",
+    "store_url": "/772311/stores/62845255866",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25894092986Open payments"
+  },
+  {
+    "date": "January 30, 2023 at 3:01 pm",
+    "store_name": "hanfgeflüster",
+    "store_url": "/772311/stores/62845255866",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 29, 2023 at 11:45 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 29, 2023 at 11:16 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 29, 2023 at 2:34 am",
+    "store_name": "PolyGlide Ice",
+    "store_url": "/772311/stores/19325335",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "January 29, 2023 at 2:34 am",
+    "store_name": "PolyGlide Ice",
+    "store_url": "/772311/stores/19325335",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23410540633Open payments"
+  },
+  {
+    "date": "January 28, 2023 at 6:17 pm",
+    "store_name": "DreamBox",
+    "store_url": "/772311/stores/70456803643",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28411461947Open payments"
+  },
+  {
+    "date": "January 28, 2023 at 6:17 pm",
+    "store_name": "DreamBox",
+    "store_url": "/772311/stores/70456803643",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 28, 2023 at 6:00 pm",
+    "store_name": "Elite Wine Refrigeration",
+    "store_url": "/772311/stores/12883869",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22620897374Open payments"
+  },
+  {
+    "date": "January 28, 2023 at 10:17 am",
+    "store_name": "PolyGlide Ice",
+    "store_url": "/772311/stores/19325335",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23410540633Open payments"
+  }
+]

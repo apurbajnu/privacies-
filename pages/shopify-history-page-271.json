@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 18, 2022 at 8:35 pm",
+    "store_name": "Pulsion-SM",
+    "store_url": "/772311/stores/8706130017",
+    "event": "AttentionUninstalled",
+    "event_details": "Ne répond pas à mes besoins"
+  },
+  {
+    "date": "December 18, 2022 at 7:32 pm",
+    "store_name": "Pulsion-SM",
+    "store_url": "/772311/stores/8706130017",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23021486177Open payments"
+  },
+  {
+    "date": "December 18, 2022 at 7:20 pm",
+    "store_name": "Pulsion-SM",
+    "store_url": "/772311/stores/8706130017",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 18, 2022 at 3:52 pm",
+    "store_name": "SLAPSUN®",
+    "store_url": "/772311/stores/65594917128",
+    "event": "AttentionUninstalled",
+    "event_details": "Non risponde alle mie esigenze"
+  },
+  {
+    "date": "December 18, 2022 at 3:52 pm",
+    "store_name": "SLAPSUN®",
+    "store_url": "/772311/stores/65594917128",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29577675016Open payments"
+  },
+  {
+    "date": "December 18, 2022 at 3:37 pm",
+    "store_name": "SLAPSUN®",
+    "store_url": "/772311/stores/65594917128",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29577675016Open payments"
+  },
+  {
+    "date": "December 18, 2022 at 3:36 pm",
+    "store_name": "SLAPSUN®",
+    "store_url": "/772311/stores/65594917128",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 17, 2022 at 11:25 pm",
+    "store_name": "Bimmer Merch",
+    "store_url": "/772311/stores/68501209378",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28034695458Open payments"
+  },
+  {
+    "date": "December 17, 2022 at 11:24 pm",
+    "store_name": "Bimmer Merch",
+    "store_url": "/772311/stores/68501209378",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 17, 2022 at 6:00 pm",
+    "store_name": "Go Turkey",
+    "store_url": "/772311/stores/56855199921",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25337004209Open payments"
+  },
+  {
+    "date": "December 17, 2022 at 2:57 am",
+    "store_name": "Amazing-Solutions.com",
+    "store_url": "/772311/stores/25028164",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 16, 2022 at 10:36 pm",
+    "store_name": "ZzzDreams",
+    "store_url": "/772311/stores/38176391212",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23685922860Open payments"
+  },
+  {
+    "date": "December 16, 2022 at 10:36 pm",
+    "store_name": "ZzzDreams",
+    "store_url": "/772311/stores/38176391212",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 16, 2022 at 8:50 pm",
+    "store_name": "Kiss & Tell Agency",
+    "store_url": "/772311/stores/68793401366",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "December 16, 2022 at 8:50 pm",
+    "store_name": "Kiss & Tell Agency",
+    "store_url": "/772311/stores/68793401366",
+    "event": "Subscription charge declined",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25007652886Open payments"
+  },
+  {
+    "date": "December 16, 2022 at 8:50 pm",
+    "store_name": "Kiss & Tell Agency",
+    "store_url": "/772311/stores/68793401366",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 16, 2022 at 1:57 am",
+    "store_name": "greenworkstools",
+    "store_url": "/772311/stores/59395375264",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25694830752Open payments"
+  },
+  {
+    "date": "December 16, 2022 at 1:57 am",
+    "store_name": "greenworkstools",
+    "store_url": "/772311/stores/59395375264",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 14, 2022 at 9:18 pm",
+    "store_name": "Jupiter",
+    "store_url": "/772311/stores/26348060750",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "December 14, 2022 at 9:18 pm",
+    "store_name": "Jupiter",
+    "store_url": "/772311/stores/26348060750",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28015329587Open payments"
+  }
+]

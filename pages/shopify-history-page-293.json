@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 13, 2022 at 3:03 am",
+    "store_name": "Sweeter Juice Skin",
+    "store_url": "/772311/stores/41703997608",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "July 13, 2022 at 3:03 am",
+    "store_name": "Sweeter Juice Skin",
+    "store_url": "/772311/stores/41703997608",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26327843066Open payments"
+  },
+  {
+    "date": "July 13, 2022 at 2:50 am",
+    "store_name": "Sweeter Juice Skin",
+    "store_url": "/772311/stores/41703997608",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26327843066Open payments"
+  },
+  {
+    "date": "July 13, 2022 at 2:50 am",
+    "store_name": "Sweeter Juice Skin",
+    "store_url": "/772311/stores/41703997608",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 11, 2022 at 11:55 pm",
+    "store_name": "4AM",
+    "store_url": "/772311/stores/25850839094",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22834085942Open payments"
+  },
+  {
+    "date": "July 11, 2022 at 11:55 pm",
+    "store_name": "4AM",
+    "store_url": "/772311/stores/25850839094",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 11, 2022 at 11:53 pm",
+    "store_name": "4AM",
+    "store_url": "/772311/stores/25850839094",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22834085942Open payments"
+  },
+  {
+    "date": "July 11, 2022 at 11:47 pm",
+    "store_name": "4AM",
+    "store_url": "/772311/stores/25850839094",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 11, 2022 at 11:10 pm",
+    "store_name": "Claribelskincare.com",
+    "store_url": "/772311/stores/4988333",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26760839405Open payments"
+  },
+  {
+    "date": "July 11, 2022 at 11:08 pm",
+    "store_name": "Claribelskincare.com",
+    "store_url": "/772311/stores/4988333",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 8, 2022 at 2:37 am",
+    "store_name": "Smells",
+    "store_url": "/772311/stores/61202759868",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24659984572Open payments"
+  },
+  {
+    "date": "July 8, 2022 at 2:36 am",
+    "store_name": "Smells",
+    "store_url": "/772311/stores/61202759868",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 7, 2022 at 8:13 pm",
+    "store_name": "N203",
+    "store_url": "/772311/stores/65057325294",
+    "event": "AttentionUninstalled",
+    "event_details": "アプリがうまく機能しない"
+  },
+  {
+    "date": "July 7, 2022 at 8:13 pm",
+    "store_name": "N203",
+    "store_url": "/772311/stores/65057325294",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26082607342Open payments"
+  },
+  {
+    "date": "July 7, 2022 at 8:03 pm",
+    "store_name": "N203",
+    "store_url": "/772311/stores/65057325294",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26082607342Open payments"
+  },
+  {
+    "date": "July 7, 2022 at 8:02 pm",
+    "store_name": "N203",
+    "store_url": "/772311/stores/65057325294",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 6, 2022 at 3:34 am",
+    "store_name": "My WFH World",
+    "store_url": "/772311/stores/64209944791",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "July 6, 2022 at 3:34 am",
+    "store_name": "My WFH World",
+    "store_url": "/772311/stores/64209944791",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27462402263Open payments"
+  },
+  {
+    "date": "July 5, 2022 at 7:51 am",
+    "store_name": "My WFH World",
+    "store_url": "/772311/stores/64209944791",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27462402263Open payments"
+  },
+  {
+    "date": "July 5, 2022 at 7:51 am",
+    "store_name": "My WFH World",
+    "store_url": "/772311/stores/64209944791",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

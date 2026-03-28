@@ -1,0 +1,142 @@
+[
+  {
+    "date": "November 18, 2025 at 8:24 pm",
+    "store_name": "Koza Home",
+    "store_url": "/772311/stores/62384373804",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 17, 2025 at 6:00 pm",
+    "store_name": "Max Negozio Test",
+    "store_url": "/772311/stores/92873130357",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 78457930101Open payments"
+  },
+  {
+    "date": "November 17, 2025 at 4:54 pm",
+    "store_name": "Babydeepsleep",
+    "store_url": "/772311/stores/69241372957",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30126375260Open payments"
+  },
+  {
+    "date": "November 17, 2025 at 4:54 pm",
+    "store_name": "Babydeepsleep",
+    "store_url": "/772311/stores/69241372957",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 17, 2025 at 3:59 pm",
+    "store_name": "Big Bat Box",
+    "store_url": "/772311/stores/204472339",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30518378837Open payments"
+  },
+  {
+    "date": "November 17, 2025 at 3:59 pm",
+    "store_name": "Big Bat Box",
+    "store_url": "/772311/stores/204472339",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 16, 2025 at 12:50 pm",
+    "store_name": "Tu Cereza 🍒",
+    "store_url": "/772311/stores/66977202498",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "November 15, 2025 at 12:24 am",
+    "store_name": "Ursus-Spa",
+    "store_url": "/772311/stores/98796405000",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Extended - $3.99 USD. Subscription ID: 43599462664Open payments"
+  },
+  {
+    "date": "November 15, 2025 at 12:24 am",
+    "store_name": "Ursus-Spa",
+    "store_url": "/772311/stores/98796405000",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 43599298824Open payments"
+  },
+  {
+    "date": "November 15, 2025 at 12:21 am",
+    "store_name": "Ursus-Spa",
+    "store_url": "/772311/stores/98796405000",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 43599298824Open payments"
+  },
+  {
+    "date": "November 15, 2025 at 12:20 am",
+    "store_name": "Ursus-Spa",
+    "store_url": "/772311/stores/98796405000",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 15, 2025 at 12:14 am",
+    "store_name": "Max Negozio Test",
+    "store_url": "/772311/stores/92873130357",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 13, 2025 at 7:16 pm",
+    "store_name": "Kurlon",
+    "store_url": "/772311/stores/63053037612",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 13, 2025 at 7:14 pm",
+    "store_name": "Kurlon",
+    "store_url": "/772311/stores/63053037612",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 12, 2025 at 6:00 pm",
+    "store_name": "Filtrespiscine : Vente de filtres spa et piscine",
+    "store_url": "/772311/stores/91753152856",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 48290267480Open payments"
+  },
+  {
+    "date": "November 12, 2025 at 8:29 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32816890158Open payments"
+  },
+  {
+    "date": "November 12, 2025 at 8:29 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "November 12, 2025 at 6:56 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32816890158Open payments"
+  },
+  {
+    "date": "November 12, 2025 at 6:56 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "November 11, 2025 at 12:49 pm",
+    "store_name": "Store Test IMP",
+    "store_url": "/772311/stores/81394565431",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  }
+]

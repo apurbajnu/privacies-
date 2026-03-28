@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 5, 2024 at 2:55 pm",
+    "store_name": "Nelkental",
+    "store_url": "/772311/stores/75401888012",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 5, 2024 at 2:55 pm",
+    "store_name": "Nelkental",
+    "store_url": "/772311/stores/75401888012",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34186232076Open payments"
+  },
+  {
+    "date": "August 5, 2024 at 2:40 pm",
+    "store_name": "Nelkental",
+    "store_url": "/772311/stores/75401888012",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34186232076Open payments"
+  },
+  {
+    "date": "August 5, 2024 at 2:40 pm",
+    "store_name": "Nelkental",
+    "store_url": "/772311/stores/75401888012",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 4, 2024 at 5:00 pm",
+    "store_name": "trueCABLE",
+    "store_url": "/772311/stores/1464041539",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24233967683Open payments"
+  },
+  {
+    "date": "August 4, 2024 at 5:00 pm",
+    "store_name": "trueCABLE",
+    "store_url": "/772311/stores/1464041539",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24234098755Open payments"
+  },
+  {
+    "date": "August 4, 2024 at 5:00 pm",
+    "store_name": "trueCABLE",
+    "store_url": "/772311/stores/1464041539",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24233934915Open payments"
+  },
+  {
+    "date": "August 4, 2024 at 5:00 pm",
+    "store_name": "trueCABLE",
+    "store_url": "/772311/stores/1464041539",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24234000451Open payments"
+  },
+  {
+    "date": "August 4, 2024 at 5:00 pm",
+    "store_name": "trueCABLE",
+    "store_url": "/772311/stores/1464041539",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24234033219Open payments"
+  },
+  {
+    "date": "August 4, 2024 at 5:00 pm",
+    "store_name": "trueCABLE",
+    "store_url": "/772311/stores/1464041539",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24234065987Open payments"
+  },
+  {
+    "date": "August 4, 2024 at 5:00 pm",
+    "store_name": "VBelle Skin Care",
+    "store_url": "/772311/stores/56832229511",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24313725063Open payments"
+  },
+  {
+    "date": "August 4, 2024 at 5:00 pm",
+    "store_name": "VBelle Skin Care",
+    "store_url": "/772311/stores/56832229511",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24313757831Open payments"
+  },
+  {
+    "date": "August 4, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33930314051Open payments"
+  },
+  {
+    "date": "August 3, 2024 at 5:00 pm",
+    "store_name": "DOORDOCK",
+    "store_url": "/772311/stores/79549464914",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33939358034Open payments"
+  },
+  {
+    "date": "August 3, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33914782019Open payments"
+  },
+  {
+    "date": "August 2, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28845408468Open payments"
+  },
+  {
+    "date": "August 2, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33912291651Open payments"
+  },
+  {
+    "date": "August 2, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33911570755Open payments"
+  },
+  {
+    "date": "August 2, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33909604675Open payments"
+  },
+  {
+    "date": "August 2, 2024 at 7:25 am",
+    "store_name": "EYEPING",
+    "store_url": "/772311/stores/87723442449",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  }
+]

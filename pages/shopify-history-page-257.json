@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 22, 2023 at 6:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25625493526Open payments"
+  },
+  {
+    "date": "February 22, 2023 at 4:04 pm",
+    "store_name": "thuongnth-po",
+    "store_url": "/772311/stores/66779939132",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 21, 2023 at 9:28 pm",
+    "store_name": "MD GLAM",
+    "store_url": "/772311/stores/28000354364",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 21, 2023 at 6:00 pm",
+    "store_name": "Bakedsnow",
+    "store_url": "/772311/stores/55114104947",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23832461427Open payments"
+  },
+  {
+    "date": "February 21, 2023 at 1:42 am",
+    "store_name": "meowrushmore",
+    "store_url": "/772311/stores/69726568765",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28616065341Open payments"
+  },
+  {
+    "date": "February 21, 2023 at 1:42 am",
+    "store_name": "meowrushmore",
+    "store_url": "/772311/stores/69726568765",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 20, 2023 at 4:29 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/72942420271",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28608266543Open payments"
+  },
+  {
+    "date": "February 20, 2023 at 4:29 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/72942420271",
+    "event": "AttentionUninstalled",
+    "event_details": "Other; I was just testing the app for use on another website- I will use this on my client's website."
+  },
+  {
+    "date": "February 20, 2023 at 12:51 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/72942420271",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28608266543Open payments"
+  },
+  {
+    "date": "February 20, 2023 at 12:50 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/72942420271",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 19, 2023 at 11:25 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 19, 2023 at 11:15 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 19, 2023 at 3:06 am",
+    "store_name": "Bakedsnow",
+    "store_url": "/772311/stores/55114104947",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 19, 2023 at 3:06 am",
+    "store_name": "Bakedsnow",
+    "store_url": "/772311/stores/55114104947",
+    "event": "Subscription charge declined",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23832494195Open payments"
+  },
+  {
+    "date": "February 19, 2023 at 3:05 am",
+    "store_name": "Bakedsnow",
+    "store_url": "/772311/stores/55114104947",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 18, 2023 at 3:16 am",
+    "store_name": "GLDN",
+    "store_url": "/772311/stores/28261154947",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23283105923Open payments"
+  },
+  {
+    "date": "February 18, 2023 at 3:16 am",
+    "store_name": "GLDN",
+    "store_url": "/772311/stores/28261154947",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "February 18, 2023 at 3:07 am",
+    "store_name": "GLDN",
+    "store_url": "/772311/stores/28261154947",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23283105923Open payments"
+  },
+  {
+    "date": "February 18, 2023 at 3:07 am",
+    "store_name": "GLDN",
+    "store_url": "/772311/stores/28261154947",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 17, 2023 at 6:03 am",
+    "store_name": "HitLights",
+    "store_url": "/772311/stores/20976403",
+    "event": "AttentionUninstalled",
+    "event_details": "Other; impacts other pages"
+  }
+]

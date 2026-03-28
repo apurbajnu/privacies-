@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 5, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28685566164Open payments"
+  },
+  {
+    "date": "July 5, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28684222676Open payments"
+  },
+  {
+    "date": "July 4, 2024 at 6:12 pm",
+    "store_name": "GolfClubs4Cash",
+    "store_url": "/772311/stores/55904501875",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25024397427Open payments"
+  },
+  {
+    "date": "July 4, 2024 at 3:05 pm",
+    "store_name": "GolfClubs4Cash",
+    "store_url": "/772311/stores/55904501875",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 4, 2024 at 1:29 pm",
+    "store_name": "Author Box Demo",
+    "store_url": "/772311/stores/72663236890",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 4, 2024 at 2:54 am",
+    "store_name": "Served by Sammy",
+    "store_url": "/772311/stores/70693847332",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33922122020Open payments"
+  },
+  {
+    "date": "July 4, 2024 at 2:54 am",
+    "store_name": "Served by Sammy",
+    "store_url": "/772311/stores/70693847332",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 3, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28676948180Open payments"
+  },
+  {
+    "date": "July 3, 2024 at 2:49 pm",
+    "store_name": "Imane Harmonie",
+    "store_url": "/772311/stores/66663809335",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33254998341Open payments"
+  },
+  {
+    "date": "July 3, 2024 at 2:49 pm",
+    "store_name": "Imane Harmonie",
+    "store_url": "/772311/stores/66663809335",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 3, 2024 at 5:46 am",
+    "store_name": "人形のひなせい",
+    "store_url": "/772311/stores/59218460859",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26324861115Open payments"
+  },
+  {
+    "date": "July 3, 2024 at 5:45 am",
+    "store_name": "人形のひなせい",
+    "store_url": "/772311/stores/59218460859",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 3, 2024 at 2:16 am",
+    "store_name": "WatermarkWaves",
+    "store_url": "/772311/stores/62599004343",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27079180471Open payments"
+  },
+  {
+    "date": "July 3, 2024 at 2:16 am",
+    "store_name": "WatermarkWaves",
+    "store_url": "/772311/stores/62599004343",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "July 3, 2024 at 2:12 am",
+    "store_name": "Forager's Kingdom",
+    "store_url": "/772311/stores/8099463249",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 3, 2024 at 2:12 am",
+    "store_name": "Forager's Kingdom",
+    "store_url": "/772311/stores/8099463249",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33190248730Open payments"
+  },
+  {
+    "date": "July 3, 2024 at 1:26 am",
+    "store_name": "PhotoSpring Inc",
+    "store_url": "/772311/stores/5847974006",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 3, 2024 at 1:26 am",
+    "store_name": "PhotoSpring Inc",
+    "store_url": "/772311/stores/5847974006",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22724673670Open payments"
+  },
+  {
+    "date": "July 2, 2024 at 11:46 pm",
+    "store_name": "Forager's Kingdom",
+    "store_url": "/772311/stores/8099463249",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33190248730Open payments"
+  },
+  {
+    "date": "July 2, 2024 at 11:46 pm",
+    "store_name": "Forager's Kingdom",
+    "store_url": "/772311/stores/8099463249",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

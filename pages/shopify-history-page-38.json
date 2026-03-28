@@ -1,0 +1,142 @@
+[
+  {
+    "date": "June 17, 2025 at 1:44 pm",
+    "store_name": "candyville.ca",
+    "store_url": "/772311/stores/30239621257",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "June 17, 2025 at 1:44 pm",
+    "store_name": "candyville.ca",
+    "store_url": "/772311/stores/30239621257",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31411241193Open payments"
+  },
+  {
+    "date": "June 17, 2025 at 12:04 am",
+    "store_name": "Odeclas",
+    "store_url": "/772311/stores/91235483992",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 16, 2025 at 12:22 pm",
+    "store_name": "candyville.ca",
+    "store_url": "/772311/stores/30239621257",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31411241193Open payments"
+  },
+  {
+    "date": "June 16, 2025 at 12:03 pm",
+    "store_name": "candyville.ca",
+    "store_url": "/772311/stores/30239621257",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 15, 2025 at 5:00 pm",
+    "store_name": "multiweo",
+    "store_url": "/772311/stores/95196676464",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62573642096Open payments"
+  },
+  {
+    "date": "June 15, 2025 at 5:00 pm",
+    "store_name": "multiweo",
+    "store_url": "/772311/stores/95196676464",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62574166384Open payments"
+  },
+  {
+    "date": "June 15, 2025 at 5:00 pm",
+    "store_name": "multiweo",
+    "store_url": "/772311/stores/95196676464",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62573674864Open payments"
+  },
+  {
+    "date": "June 15, 2025 at 5:00 pm",
+    "store_name": "multiweo",
+    "store_url": "/772311/stores/95196676464",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62573707632Open payments"
+  },
+  {
+    "date": "June 14, 2025 at 1:03 pm",
+    "store_name": "Ma boutique",
+    "store_url": "/772311/stores/95493456197",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 13, 2025 at 12:23 pm",
+    "store_name": "multiweo",
+    "store_url": "/772311/stores/95196676464",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 13, 2025 at 12:23 pm",
+    "store_name": "multiweo",
+    "store_url": "/772311/stores/95196676464",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 13, 2025 at 12:18 pm",
+    "store_name": "multiweo",
+    "store_url": "/772311/stores/95196676464",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 12, 2025 at 2:56 pm",
+    "store_name": "TTLIFE OXYGEN CONCENTRATOR",
+    "store_url": "/772311/stores/12172034107",
+    "event": "AttentionUninstalled",
+    "event_details": "难以设置或使用"
+  },
+  {
+    "date": "June 12, 2025 at 2:45 pm",
+    "store_name": "TTLIFE OXYGEN CONCENTRATOR",
+    "store_url": "/772311/stores/12172034107",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 12, 2025 at 2:44 pm",
+    "store_name": "TTLIFE OXYGEN CONCENTRATOR",
+    "store_url": "/772311/stores/12172034107",
+    "event": "AttentionUninstalled",
+    "event_details": "难以设置或使用"
+  },
+  {
+    "date": "June 12, 2025 at 2:43 pm",
+    "store_name": "TTLIFE OXYGEN CONCENTRATOR",
+    "store_url": "/772311/stores/12172034107",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 10, 2025 at 10:05 am",
+    "store_name": "Sports Savvy",
+    "store_url": "/772311/stores/62069571762",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27485470898Open payments"
+  },
+  {
+    "date": "June 8, 2025 at 5:00 pm",
+    "store_name": "GUSA",
+    "store_url": "/772311/stores/60124495931",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30021222459Open payments"
+  },
+  {
+    "date": "June 8, 2025 at 5:00 pm",
+    "store_name": "226erscom",
+    "store_url": "/772311/stores/94735532378",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 55256613210Open payments"
+  }
+]

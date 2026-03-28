@@ -1,0 +1,142 @@
+[
+  {
+    "date": "November 24, 2024 at 9:52 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/90410647878",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 42828693830Open payments"
+  },
+  {
+    "date": "November 24, 2024 at 9:51 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/90410647878",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 24, 2024 at 6:54 pm",
+    "store_name": "BRI BUTTONS",
+    "store_url": "/772311/stores/86643999062",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 24, 2024 at 6:00 pm",
+    "store_name": "YUMA FR",
+    "store_url": "/772311/stores/86379299164",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 37287002460Open payments"
+  },
+  {
+    "date": "November 24, 2024 at 6:00 pm",
+    "store_name": "YUMA FR",
+    "store_url": "/772311/stores/86379299164",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 37270978908Open payments"
+  },
+  {
+    "date": "November 24, 2024 at 6:00 pm",
+    "store_name": "YUMA FR",
+    "store_url": "/772311/stores/86379299164",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 37271306588Open payments"
+  },
+  {
+    "date": "November 24, 2024 at 6:00 pm",
+    "store_name": "YUMA FR",
+    "store_url": "/772311/stores/86379299164",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 37271208284Open payments"
+  },
+  {
+    "date": "November 24, 2024 at 6:00 pm",
+    "store_name": "YUMA FR",
+    "store_url": "/772311/stores/86379299164",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 37270880604Open payments"
+  },
+  {
+    "date": "November 22, 2024 at 7:43 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "November 22, 2024 at 7:43 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "November 22, 2024 at 7:21 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "November 22, 2024 at 7:21 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "November 21, 2024 at 9:07 pm",
+    "store_name": "YUMA FR",
+    "store_url": "/772311/stores/86379299164",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 37271273820Open payments"
+  },
+  {
+    "date": "November 20, 2024 at 10:44 pm",
+    "store_name": "BeefJerky.com",
+    "store_url": "/772311/stores/40155316392",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "November 20, 2024 at 10:44 pm",
+    "store_name": "BeefJerky.com",
+    "store_url": "/772311/stores/40155316392",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27984199848Open payments"
+  },
+  {
+    "date": "November 20, 2024 at 10:42 pm",
+    "store_name": "BeefJerky.com",
+    "store_url": "/772311/stores/40155316392",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 20, 2024 at 6:00 pm",
+    "store_name": "Simple Carry",
+    "store_url": "/772311/stores/2286682163",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28671901885Open payments"
+  },
+  {
+    "date": "November 20, 2024 at 6:00 pm",
+    "store_name": "Simple Carry",
+    "store_url": "/772311/stores/2286682163",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28671836349Open payments"
+  },
+  {
+    "date": "November 20, 2024 at 6:00 pm",
+    "store_name": "Simple Carry",
+    "store_url": "/772311/stores/2286682163",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28671934653Open payments"
+  },
+  {
+    "date": "November 20, 2024 at 6:00 pm",
+    "store_name": "Simple Carry",
+    "store_url": "/772311/stores/2286682163",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28671869117Open payments"
+  }
+]

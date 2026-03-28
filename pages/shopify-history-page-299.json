@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 24, 2022 at 2:20 pm",
+    "store_name": "Allerlei Windeln",
+    "store_url": "/772311/stores/60345843936",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26774831328Open payments"
+  },
+  {
+    "date": "March 24, 2022 at 2:20 pm",
+    "store_name": "Allerlei Windeln",
+    "store_url": "/772311/stores/60345843936",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 22, 2022 at 4:39 am",
+    "store_name": "KollectionK",
+    "store_url": "/772311/stores/1646592",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 22, 2022 at 4:39 am",
+    "store_name": "KollectionK",
+    "store_url": "/772311/stores/1646592",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24328798396Open payments"
+  },
+  {
+    "date": "March 19, 2022 at 1:57 pm",
+    "store_name": "KollectionK",
+    "store_url": "/772311/stores/1646592",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24328798396Open payments"
+  },
+  {
+    "date": "March 19, 2022 at 1:57 pm",
+    "store_name": "KollectionK",
+    "store_url": "/772311/stores/1646592",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24328831164Open payments"
+  },
+  {
+    "date": "March 19, 2022 at 1:57 pm",
+    "store_name": "KollectionK",
+    "store_url": "/772311/stores/1646592",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24328831164Open payments"
+  },
+  {
+    "date": "March 19, 2022 at 1:55 pm",
+    "store_name": "KollectionK",
+    "store_url": "/772311/stores/1646592",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 18, 2022 at 10:40 am",
+    "store_name": "KollectionK",
+    "store_url": "/772311/stores/1646592",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24325685436Open payments"
+  },
+  {
+    "date": "March 18, 2022 at 10:40 am",
+    "store_name": "KollectionK",
+    "store_url": "/772311/stores/1646592",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 18, 2022 at 10:14 am",
+    "store_name": "KollectionK",
+    "store_url": "/772311/stores/1646592",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24325685436Open payments"
+  },
+  {
+    "date": "March 18, 2022 at 10:13 am",
+    "store_name": "KollectionK",
+    "store_url": "/772311/stores/1646592",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 11, 2022 at 3:30 am",
+    "store_name": "Michel Germain Parfums Ltd.",
+    "store_url": "/772311/stores/21631881",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25914114280Open payments"
+  },
+  {
+    "date": "March 11, 2022 at 3:29 am",
+    "store_name": "Michel Germain Parfums Ltd.",
+    "store_url": "/772311/stores/21631881",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 10, 2022 at 6:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22545596495Open payments"
+  },
+  {
+    "date": "March 8, 2022 at 7:36 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 8, 2022 at 7:36 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 8, 2022 at 6:06 am",
+    "store_name": "vengos",
+    "store_url": "/772311/stores/8597766201",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 8, 2022 at 6:02 am",
+    "store_name": "vengos",
+    "store_url": "/772311/stores/8597766201",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 8, 2022 at 6:02 am",
+    "store_name": "vengos",
+    "store_url": "/772311/stores/8597766201",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $4.99 USD (Test). Subscription ID: 22270279737Open payments"
+  }
+]

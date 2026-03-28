@@ -1,0 +1,142 @@
+[
+  {
+    "date": "June 30, 2024 at 5:15 am",
+    "store_name": "Freelancer Files",
+    "store_url": "/772311/stores/88148476220",
+    "event": "AttentionUninstalled",
+    "event_details": "Expensive or unexpected cost"
+  },
+  {
+    "date": "June 30, 2024 at 5:15 am",
+    "store_name": "Freelancer Files",
+    "store_url": "/772311/stores/88148476220",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32878952764Open payments"
+  },
+  {
+    "date": "June 30, 2024 at 5:15 am",
+    "store_name": "Freelancer Files",
+    "store_url": "/772311/stores/88148476220",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32878952764Open payments"
+  },
+  {
+    "date": "June 30, 2024 at 5:14 am",
+    "store_name": "Freelancer Files",
+    "store_url": "/772311/stores/88148476220",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 29, 2024 at 5:00 pm",
+    "store_name": "UkrGifts",
+    "store_url": "/772311/stores/84167393620",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33754513748Open payments"
+  },
+  {
+    "date": "June 29, 2024 at 5:00 pm",
+    "store_name": "UkrGifts",
+    "store_url": "/772311/stores/84167393620",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33754579284Open payments"
+  },
+  {
+    "date": "June 27, 2024 at 5:00 pm",
+    "store_name": "Cayatch Posture Corrector",
+    "store_url": "/772311/stores/60595405054",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28561539326Open payments"
+  },
+  {
+    "date": "June 27, 2024 at 5:00 pm",
+    "store_name": "Cayatch Posture Corrector",
+    "store_url": "/772311/stores/60595405054",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28561572094Open payments"
+  },
+  {
+    "date": "June 27, 2024 at 5:00 pm",
+    "store_name": "Cayatch Posture Corrector",
+    "store_url": "/772311/stores/60595405054",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28561604862Open payments"
+  },
+  {
+    "date": "June 26, 2024 at 5:47 pm",
+    "store_name": "UkrGifts",
+    "store_url": "/772311/stores/84167393620",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 26, 2024 at 5:47 pm",
+    "store_name": "UkrGifts",
+    "store_url": "/772311/stores/84167393620",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 26, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33424146755Open payments"
+  },
+  {
+    "date": "June 26, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33424310595Open payments"
+  },
+  {
+    "date": "June 26, 2024 at 3:19 pm",
+    "store_name": "Feschewand",
+    "store_url": "/772311/stores/64795082949",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26741506245Open payments"
+  },
+  {
+    "date": "June 26, 2024 at 3:18 pm",
+    "store_name": "Feschewand",
+    "store_url": "/772311/stores/64795082949",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 26, 2024 at 2:07 pm",
+    "store_name": "DOORDOCK",
+    "store_url": "/772311/stores/79549464914",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 25, 2024 at 6:15 pm",
+    "store_name": "SeedKitty",
+    "store_url": "/772311/stores/79496970569",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "June 25, 2024 at 1:38 pm",
+    "store_name": "cosmetictattooing",
+    "store_url": "/772311/stores/75028594982",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32886128934Open payments"
+  },
+  {
+    "date": "June 25, 2024 at 1:38 pm",
+    "store_name": "cosmetictattooing",
+    "store_url": "/772311/stores/75028594982",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 25, 2024 at 7:01 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/60663693390",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24291704910Open payments"
+  }
+]

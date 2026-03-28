@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 20, 2025 at 4:24 pm",
+    "store_name": "Mi tienda",
+    "store_url": "/772311/stores/74225352929",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 20, 2025 at 12:19 pm",
+    "store_name": "Emensuits",
+    "store_url": "/772311/stores/61399728266",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27020984458Open payments"
+  },
+  {
+    "date": "February 20, 2025 at 12:18 pm",
+    "store_name": "Emensuits",
+    "store_url": "/772311/stores/61399728266",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 20, 2025 at 4:01 am",
+    "store_name": "EcoStrong",
+    "store_url": "/772311/stores/27940454459",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34454274212Open payments"
+  },
+  {
+    "date": "February 20, 2025 at 4:01 am",
+    "store_name": "EcoStrong",
+    "store_url": "/772311/stores/27940454459",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 19, 2025 at 10:26 pm",
+    "store_name": "Astrid's Dragon",
+    "store_url": "/772311/stores/80940859721",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store, Hard to set up or use"
+  },
+  {
+    "date": "February 19, 2025 at 10:26 pm",
+    "store_name": "Astrid's Dragon",
+    "store_url": "/772311/stores/80940859721",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 40403140937Open payments"
+  },
+  {
+    "date": "February 19, 2025 at 10:20 pm",
+    "store_name": "Astrid's Dragon",
+    "store_url": "/772311/stores/80940859721",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 40403140937Open payments"
+  },
+  {
+    "date": "February 19, 2025 at 10:18 pm",
+    "store_name": "Astrid's Dragon",
+    "store_url": "/772311/stores/80940859721",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 19, 2025 at 6:53 pm",
+    "store_name": "Arrêter de ronfler",
+    "store_url": "/772311/stores/93940973908",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "February 19, 2025 at 6:00 pm",
+    "store_name": "LOVRE'NT",
+    "store_url": "/772311/stores/90003603780",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62465147204Open payments"
+  },
+  {
+    "date": "February 19, 2025 at 2:39 pm",
+    "store_name": "Sadhev",
+    "store_url": "/772311/stores/61832462410",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24967610442Open payments"
+  },
+  {
+    "date": "February 19, 2025 at 2:38 pm",
+    "store_name": "Sadhev",
+    "store_url": "/772311/stores/61832462410",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 19, 2025 at 3:46 am",
+    "store_name": "OpiFIT",
+    "store_url": "/772311/stores/86147793229",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 19, 2025 at 3:46 am",
+    "store_name": "OpiFIT",
+    "store_url": "/772311/stores/86147793229",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 95065145677Open payments"
+  },
+  {
+    "date": "February 17, 2025 at 6:01 am",
+    "store_name": "Roshni Sanghvi",
+    "store_url": "/772311/stores/28628713525",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25408700469Open payments"
+  },
+  {
+    "date": "February 17, 2025 at 6:01 am",
+    "store_name": "Roshni Sanghvi",
+    "store_url": "/772311/stores/28628713525",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "February 16, 2025 at 1:39 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/90349666676",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34102477172Open payments"
+  },
+  {
+    "date": "February 16, 2025 at 1:36 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/90349666676",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 15, 2025 at 6:00 pm",
+    "store_name": "Japan eSIM",
+    "store_url": "/772311/stores/68535582820",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26613973092Open payments"
+  }
+]

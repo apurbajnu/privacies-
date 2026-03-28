@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 27, 2025 at 3:07 pm",
+    "store_name": "TEVERUN SCOOTER",
+    "store_url": "/772311/stores/68431904923",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 27, 2025 at 2:53 pm",
+    "store_name": "TEVERUN SCOOTER",
+    "store_url": "/772311/stores/68431904923",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30006870171Open payments"
+  },
+  {
+    "date": "March 27, 2025 at 2:53 pm",
+    "store_name": "TEVERUN SCOOTER",
+    "store_url": "/772311/stores/68431904923",
+    "event": "AttentionUninstalled",
+    "event_details": "现在不使用应用"
+  },
+  {
+    "date": "March 27, 2025 at 2:46 pm",
+    "store_name": "TEVERUN SCOOTER",
+    "store_url": "/772311/stores/68431904923",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30006870171Open payments"
+  },
+  {
+    "date": "March 27, 2025 at 2:45 pm",
+    "store_name": "TEVERUN SCOOTER",
+    "store_url": "/772311/stores/68431904923",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 27, 2025 at 2:23 pm",
+    "store_name": "LOHY.",
+    "store_url": "/772311/stores/26906132565",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 27, 2025 at 2:23 pm",
+    "store_name": "LOHY.",
+    "store_url": "/772311/stores/26906132565",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32807321876Open payments"
+  },
+  {
+    "date": "March 27, 2025 at 11:24 am",
+    "store_name": "Buy Taiwan Online",
+    "store_url": "/772311/stores/60542222595",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29856989443Open payments"
+  },
+  {
+    "date": "March 27, 2025 at 11:24 am",
+    "store_name": "Buy Taiwan Online",
+    "store_url": "/772311/stores/60542222595",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 27, 2025 at 9:08 am",
+    "store_name": "Madison Park Home & Living",
+    "store_url": "/772311/stores/56823709758",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24527274046Open payments"
+  },
+  {
+    "date": "March 27, 2025 at 9:08 am",
+    "store_name": "Madison Park Home & Living",
+    "store_url": "/772311/stores/56823709758",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 27, 2025 at 8:58 am",
+    "store_name": "Madison Park Home & Living",
+    "store_url": "/772311/stores/56823709758",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24527274046Open payments"
+  },
+  {
+    "date": "March 27, 2025 at 8:58 am",
+    "store_name": "Madison Park Home & Living",
+    "store_url": "/772311/stores/56823709758",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 26, 2025 at 5:00 pm",
+    "store_name": "qinbanliang",
+    "store_url": "/772311/stores/75326849243",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31374704859Open payments"
+  },
+  {
+    "date": "March 26, 2025 at 5:00 pm",
+    "store_name": "qinbanliang",
+    "store_url": "/772311/stores/75326849243",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31374901467Open payments"
+  },
+  {
+    "date": "March 26, 2025 at 5:00 pm",
+    "store_name": "qinbanliang",
+    "store_url": "/772311/stores/75326849243",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31374835931Open payments"
+  },
+  {
+    "date": "March 26, 2025 at 5:00 pm",
+    "store_name": "qinbanliang",
+    "store_url": "/772311/stores/75326849243",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31374770395Open payments"
+  },
+  {
+    "date": "March 26, 2025 at 5:00 pm",
+    "store_name": "qinbanliang",
+    "store_url": "/772311/stores/75326849243",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31374737627Open payments"
+  },
+  {
+    "date": "March 26, 2025 at 5:00 pm",
+    "store_name": "qinbanliang",
+    "store_url": "/772311/stores/75326849243",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31374868699Open payments"
+  },
+  {
+    "date": "March 26, 2025 at 11:51 am",
+    "store_name": "Rangita",
+    "store_url": "/772311/stores/65362264242",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28060614834Open payments"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "May 23, 2022 at 6:31 am",
+    "store_name": "ISLAM POSTERS",
+    "store_url": "/772311/stores/56378130468",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22685155364Open payments"
+  },
+  {
+    "date": "May 23, 2022 at 6:31 am",
+    "store_name": "ISLAM POSTERS",
+    "store_url": "/772311/stores/56378130468",
+    "event": "AttentionUninstalled",
+    "event_details": "L'application ne fonctionne pas bien"
+  },
+  {
+    "date": "May 23, 2022 at 6:28 am",
+    "store_name": "ISLAM POSTERS",
+    "store_url": "/772311/stores/56378130468",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22685155364Open payments"
+  },
+  {
+    "date": "May 23, 2022 at 6:28 am",
+    "store_name": "ISLAM POSTERS",
+    "store_url": "/772311/stores/56378130468",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 23, 2022 at 5:54 am",
+    "store_name": "ISLAM POSTERS",
+    "store_url": "/772311/stores/56378130468",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22685057060Open payments"
+  },
+  {
+    "date": "May 23, 2022 at 5:54 am",
+    "store_name": "ISLAM POSTERS",
+    "store_url": "/772311/stores/56378130468",
+    "event": "AttentionUninstalled",
+    "event_details": "L'application ne fonctionne pas bien"
+  },
+  {
+    "date": "May 23, 2022 at 5:05 am",
+    "store_name": "ISLAM POSTERS",
+    "store_url": "/772311/stores/56378130468",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22685057060Open payments"
+  },
+  {
+    "date": "May 23, 2022 at 5:01 am",
+    "store_name": "ISLAM POSTERS",
+    "store_url": "/772311/stores/56378130468",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 23, 2022 at 3:02 am",
+    "store_name": "Wine Cooler Depot",
+    "store_url": "/772311/stores/29359898717",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "May 23, 2022 at 3:02 am",
+    "store_name": "Wine Cooler Depot",
+    "store_url": "/772311/stores/29359898717",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22663266397Open payments"
+  },
+  {
+    "date": "May 23, 2022 at 3:00 am",
+    "store_name": "Wine Cooler Depot",
+    "store_url": "/772311/stores/29359898717",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22663266397Open payments"
+  },
+  {
+    "date": "May 23, 2022 at 3:00 am",
+    "store_name": "Wine Cooler Depot",
+    "store_url": "/772311/stores/29359898717",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 22, 2022 at 8:10 pm",
+    "store_name": "vengos",
+    "store_url": "/772311/stores/8597766201",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 22, 2022 at 7:53 pm",
+    "store_name": "vengos",
+    "store_url": "/772311/stores/8597766201",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 21, 2022 at 6:26 am",
+    "store_name": "Ecook.org",
+    "store_url": "/772311/stores/56745623667",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22678601843Open payments"
+  },
+  {
+    "date": "May 21, 2022 at 6:26 am",
+    "store_name": "Ecook.org",
+    "store_url": "/772311/stores/56745623667",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "May 18, 2022 at 4:49 am",
+    "store_name": "BirdSupplies.com",
+    "store_url": "/772311/stores/11113280",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26311655680Open payments"
+  },
+  {
+    "date": "May 18, 2022 at 4:49 am",
+    "store_name": "BirdSupplies.com",
+    "store_url": "/772311/stores/11113280",
+    "event": "AttentionUninstalled",
+    "event_details": "Other; doesn't work with my theme"
+  },
+  {
+    "date": "May 18, 2022 at 4:47 am",
+    "store_name": "BirdSupplies.com",
+    "store_url": "/772311/stores/11113280",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26311655680Open payments"
+  },
+  {
+    "date": "May 18, 2022 at 4:47 am",
+    "store_name": "BirdSupplies.com",
+    "store_url": "/772311/stores/11113280",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "June 25, 2024 at 7:01 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/60663693390",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "June 25, 2024 at 2:58 am",
+    "store_name": "Cayatch Posture Corrector",
+    "store_url": "/772311/stores/60595405054",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 25, 2024 at 2:53 am",
+    "store_name": "Cayatch Posture Corrector",
+    "store_url": "/772311/stores/60595405054",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 24, 2024 at 12:16 pm",
+    "store_name": "Haircare Superstore",
+    "store_url": "/772311/stores/8271101999",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23795007555Open payments"
+  },
+  {
+    "date": "June 24, 2024 at 12:16 pm",
+    "store_name": "Haircare Superstore",
+    "store_url": "/772311/stores/8271101999",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 24, 2024 at 6:18 am",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 22, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28633596116Open payments"
+  },
+  {
+    "date": "June 22, 2024 at 5:00 pm",
+    "store_name": "Frara Perfume",
+    "store_url": "/772311/stores/69937692905",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30151082217Open payments"
+  },
+  {
+    "date": "June 21, 2024 at 6:33 pm",
+    "store_name": "Cubelelo®",
+    "store_url": "/772311/stores/27003420758",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32824590625Open payments"
+  },
+  {
+    "date": "June 21, 2024 at 6:33 pm",
+    "store_name": "Cubelelo®",
+    "store_url": "/772311/stores/27003420758",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 21, 2024 at 3:36 am",
+    "store_name": "Vintage Baked Modern",
+    "store_url": "/772311/stores/63175655675",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28802154747Open payments"
+  },
+  {
+    "date": "June 21, 2024 at 3:36 am",
+    "store_name": "Vintage Baked Modern",
+    "store_url": "/772311/stores/63175655675",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 20, 2024 at 10:02 pm",
+    "store_name": "Meder Beauty USA",
+    "store_url": "/772311/stores/72996159773",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33540210973Open payments"
+  },
+  {
+    "date": "June 20, 2024 at 10:02 pm",
+    "store_name": "Meder Beauty USA",
+    "store_url": "/772311/stores/72996159773",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "June 20, 2024 at 9:57 pm",
+    "store_name": "Meder Beauty USA",
+    "store_url": "/772311/stores/72996159773",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33540210973Open payments"
+  },
+  {
+    "date": "June 20, 2024 at 9:56 pm",
+    "store_name": "Meder Beauty USA",
+    "store_url": "/772311/stores/72996159773",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 20, 2024 at 4:53 pm",
+    "store_name": "Frara Perfume",
+    "store_url": "/772311/stores/69937692905",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 20, 2024 at 2:44 pm",
+    "store_name": "Bouche Bée",
+    "store_url": "/772311/stores/81977213255",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33480245575Open payments"
+  },
+  {
+    "date": "June 20, 2024 at 2:44 pm",
+    "store_name": "Bouche Bée",
+    "store_url": "/772311/stores/81977213255",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 19, 2024 at 2:39 pm",
+    "store_name": "Krypto Channel",
+    "store_url": "/772311/stores/83987169627",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32793723227Open payments"
+  }
+]

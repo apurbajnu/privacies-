@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 14, 2025 at 8:08 pm",
+    "store_name": "ComiLED",
+    "store_url": "/772311/stores/62319362138",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 14, 2025 at 6:45 pm",
+    "store_name": "zhilongxi",
+    "store_url": "/772311/stores/69776572573",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 14, 2025 at 6:42 pm",
+    "store_name": "ComiLED",
+    "store_url": "/772311/stores/62319362138",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24230887514Open payments"
+  },
+  {
+    "date": "January 14, 2025 at 6:42 pm",
+    "store_name": "ComiLED",
+    "store_url": "/772311/stores/62319362138",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 14, 2025 at 5:42 pm",
+    "store_name": "Le Marchand Store",
+    "store_url": "/772311/stores/50978128030",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 79724544379Open payments"
+  },
+  {
+    "date": "January 14, 2025 at 5:38 pm",
+    "store_name": "Le Marchand Store",
+    "store_url": "/772311/stores/50978128030",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 14, 2025 at 4:39 pm",
+    "store_name": "Moins de stress",
+    "store_url": "/772311/stores/89002312014",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62896177486Open payments"
+  },
+  {
+    "date": "January 14, 2025 at 4:39 pm",
+    "store_name": "Moins de stress",
+    "store_url": "/772311/stores/89002312014",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 14, 2025 at 4:30 pm",
+    "store_name": "Arrêter de ronfler",
+    "store_url": "/772311/stores/93940973908",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 105258942804Open payments"
+  },
+  {
+    "date": "January 14, 2025 at 4:29 pm",
+    "store_name": "Arrêter de ronfler",
+    "store_url": "/772311/stores/93940973908",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 14, 2025 at 4:07 am",
+    "store_name": "Human Nature Creative Co",
+    "store_url": "/772311/stores/65745813687",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 14, 2025 at 4:07 am",
+    "store_name": "Human Nature Creative Co",
+    "store_url": "/772311/stores/65745813687",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28145516727Open payments"
+  },
+  {
+    "date": "January 14, 2025 at 3:35 am",
+    "store_name": "Human Nature Creative Co",
+    "store_url": "/772311/stores/65745813687",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28145516727Open payments"
+  },
+  {
+    "date": "January 14, 2025 at 3:34 am",
+    "store_name": "Human Nature Creative Co",
+    "store_url": "/772311/stores/65745813687",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 13, 2025 at 3:18 pm",
+    "store_name": "MonPortlaser.de",
+    "store_url": "/772311/stores/84221329708",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34361147692Open payments"
+  },
+  {
+    "date": "January 13, 2025 at 3:17 pm",
+    "store_name": "MonPortlaser.de",
+    "store_url": "/772311/stores/84221329708",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 12, 2025 at 7:34 am",
+    "store_name": "Reminded Me",
+    "store_url": "/772311/stores/79851979050",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34168766762Open payments"
+  },
+  {
+    "date": "January 12, 2025 at 7:32 am",
+    "store_name": "Reminded Me",
+    "store_url": "/772311/stores/79851979050",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 11, 2025 at 7:08 am",
+    "store_name": "Unioonsa",
+    "store_url": "/772311/stores/90469957949",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34301968701Open payments"
+  },
+  {
+    "date": "January 11, 2025 at 7:08 am",
+    "store_name": "Unioonsa",
+    "store_url": "/772311/stores/90469957949",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

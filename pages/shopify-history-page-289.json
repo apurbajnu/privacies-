@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 26, 2022 at 11:28 pm",
+    "store_name": "arkatechbeatz.com",
+    "store_url": "/772311/stores/61074243764",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well; Doesnt work with theme"
+  },
+  {
+    "date": "August 26, 2022 at 10:37 pm",
+    "store_name": "arkatechbeatz.com",
+    "store_url": "/772311/stores/61074243764",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24871862452Open payments"
+  },
+  {
+    "date": "August 26, 2022 at 9:27 pm",
+    "store_name": "arkatechbeatz.com",
+    "store_url": "/772311/stores/61074243764",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 25, 2022 at 11:29 pm",
+    "store_name": "Dope Dog",
+    "store_url": "/772311/stores/22143103",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27024949475Open payments"
+  },
+  {
+    "date": "August 25, 2022 at 11:29 pm",
+    "store_name": "Dope Dog",
+    "store_url": "/772311/stores/22143103",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 25, 2022 at 5:00 pm",
+    "store_name": "IMARKU",
+    "store_url": "/772311/stores/56481448141",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24143986893Open payments"
+  },
+  {
+    "date": "August 25, 2022 at 5:00 pm",
+    "store_name": "IMARKU",
+    "store_url": "/772311/stores/56481448141",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24143954125Open payments"
+  },
+  {
+    "date": "August 23, 2022 at 7:04 pm",
+    "store_name": "LVBagaholic",
+    "store_url": "/772311/stores/334921742",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "August 23, 2022 at 7:04 pm",
+    "store_name": "LVBagaholic",
+    "store_url": "/772311/stores/334921742",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26446463234Open payments"
+  },
+  {
+    "date": "August 23, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27685945559Open payments"
+  },
+  {
+    "date": "August 23, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27685978327Open payments"
+  },
+  {
+    "date": "August 23, 2022 at 1:33 pm",
+    "store_name": "Weadultshop",
+    "store_url": "/772311/stores/25097633845",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "August 23, 2022 at 1:33 pm",
+    "store_name": "Weadultshop",
+    "store_url": "/772311/stores/25097633845",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26287472892Open payments"
+  },
+  {
+    "date": "August 23, 2022 at 8:13 am",
+    "store_name": "IMARKU",
+    "store_url": "/772311/stores/56481448141",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well; The app can't work. Try to contact them, but none responds."
+  },
+  {
+    "date": "August 22, 2022 at 7:08 pm",
+    "store_name": "T&H Organics Skin Care",
+    "store_url": "/772311/stores/57441026108",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "August 22, 2022 at 5:09 pm",
+    "store_name": "IMARKU",
+    "store_url": "/772311/stores/56481448141",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 22, 2022 at 5:00 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27685224663Open payments"
+  },
+  {
+    "date": "August 22, 2022 at 4:05 pm",
+    "store_name": "T&H Organics Skin Care",
+    "store_url": "/772311/stores/57441026108",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "August 22, 2022 at 4:04 pm",
+    "store_name": "T&H Organics Skin Care",
+    "store_url": "/772311/stores/57441026108",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "August 22, 2022 at 4:04 pm",
+    "store_name": "T&H Organics Skin Care",
+    "store_url": "/772311/stores/57441026108",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23160324156Open payments"
+  }
+]

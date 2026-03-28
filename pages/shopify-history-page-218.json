@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 19, 2023 at 5:00 pm",
+    "store_name": "app-security-02",
+    "store_url": "/772311/stores/69161943062",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 26957119510Open payments"
+  },
+  {
+    "date": "July 16, 2023 at 9:15 pm",
+    "store_name": "app-security-02",
+    "store_url": "/772311/stores/69161943062",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 16, 2023 at 9:05 pm",
+    "store_name": "app-security-02",
+    "store_url": "/772311/stores/69161943062",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 14, 2023 at 3:33 pm",
+    "store_name": "Scooxi",
+    "store_url": "/772311/stores/76772868390",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "July 14, 2023 at 3:33 pm",
+    "store_name": "Scooxi",
+    "store_url": "/772311/stores/76772868390",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29800202534Open payments"
+  },
+  {
+    "date": "July 12, 2023 at 8:26 pm",
+    "store_name": "nemyon",
+    "store_url": "/772311/stores/76463309107",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29959815475Open payments"
+  },
+  {
+    "date": "July 12, 2023 at 8:26 pm",
+    "store_name": "nemyon",
+    "store_url": "/772311/stores/76463309107",
+    "event": "AttentionUninstalled",
+    "event_details": "ストアで動作しない、または互換性がない"
+  },
+  {
+    "date": "July 12, 2023 at 8:24 pm",
+    "store_name": "nemyon",
+    "store_url": "/772311/stores/76463309107",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29959815475Open payments"
+  },
+  {
+    "date": "July 12, 2023 at 8:24 pm",
+    "store_name": "nemyon",
+    "store_url": "/772311/stores/76463309107",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 12, 2023 at 5:00 pm",
+    "store_name": "app-security-02",
+    "store_url": "/772311/stores/69161943062",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 26872348694Open payments"
+  },
+  {
+    "date": "July 9, 2023 at 10:00 pm",
+    "store_name": "Scooxi",
+    "store_url": "/772311/stores/76772868390",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29800202534Open payments"
+  },
+  {
+    "date": "July 9, 2023 at 10:00 pm",
+    "store_name": "Scooxi",
+    "store_url": "/772311/stores/76772868390",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 9, 2023 at 9:15 pm",
+    "store_name": "app-security-02",
+    "store_url": "/772311/stores/69161943062",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 9, 2023 at 9:05 pm",
+    "store_name": "app-security-02",
+    "store_url": "/772311/stores/69161943062",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 5, 2023 at 5:00 pm",
+    "store_name": "app-security-02",
+    "store_url": "/772311/stores/69161943062",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 26796949526Open payments"
+  },
+  {
+    "date": "July 4, 2023 at 2:27 am",
+    "store_name": "MERE HYZER",
+    "store_url": "/772311/stores/68006805770",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31093293322Open payments"
+  },
+  {
+    "date": "July 4, 2023 at 2:27 am",
+    "store_name": "MERE HYZER",
+    "store_url": "/772311/stores/68006805770",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use, Limited or missing features"
+  },
+  {
+    "date": "July 4, 2023 at 1:52 am",
+    "store_name": "MERE HYZER",
+    "store_url": "/772311/stores/68006805770",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31093293322Open payments"
+  },
+  {
+    "date": "July 4, 2023 at 1:52 am",
+    "store_name": "MERE HYZER",
+    "store_url": "/772311/stores/68006805770",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 4, 2023 at 1:44 am",
+    "store_name": "F&J Outdoors",
+    "store_url": "/772311/stores/27746074759",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  }
+]

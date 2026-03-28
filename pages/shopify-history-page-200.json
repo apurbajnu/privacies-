@@ -1,0 +1,142 @@
+[
+  {
+    "date": "November 14, 2023 at 6:00 pm",
+    "store_name": "BeFox",
+    "store_url": "/772311/stores/47609544863",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31372542283Open payments"
+  },
+  {
+    "date": "November 14, 2023 at 6:00 pm",
+    "store_name": "BeFox",
+    "store_url": "/772311/stores/47609544863",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31372575051Open payments"
+  },
+  {
+    "date": "November 13, 2023 at 7:38 pm",
+    "store_name": "Clever Soap",
+    "store_url": "/772311/stores/77775896915",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31393055059Open payments"
+  },
+  {
+    "date": "November 13, 2023 at 7:37 pm",
+    "store_name": "Clever Soap",
+    "store_url": "/772311/stores/77775896915",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 12, 2023 at 7:15 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 12, 2023 at 7:08 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 12, 2023 at 7:55 am",
+    "store_name": "BeFox",
+    "store_url": "/772311/stores/47609544863",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31372607819Open payments"
+  },
+  {
+    "date": "November 12, 2023 at 7:55 am",
+    "store_name": "BeFox",
+    "store_url": "/772311/stores/47609544863",
+    "event": "AttentionUninstalled",
+    "event_details": "Funktioniert nicht oder nicht mit dem Shop kompatibel, Begrenzte oder fehlende Funktionen, Schwierig einzurichten oder zu verwenden"
+  },
+  {
+    "date": "November 12, 2023 at 7:43 am",
+    "store_name": "BeFox",
+    "store_url": "/772311/stores/47609544863",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31372607819Open payments"
+  },
+  {
+    "date": "November 12, 2023 at 7:42 am",
+    "store_name": "BeFox",
+    "store_url": "/772311/stores/47609544863",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 11, 2023 at 6:00 pm",
+    "store_name": "Kuvings USA",
+    "store_url": "/772311/stores/2622157",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26726203558Open payments"
+  },
+  {
+    "date": "November 11, 2023 at 6:00 pm",
+    "store_name": "Kuvings USA",
+    "store_url": "/772311/stores/2622157",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26726236326Open payments"
+  },
+  {
+    "date": "November 11, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31378014492Open payments"
+  },
+  {
+    "date": "November 10, 2023 at 6:00 pm",
+    "store_name": "TestoForce®",
+    "store_url": "/772311/stores/78817820997",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31279579461Open payments"
+  },
+  {
+    "date": "November 10, 2023 at 6:00 pm",
+    "store_name": "TestoForce®",
+    "store_url": "/772311/stores/78817820997",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31279841605Open payments"
+  },
+  {
+    "date": "November 10, 2023 at 5:01 am",
+    "store_name": "Hayah Stones",
+    "store_url": "/772311/stores/76890440012",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31268438348Open payments"
+  },
+  {
+    "date": "November 10, 2023 at 5:01 am",
+    "store_name": "Hayah Stones",
+    "store_url": "/772311/stores/76890440012",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "November 9, 2023 at 4:23 am",
+    "store_name": "Kuvings USA",
+    "store_url": "/772311/stores/2622157",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 9, 2023 at 4:21 am",
+    "store_name": "Kuvings USA",
+    "store_url": "/772311/stores/2622157",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 8, 2023 at 6:00 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 28063924246Open payments"
+  }
+]

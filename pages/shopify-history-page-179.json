@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 26, 2024 at 4:41 am",
+    "store_name": "Shine Shark Solutions",
+    "store_url": "/772311/stores/55057743983",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 25, 2024 at 6:20 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "January 25, 2024 at 6:20 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28081225979Open payments"
+  },
+  {
+    "date": "January 25, 2024 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31873073436Open payments"
+  },
+  {
+    "date": "January 25, 2024 at 4:23 pm",
+    "store_name": "EXOHOM",
+    "store_url": "/772311/stores/62745510111",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28825518303Open payments"
+  },
+  {
+    "date": "January 25, 2024 at 3:49 pm",
+    "store_name": "EXOHOM",
+    "store_url": "/772311/stores/62745510111",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28824928479Open payments"
+  },
+  {
+    "date": "January 25, 2024 at 3:47 pm",
+    "store_name": "EXOHOM",
+    "store_url": "/772311/stores/62745510111",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28824699103Open payments"
+  },
+  {
+    "date": "January 25, 2024 at 12:26 pm",
+    "store_name": "EXOHOM",
+    "store_url": "/772311/stores/62745510111",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 25, 2024 at 2:22 am",
+    "store_name": "Dough Mama",
+    "store_url": "/772311/stores/80808575252",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "January 25, 2024 at 2:22 am",
+    "store_name": "Dough Mama",
+    "store_url": "/772311/stores/80808575252",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31901679892Open payments"
+  },
+  {
+    "date": "January 24, 2024 at 11:18 pm",
+    "store_name": "Dough Mama",
+    "store_url": "/772311/stores/80808575252",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31901679892Open payments"
+  },
+  {
+    "date": "January 24, 2024 at 11:17 pm",
+    "store_name": "Dough Mama",
+    "store_url": "/772311/stores/80808575252",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 24, 2024 at 8:23 pm",
+    "store_name": "Reddy Threads",
+    "store_url": "/772311/stores/32939737223",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26572652704Open payments"
+  },
+  {
+    "date": "January 24, 2024 at 8:23 pm",
+    "store_name": "Reddy Threads",
+    "store_url": "/772311/stores/32939737223",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 24, 2024 at 2:36 am",
+    "store_name": "Crystal Computers Bilston & Wolverhampton",
+    "store_url": "/772311/stores/80457957725",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32142197085Open payments"
+  },
+  {
+    "date": "January 24, 2024 at 2:35 am",
+    "store_name": "Crystal Computers Bilston & Wolverhampton",
+    "store_url": "/772311/stores/80457957725",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 22, 2024 at 11:16 pm",
+    "store_name": "NextDayDTF",
+    "store_url": "/772311/stores/55921999956",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23007068244Open payments"
+  },
+  {
+    "date": "January 22, 2024 at 11:16 pm",
+    "store_name": "NextDayDTF",
+    "store_url": "/772311/stores/55921999956",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 22, 2024 at 11:14 pm",
+    "store_name": "NextDayDTF",
+    "store_url": "/772311/stores/55921999956",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23007068244Open payments"
+  },
+  {
+    "date": "January 22, 2024 at 11:14 pm",
+    "store_name": "NextDayDTF",
+    "store_url": "/772311/stores/55921999956",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

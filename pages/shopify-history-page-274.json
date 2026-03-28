@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 9, 2022 at 4:53 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 3:32 am",
+    "store_name": "dandechoisnike",
+    "store_url": "/772311/stores/62423924918",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 9, 2022 at 3:31 am",
+    "store_name": "dandechoisnike",
+    "store_url": "/772311/stores/62423924918",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 8, 2022 at 11:47 pm",
+    "store_name": "ZzzDreams",
+    "store_url": "/772311/stores/38176391212",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 8, 2022 at 11:47 pm",
+    "store_name": "ZzzDreams",
+    "store_url": "/772311/stores/38176391212",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23673438252Open payments"
+  },
+  {
+    "date": "December 8, 2022 at 11:44 pm",
+    "store_name": "ZzzDreams",
+    "store_url": "/772311/stores/38176391212",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23673438252Open payments"
+  },
+  {
+    "date": "December 8, 2022 at 11:43 pm",
+    "store_name": "ZzzDreams",
+    "store_url": "/772311/stores/38176391212",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 8, 2022 at 1:47 pm",
+    "store_name": "linh-test-store2",
+    "store_url": "/772311/stores/64534020309",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 8, 2022 at 4:48 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 8, 2022 at 4:47 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 8, 2022 at 4:41 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 8, 2022 at 4:41 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 8, 2022 at 3:52 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 8, 2022 at 3:51 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 8, 2022 at 1:56 am",
+    "store_name": "dandechoisnike",
+    "store_url": "/772311/stores/62423924918",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 7, 2022 at 8:28 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 7, 2022 at 8:27 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 7, 2022 at 8:08 pm",
+    "store_name": "Luna",
+    "store_url": "/772311/stores/7513309251",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 7, 2022 at 8:05 pm",
+    "store_name": "Luna",
+    "store_url": "/772311/stores/7513309251",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 7, 2022 at 7:55 pm",
+    "store_name": "eject123",
+    "store_url": "/772311/stores/69063409959",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

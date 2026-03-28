@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 11, 2025 at 9:51 pm",
+    "store_name": "Rush Patch",
+    "store_url": "/772311/stores/65868562497",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26104266817Open payments"
+  },
+  {
+    "date": "August 11, 2025 at 9:49 pm",
+    "store_name": "Rush Patch",
+    "store_url": "/772311/stores/65868562497",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 9, 2025 at 6:32 pm",
+    "store_name": "Clothing Aesthetics",
+    "store_url": "/772311/stores/69972295984",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "August 9, 2025 at 5:00 pm",
+    "store_name": "MacCase",
+    "store_url": "/772311/stores/3647413",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30329831673Open payments"
+  },
+  {
+    "date": "August 9, 2025 at 10:31 am",
+    "store_name": "SoSocial",
+    "store_url": "/772311/stores/69990908092",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 9, 2025 at 10:31 am",
+    "store_name": "SoSocial",
+    "store_url": "/772311/stores/69990908092",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28034728124Open payments"
+  },
+  {
+    "date": "August 7, 2025 at 4:04 pm",
+    "store_name": "Monportlaser",
+    "store_url": "/772311/stores/59151286471",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 7, 2025 at 2:34 am",
+    "store_name": "MacCase",
+    "store_url": "/772311/stores/3647413",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 6, 2025 at 8:01 pm",
+    "store_name": "Tactical Wolves",
+    "store_url": "/772311/stores/71194771491",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 6, 2025 at 8:00 pm",
+    "store_name": "Tactical Wolves",
+    "store_url": "/772311/stores/71194771491",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 6, 2025 at 8:00 pm",
+    "store_name": "Tactical Wolves",
+    "store_url": "/772311/stores/71194771491",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 6, 2025 at 7:58 pm",
+    "store_name": "Tactical Wolves",
+    "store_url": "/772311/stores/71194771491",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 6, 2025 at 9:06 am",
+    "store_name": "Kaiju Care",
+    "store_url": "/772311/stores/61854089411",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25596461251Open payments"
+  },
+  {
+    "date": "August 6, 2025 at 9:06 am",
+    "store_name": "Kaiju Care",
+    "store_url": "/772311/stores/61854089411",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "August 5, 2025 at 1:41 pm",
+    "store_name": "Arc de Shapes",
+    "store_url": "/772311/stores/64722403385",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "August 5, 2025 at 12:25 pm",
+    "store_name": "SoSocial",
+    "store_url": "/772311/stores/69990908092",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 5, 2025 at 11:26 am",
+    "store_name": "Poggers",
+    "store_url": "/772311/stores/40097677479",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27261796610Open payments"
+  },
+  {
+    "date": "August 5, 2025 at 11:26 am",
+    "store_name": "Poggers",
+    "store_url": "/772311/stores/40097677479",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 4, 2025 at 5:18 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/62827528307",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 4, 2025 at 5:16 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/62827528307",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 18, 2024 at 10:02 pm",
+    "store_name": "Quickstart (aacee597)",
+    "store_url": "/772311/stores/80141320485",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 16, 2024 at 8:05 pm",
+    "store_name": "meoohoanglaplanh",
+    "store_url": "/772311/stores/68725014776",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "March 16, 2024 at 8:05 pm",
+    "store_name": "meoohoanglaplanh",
+    "store_url": "/772311/stores/68725014776",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28174057720Open payments"
+  },
+  {
+    "date": "March 16, 2024 at 7:19 pm",
+    "store_name": "healthcare nt sickcare",
+    "store_url": "/772311/stores/72081867039",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32252985631Open payments"
+  },
+  {
+    "date": "March 16, 2024 at 7:19 pm",
+    "store_name": "healthcare nt sickcare",
+    "store_url": "/772311/stores/72081867039",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 16, 2024 at 9:30 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "March 16, 2024 at 6:31 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "March 15, 2024 at 9:18 pm",
+    "store_name": "meoohoanglaplanh",
+    "store_url": "/772311/stores/68725014776",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28174057720Open payments"
+  },
+  {
+    "date": "March 15, 2024 at 9:17 pm",
+    "store_name": "meoohoanglaplanh",
+    "store_url": "/772311/stores/68725014776",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 14, 2024 at 9:44 pm",
+    "store_name": "KAPLAN MD SKINCARE",
+    "store_url": "/772311/stores/22182651",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28321087732Open payments"
+  },
+  {
+    "date": "March 14, 2024 at 9:43 pm",
+    "store_name": "KAPLAN MD SKINCARE",
+    "store_url": "/772311/stores/22182651",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 14, 2024 at 2:58 pm",
+    "store_name": "Dutch Natural Healing",
+    "store_url": "/772311/stores/80924770631",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32430817607Open payments"
+  },
+  {
+    "date": "March 14, 2024 at 2:58 pm",
+    "store_name": "Dutch Natural Healing",
+    "store_url": "/772311/stores/80924770631",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features, Hard to set up or use"
+  },
+  {
+    "date": "March 14, 2024 at 2:51 pm",
+    "store_name": "Dutch Natural Healing",
+    "store_url": "/772311/stores/80924770631",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32430817607Open payments"
+  },
+  {
+    "date": "March 14, 2024 at 2:51 pm",
+    "store_name": "Dutch Natural Healing",
+    "store_url": "/772311/stores/80924770631",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 14, 2024 at 1:28 am",
+    "store_name": "Byers Boutique",
+    "store_url": "/772311/stores/17558503524",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27354726584Open payments"
+  },
+  {
+    "date": "March 14, 2024 at 1:28 am",
+    "store_name": "Byers Boutique",
+    "store_url": "/772311/stores/17558503524",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 10, 2024 at 5:00 pm",
+    "store_name": "IMZY Moroccan Jewellery",
+    "store_url": "/772311/stores/67223781675",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32406831403Open payments"
+  },
+  {
+    "date": "March 10, 2024 at 5:00 pm",
+    "store_name": "IMZY Moroccan Jewellery",
+    "store_url": "/772311/stores/67223781675",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32406864171Open payments"
+  },
+  {
+    "date": "March 9, 2024 at 6:00 pm",
+    "store_name": "IMZY Moroccan Jewellery",
+    "store_url": "/772311/stores/67223781675",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32406536491Open payments"
+  }
+]

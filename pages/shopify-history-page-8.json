@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 17, 2025 at 5:06 am",
+    "store_name": "VitalGlow",
+    "store_url": "/772311/stores/67330900083",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 15, 2025 at 3:39 pm",
+    "store_name": "Bassetts Online",
+    "store_url": "/772311/stores/89320718670",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 13, 2025 at 9:14 pm",
+    "store_name": "FRANCTANK",
+    "store_url": "/772311/stores/65588887641",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 13, 2025 at 9:14 pm",
+    "store_name": "FRANCTANK",
+    "store_url": "/772311/stores/65588887641",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26541162585Open payments"
+  },
+  {
+    "date": "December 13, 2025 at 6:00 pm",
+    "store_name": "elisa-sandbox-boraso",
+    "store_url": "/772311/stores/92644442456",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 48572170584Open payments"
+  },
+  {
+    "date": "December 13, 2025 at 6:50 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32816890158Open payments"
+  },
+  {
+    "date": "December 13, 2025 at 6:50 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "December 13, 2025 at 2:00 am",
+    "store_name": "Test Store Plus",
+    "store_url": "/772311/stores/63225921611",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 13, 2025 at 2:00 am",
+    "store_name": "Test Store Plus",
+    "store_url": "/772311/stores/63225921611",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 12, 2025 at 9:42 pm",
+    "store_name": "Eco Kids Bay",
+    "store_url": "/772311/stores/42405396646",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "December 12, 2025 at 6:00 pm",
+    "store_name": "elisa-sandbox-boraso",
+    "store_url": "/772311/stores/92644442456",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 48571351384Open payments"
+  },
+  {
+    "date": "December 12, 2025 at 6:00 pm",
+    "store_name": "elisa-sandbox-boraso",
+    "store_url": "/772311/stores/92644442456",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 48571384152Open payments"
+  },
+  {
+    "date": "December 12, 2025 at 6:00 pm",
+    "store_name": "FRANCTANK",
+    "store_url": "/772311/stores/65588887641",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26541129817Open payments"
+  },
+  {
+    "date": "December 12, 2025 at 6:00 pm",
+    "store_name": "FRANCTANK",
+    "store_url": "/772311/stores/65588887641",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26541097049Open payments"
+  },
+  {
+    "date": "December 12, 2025 at 6:00 pm",
+    "store_name": "FRANCTANK",
+    "store_url": "/772311/stores/65588887641",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26541064281Open payments"
+  },
+  {
+    "date": "December 12, 2025 at 6:46 am",
+    "store_name": "J.D. COKER",
+    "store_url": "/772311/stores/67350298786",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29397418146Open payments"
+  },
+  {
+    "date": "December 12, 2025 at 6:46 am",
+    "store_name": "J.D. COKER",
+    "store_url": "/772311/stores/67350298786",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 12, 2025 at 6:06 am",
+    "store_name": "Adore Coffee Roasters",
+    "store_url": "/772311/stores/94851989794",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 12, 2025 at 6:03 am",
+    "store_name": "Adore Coffee Roasters",
+    "store_url": "/772311/stores/94851989794",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 11, 2025 at 6:00 pm",
+    "store_name": "MooseLog",
+    "store_url": "/772311/stores/55192551630",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25611043022Open payments"
+  }
+]

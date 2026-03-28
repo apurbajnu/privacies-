@@ -1,0 +1,142 @@
+[
+  {
+    "date": "September 19, 2024 at 5:24 am",
+    "store_name": "Fleet 1st",
+    "store_url": "/772311/stores/89287885118",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33329316158Open payments"
+  },
+  {
+    "date": "September 19, 2024 at 5:24 am",
+    "store_name": "Fleet 1st",
+    "store_url": "/772311/stores/89287885118",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 18, 2024 at 6:24 pm",
+    "store_name": "Smokz Vape Store",
+    "store_url": "/772311/stores/2306342947",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29209362671Open payments"
+  },
+  {
+    "date": "September 18, 2024 at 6:24 pm",
+    "store_name": "Smokz Vape Store",
+    "store_url": "/772311/stores/2306342947",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 18, 2024 at 11:45 am",
+    "store_name": "ARM Pearl Beauty",
+    "store_url": "/772311/stores/58121748561",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24780079185Open payments"
+  },
+  {
+    "date": "September 18, 2024 at 11:45 am",
+    "store_name": "ARM Pearl Beauty",
+    "store_url": "/772311/stores/58121748561",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 18, 2024 at 1:00 am",
+    "store_name": "Greenlight Heating",
+    "store_url": "/772311/stores/72012300581",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31792365861Open payments"
+  },
+  {
+    "date": "September 18, 2024 at 1:00 am",
+    "store_name": "Greenlight Heating",
+    "store_url": "/772311/stores/72012300581",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "September 17, 2024 at 11:37 pm",
+    "store_name": "Chica De Pora",
+    "store_url": "/772311/stores/78133821719",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33740980503Open payments"
+  },
+  {
+    "date": "September 17, 2024 at 11:37 pm",
+    "store_name": "Chica De Pora",
+    "store_url": "/772311/stores/78133821719",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 16, 2024 at 9:45 pm",
+    "store_name": "Green Coffee Collective",
+    "store_url": "/772311/stores/72530067755",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33560723755Open payments"
+  },
+  {
+    "date": "September 16, 2024 at 9:45 pm",
+    "store_name": "Green Coffee Collective",
+    "store_url": "/772311/stores/72530067755",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 16, 2024 at 5:25 pm",
+    "store_name": "Magnesium Wash",
+    "store_url": "/772311/stores/39665402022",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25776521382Open payments"
+  },
+  {
+    "date": "September 16, 2024 at 4:13 am",
+    "store_name": "ATOMIC FUNGI",
+    "store_url": "/772311/stores/80549740844",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33470873900Open payments"
+  },
+  {
+    "date": "September 16, 2024 at 4:12 am",
+    "store_name": "ATOMIC FUNGI",
+    "store_url": "/772311/stores/80549740844",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 15, 2024 at 5:00 pm",
+    "store_name": "Couture Alley",
+    "store_url": "/772311/stores/84363084121",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34079506777Open payments"
+  },
+  {
+    "date": "September 15, 2024 at 5:00 pm",
+    "store_name": "Couture Alley",
+    "store_url": "/772311/stores/84363084121",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34074231129Open payments"
+  },
+  {
+    "date": "September 15, 2024 at 5:00 pm",
+    "store_name": "Couture Alley",
+    "store_url": "/772311/stores/84363084121",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34074165593Open payments"
+  },
+  {
+    "date": "September 15, 2024 at 5:00 pm",
+    "store_name": "Couture Alley",
+    "store_url": "/772311/stores/84363084121",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34074329433Open payments"
+  },
+  {
+    "date": "September 15, 2024 at 5:00 pm",
+    "store_name": "Couture Alley",
+    "store_url": "/772311/stores/84363084121",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34072166745Open payments"
+  }
+]

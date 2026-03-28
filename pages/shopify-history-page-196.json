@@ -1,0 +1,142 @@
+[
+  {
+    "date": "November 27, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31508267292Open payments"
+  },
+  {
+    "date": "November 27, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31508332828Open payments"
+  },
+  {
+    "date": "November 27, 2023 at 5:34 pm",
+    "store_name": "Trogon Cricket",
+    "store_url": "/772311/stores/78172324182",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31546802518Open payments"
+  },
+  {
+    "date": "November 27, 2023 at 5:34 pm",
+    "store_name": "Trogon Cricket",
+    "store_url": "/772311/stores/78172324182",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "November 27, 2023 at 5:30 pm",
+    "store_name": "Trogon Cricket",
+    "store_url": "/772311/stores/78172324182",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31546802518Open payments"
+  },
+  {
+    "date": "November 27, 2023 at 5:29 pm",
+    "store_name": "Trogon Cricket",
+    "store_url": "/772311/stores/78172324182",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 27, 2023 at 2:08 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 27, 2023 at 2:07 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 27, 2023 at 9:10 am",
+    "store_name": "Made It Australia",
+    "store_url": "/772311/stores/76131500338",
+    "event": "AttentionUninstalled",
+    "event_details": "App security or privacy issues; Access denied when trying to install, not sure if dodgy"
+  },
+  {
+    "date": "November 27, 2023 at 9:09 am",
+    "store_name": "Made It Australia",
+    "store_url": "/772311/stores/76131500338",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 26, 2023 at 7:15 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 26, 2023 at 7:06 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 26, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31503843612Open payments"
+  },
+  {
+    "date": "November 26, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31501517084Open payments"
+  },
+  {
+    "date": "November 26, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31501123868Open payments"
+  },
+  {
+    "date": "November 26, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31500566812Open payments"
+  },
+  {
+    "date": "November 26, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31500730652Open payments"
+  },
+  {
+    "date": "November 26, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31500697884Open payments"
+  },
+  {
+    "date": "November 26, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31500894492Open payments"
+  },
+  {
+    "date": "November 26, 2023 at 6:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31501648156Open payments"
+  }
+]

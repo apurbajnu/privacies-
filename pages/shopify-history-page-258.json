@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 17, 2023 at 6:03 am",
+    "store_name": "HitLights",
+    "store_url": "/772311/stores/20976403",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27358789872Open payments"
+  },
+  {
+    "date": "February 17, 2023 at 5:00 am",
+    "store_name": "GLDN",
+    "store_url": "/772311/stores/28261154947",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "February 17, 2023 at 5:00 am",
+    "store_name": "GLDN",
+    "store_url": "/772311/stores/28261154947",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23282548867Open payments"
+  },
+  {
+    "date": "February 17, 2023 at 4:53 am",
+    "store_name": "GLDN",
+    "store_url": "/772311/stores/28261154947",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23282548867Open payments"
+  },
+  {
+    "date": "February 17, 2023 at 4:52 am",
+    "store_name": "GLDN",
+    "store_url": "/772311/stores/28261154947",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 17, 2023 at 3:19 am",
+    "store_name": "Mommy o' Clock",
+    "store_url": "/772311/stores/50329288853",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28714860693Open payments"
+  },
+  {
+    "date": "February 17, 2023 at 3:14 am",
+    "store_name": "Mommy o' Clock",
+    "store_url": "/772311/stores/50329288853",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 17, 2023 at 2:45 am",
+    "store_name": "Active Care",
+    "store_url": "/772311/stores/71146701116",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28461302076Open payments"
+  },
+  {
+    "date": "February 17, 2023 at 2:45 am",
+    "store_name": "Active Care",
+    "store_url": "/772311/stores/71146701116",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "February 16, 2023 at 3:34 am",
+    "store_name": "Clothing Aesthetics",
+    "store_url": "/772311/stores/69972295984",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28527788336Open payments"
+  },
+  {
+    "date": "February 16, 2023 at 3:33 am",
+    "store_name": "Clothing Aesthetics",
+    "store_url": "/772311/stores/69972295984",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 15, 2023 at 9:55 pm",
+    "store_name": "boxmenswear",
+    "store_url": "/772311/stores/16200313",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27534688446Open payments"
+  },
+  {
+    "date": "February 15, 2023 at 9:55 pm",
+    "store_name": "boxmenswear",
+    "store_url": "/772311/stores/16200313",
+    "event": "AttentionUninstalled",
+    "event_details": "Other"
+  },
+  {
+    "date": "February 15, 2023 at 9:49 pm",
+    "store_name": "boxmenswear",
+    "store_url": "/772311/stores/16200313",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27534688446Open payments"
+  },
+  {
+    "date": "February 15, 2023 at 9:48 pm",
+    "store_name": "boxmenswear",
+    "store_url": "/772311/stores/16200313",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 15, 2023 at 6:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25549701142Open payments"
+  },
+  {
+    "date": "February 15, 2023 at 6:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25549996054Open payments"
+  },
+  {
+    "date": "February 15, 2023 at 9:44 am",
+    "store_name": "BoatSupplie",
+    "store_url": "/772311/stores/71430996256",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28392653088Open payments"
+  },
+  {
+    "date": "February 15, 2023 at 9:44 am",
+    "store_name": "BoatSupplie",
+    "store_url": "/772311/stores/71430996256",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "February 15, 2023 at 3:35 am",
+    "store_name": "Linnie`s",
+    "store_url": "/772311/stores/59748941980",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25557270684Open payments"
+  }
+]

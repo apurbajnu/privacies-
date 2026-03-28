@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 14, 2024 at 3:17 am",
+    "store_name": "Pink Mouse Planner Shop",
+    "store_url": "/772311/stores/55228694713",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 14, 2024 at 3:02 am",
+    "store_name": "Simply Clotheslines",
+    "store_url": "/772311/stores/14099936",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27528954018Open payments"
+  },
+  {
+    "date": "August 14, 2024 at 3:02 am",
+    "store_name": "Simply Clotheslines",
+    "store_url": "/772311/stores/14099936",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 13, 2024 at 5:13 pm",
+    "store_name": "Airback Netherlands",
+    "store_url": "/772311/stores/70573457645",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29211427053Open payments"
+  },
+  {
+    "date": "August 13, 2024 at 5:13 pm",
+    "store_name": "Airback Netherlands",
+    "store_url": "/772311/stores/70573457645",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 13, 2024 at 5:10 pm",
+    "store_name": "Airback Netherlands",
+    "store_url": "/772311/stores/70573457645",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29211427053Open payments"
+  },
+  {
+    "date": "August 13, 2024 at 5:09 pm",
+    "store_name": "Airback Netherlands",
+    "store_url": "/772311/stores/70573457645",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 13, 2024 at 12:40 pm",
+    "store_name": "Roshni Sanghvi",
+    "store_url": "/772311/stores/28628713525",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25408700469Open payments"
+  },
+  {
+    "date": "August 13, 2024 at 12:39 pm",
+    "store_name": "Roshni Sanghvi",
+    "store_url": "/772311/stores/28628713525",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 13, 2024 at 12:18 pm",
+    "store_name": "diaminyaesthetics",
+    "store_url": "/772311/stores/87177134375",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 13, 2024 at 3:07 am",
+    "store_name": "Audio Intensity",
+    "store_url": "/772311/stores/6891389",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24731025497Open payments"
+  },
+  {
+    "date": "August 12, 2024 at 11:12 pm",
+    "store_name": "Audio Intensity",
+    "store_url": "/772311/stores/6891389",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 12, 2024 at 5:00 pm",
+    "store_name": "DOORDOCK",
+    "store_url": "/772311/stores/79549464914",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34062008658Open payments"
+  },
+  {
+    "date": "August 12, 2024 at 5:00 pm",
+    "store_name": "DOORDOCK",
+    "store_url": "/772311/stores/79549464914",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34062041426Open payments"
+  },
+  {
+    "date": "August 12, 2024 at 12:24 pm",
+    "store_name": "GPS Tracker Shop",
+    "store_url": "/772311/stores/88407441714",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33206993202Open payments"
+  },
+  {
+    "date": "August 12, 2024 at 12:24 pm",
+    "store_name": "GPS Tracker Shop",
+    "store_url": "/772311/stores/88407441714",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 11, 2024 at 9:04 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 11, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28887417044Open payments"
+  },
+  {
+    "date": "August 11, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34018885955Open payments"
+  },
+  {
+    "date": "August 11, 2024 at 3:24 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

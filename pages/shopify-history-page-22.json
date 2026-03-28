@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 2, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26432372815Open payments"
+  },
+  {
+    "date": "October 2, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26432405583Open payments"
+  },
+  {
+    "date": "October 2, 2025 at 2:22 am",
+    "store_name": "Wild Kantha",
+    "store_url": "/772311/stores/64462323823",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26007273583Open payments"
+  },
+  {
+    "date": "October 2, 2025 at 2:22 am",
+    "store_name": "Wild Kantha",
+    "store_url": "/772311/stores/64462323823",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features"
+  },
+  {
+    "date": "October 2, 2025 at 1:47 am",
+    "store_name": "Wild Kantha",
+    "store_url": "/772311/stores/64462323823",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26007273583Open payments"
+  },
+  {
+    "date": "October 2, 2025 at 1:45 am",
+    "store_name": "Wild Kantha",
+    "store_url": "/772311/stores/64462323823",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 1, 2025 at 2:54 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 1, 2025 at 2:48 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 1, 2025 at 2:46 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 1, 2025 at 2:45 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 30, 2025 at 8:57 pm",
+    "store_name": "BIFLshop",
+    "store_url": "/772311/stores/92949709180",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 69518328188Open payments"
+  },
+  {
+    "date": "September 30, 2025 at 11:25 am",
+    "store_name": "Tuco Kids",
+    "store_url": "/772311/stores/61999907032",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 30, 2025 at 9:33 am",
+    "store_name": "CHOSGO Hearing",
+    "store_url": "/772311/stores/55536058660",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use, Not satisfied with support, Limited or missing features"
+  },
+  {
+    "date": "September 30, 2025 at 3:25 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 30, 2025 at 3:23 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 29, 2025 at 6:26 pm",
+    "store_name": "BIFLshop",
+    "store_url": "/772311/stores/92949709180",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 29, 2025 at 6:25 pm",
+    "store_name": "BIFLshop",
+    "store_url": "/772311/stores/92949709180",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "September 29, 2025 at 6:13 pm",
+    "store_name": "BIFLshop",
+    "store_url": "/772311/stores/92949709180",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 29, 2025 at 6:21 am",
+    "store_name": "baluka mascotas",
+    "store_url": "/772311/stores/57429393591",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 29, 2025 at 6:21 am",
+    "store_name": "baluka mascotas",
+    "store_url": "/772311/stores/57429393591",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25401393335Open payments"
+  }
+]

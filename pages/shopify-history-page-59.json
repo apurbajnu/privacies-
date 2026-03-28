@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 24, 2025 at 4:31 pm",
+    "store_name": "PeckPerk",
+    "store_url": "/772311/stores/81344201023",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 37519851839Open payments"
+  },
+  {
+    "date": "February 24, 2025 at 4:29 pm",
+    "store_name": "PeckPerk",
+    "store_url": "/772311/stores/81344201023",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 24, 2025 at 2:52 am",
+    "store_name": "Feuer und Spitze",
+    "store_url": "/772311/stores/92278817091",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 122744701251Open payments"
+  },
+  {
+    "date": "February 24, 2025 at 2:52 am",
+    "store_name": "Feuer und Spitze",
+    "store_url": "/772311/stores/92278817091",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 24, 2025 at 2:45 am",
+    "store_name": "Feuer und Spitze",
+    "store_url": "/772311/stores/92278817091",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 122744701251Open payments"
+  },
+  {
+    "date": "February 24, 2025 at 2:45 am",
+    "store_name": "Feuer und Spitze",
+    "store_url": "/772311/stores/92278817091",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 23, 2025 at 6:00 pm",
+    "store_name": "Universal AV Solutions",
+    "store_url": "/772311/stores/91013251356",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34109554972Open payments"
+  },
+  {
+    "date": "February 22, 2025 at 8:19 pm",
+    "store_name": "The Keeper's Hive",
+    "store_url": "/772311/stores/79323463995",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34250424635Open payments"
+  },
+  {
+    "date": "February 22, 2025 at 8:19 pm",
+    "store_name": "The Keeper's Hive",
+    "store_url": "/772311/stores/79323463995",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 22, 2025 at 6:00 pm",
+    "store_name": "Mi tienda",
+    "store_url": "/772311/stores/74225352929",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 56964350177Open payments"
+  },
+  {
+    "date": "February 22, 2025 at 6:00 pm",
+    "store_name": "Astrid's Dragon",
+    "store_url": "/772311/stores/80940859721",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 40403108169Open payments"
+  },
+  {
+    "date": "February 22, 2025 at 6:00 pm",
+    "store_name": "Astrid's Dragon",
+    "store_url": "/772311/stores/80940859721",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 40403075401Open payments"
+  },
+  {
+    "date": "February 21, 2025 at 10:10 pm",
+    "store_name": "NiniLadsStore",
+    "store_url": "/772311/stores/90630521216",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 21, 2025 at 5:41 pm",
+    "store_name": "Universal AV Solutions",
+    "store_url": "/772311/stores/91013251356",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 21, 2025 at 2:07 pm",
+    "store_name": "eddy shop",
+    "store_url": "/772311/stores/77191414085",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 38822641989Open payments"
+  },
+  {
+    "date": "February 21, 2025 at 2:07 pm",
+    "store_name": "eddy shop",
+    "store_url": "/772311/stores/77191414085",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 21, 2025 at 2:20 am",
+    "store_name": "trueCABLE",
+    "store_url": "/772311/stores/1464041539",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "February 21, 2025 at 2:20 am",
+    "store_name": "trueCABLE",
+    "store_url": "/772311/stores/1464041539",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24234131523Open payments"
+  },
+  {
+    "date": "February 20, 2025 at 5:05 pm",
+    "store_name": "Moins de stress",
+    "store_url": "/772311/stores/89002312014",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62896177486Open payments"
+  },
+  {
+    "date": "February 20, 2025 at 5:05 pm",
+    "store_name": "Arrêter de ronfler",
+    "store_url": "/772311/stores/93940973908",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 105258942804Open payments"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "November 14, 2024 at 5:58 pm",
+    "store_name": "MAMAZING",
+    "store_url": "/772311/stores/89530532153",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store; not compatible with the store template, the customer service quite have patirnce though"
+  },
+  {
+    "date": "November 13, 2024 at 6:10 pm",
+    "store_name": "ToolNet",
+    "store_url": "/772311/stores/69100929239",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 40701264087Open payments"
+  },
+  {
+    "date": "November 13, 2024 at 6:10 pm",
+    "store_name": "ToolNet",
+    "store_url": "/772311/stores/69100929239",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 40701231319Open payments"
+  },
+  {
+    "date": "November 13, 2024 at 6:10 pm",
+    "store_name": "ToolNet",
+    "store_url": "/772311/stores/69100929239",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 40701198551Open payments"
+  },
+  {
+    "date": "November 12, 2024 at 1:33 pm",
+    "store_name": "PB Dropshipping - Superior Quality, Surprising Price",
+    "store_url": "/772311/stores/87789273374",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "November 12, 2024 at 1:33 pm",
+    "store_name": "PB Dropshipping - Superior Quality, Surprising Price",
+    "store_url": "/772311/stores/87789273374",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34862629150Open payments"
+  },
+  {
+    "date": "November 12, 2024 at 1:18 pm",
+    "store_name": "Linner",
+    "store_url": "/772311/stores/61006020765",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 12, 2024 at 1:10 pm",
+    "store_name": "Linner",
+    "store_url": "/772311/stores/61006020765",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 12, 2024 at 8:18 am",
+    "store_name": "PB Dropshipping - Superior Quality, Surprising Price",
+    "store_url": "/772311/stores/87789273374",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34862629150Open payments"
+  },
+  {
+    "date": "November 12, 2024 at 8:18 am",
+    "store_name": "PB Dropshipping - Superior Quality, Surprising Price",
+    "store_url": "/772311/stores/87789273374",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 11, 2024 at 2:10 pm",
+    "store_name": "ToolNet",
+    "store_url": "/772311/stores/69100929239",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 11, 2024 at 1:12 am",
+    "store_name": "Medispa Polska",
+    "store_url": "/772311/stores/58777075877",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34225783115Open payments"
+  },
+  {
+    "date": "November 11, 2024 at 1:12 am",
+    "store_name": "Medispa Polska",
+    "store_url": "/772311/stores/58777075877",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 10, 2024 at 7:57 pm",
+    "store_name": "Etherea Soundlab",
+    "store_url": "/772311/stores/83773260102",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34573353286Open payments"
+  },
+  {
+    "date": "November 10, 2024 at 7:57 pm",
+    "store_name": "Etherea Soundlab",
+    "store_url": "/772311/stores/83773260102",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "November 10, 2024 at 7:46 pm",
+    "store_name": "Equlux.pl",
+    "store_url": "/772311/stores/83046203729",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 10, 2024 at 7:46 pm",
+    "store_name": "Equlux.pl",
+    "store_url": "/772311/stores/83046203729",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 39951663441Open payments"
+  },
+  {
+    "date": "November 10, 2024 at 7:43 pm",
+    "store_name": "Equlux.pl",
+    "store_url": "/772311/stores/83046203729",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 39951663441Open payments"
+  },
+  {
+    "date": "November 10, 2024 at 7:43 pm",
+    "store_name": "Equlux.pl",
+    "store_url": "/772311/stores/83046203729",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 10, 2024 at 6:00 pm",
+    "store_name": "adnanzaman",
+    "store_url": "/772311/stores/59217838246",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28054225062Open payments"
+  }
+]

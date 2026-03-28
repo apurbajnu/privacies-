@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 22, 2026 at 12:23 pm",
+    "store_name": "AD/BC",
+    "store_url": "/772311/stores/70172606685",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 22, 2026 at 8:31 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "February 22, 2026 at 8:31 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "February 22, 2026 at 6:04 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "February 22, 2026 at 6:04 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "February 21, 2026 at 6:00 pm",
+    "store_name": "Branch Basics",
+    "store_url": "/772311/stores/41091006628",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 36257202340Open payments"
+  },
+  {
+    "date": "February 21, 2026 at 6:00 pm",
+    "store_name": "Branch Basics",
+    "store_url": "/772311/stores/41091006628",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 36257169572Open payments"
+  },
+  {
+    "date": "February 21, 2026 at 7:29 am",
+    "store_name": "Shine Shark Solutions",
+    "store_url": "/772311/stores/55057743983",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "February 20, 2026 at 7:35 am",
+    "store_name": "Shine Shark Solutions",
+    "store_url": "/772311/stores/55057743983",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "February 19, 2026 at 4:25 pm",
+    "store_name": "AD/BC",
+    "store_url": "/772311/stores/70172606685",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 19, 2026 at 4:25 pm",
+    "store_name": "AD/BC",
+    "store_url": "/772311/stores/70172606685",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31169773789Open payments"
+  },
+  {
+    "date": "February 18, 2026 at 9:43 pm",
+    "store_name": "Branch Basics",
+    "store_url": "/772311/stores/41091006628",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 18, 2026 at 1:50 pm",
+    "store_name": "Peptide Hack",
+    "store_url": "/772311/stores/58156908610",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24052400194Open payments"
+  },
+  {
+    "date": "February 18, 2026 at 2:25 am",
+    "store_name": "Arbor Vitamins",
+    "store_url": "/772311/stores/63753421039",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 82278384003Open payments"
+  },
+  {
+    "date": "February 18, 2026 at 2:25 am",
+    "store_name": "Arbor Vitamins",
+    "store_url": "/772311/stores/63753421039",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 16, 2026 at 7:48 pm",
+    "store_name": "Timberustic",
+    "store_url": "/772311/stores/77781401840",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 74837459184Open payments"
+  },
+  {
+    "date": "February 16, 2026 at 7:42 pm",
+    "store_name": "Timberustic",
+    "store_url": "/772311/stores/77781401840",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 14, 2026 at 2:26 pm",
+    "store_name": "Eduyush",
+    "store_url": "/772311/stores/25020727343",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 14, 2026 at 6:01 am",
+    "store_name": "Magnesium Wash",
+    "store_url": "/772311/stores/39665402022",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "February 12, 2026 at 6:33 am",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32816890158Open payments"
+  }
+]

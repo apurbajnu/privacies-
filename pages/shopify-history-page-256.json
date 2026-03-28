@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 24, 2023 at 6:22 pm",
+    "store_name": "Juicefly Alcohol & Vape Delivery",
+    "store_url": "/772311/stores/52373586089",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 24, 2023 at 6:13 pm",
+    "store_name": "aalance",
+    "store_url": "/772311/stores/62426284248",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30468342028Open payments"
+  },
+  {
+    "date": "February 24, 2023 at 6:12 pm",
+    "store_name": "aalance",
+    "store_url": "/772311/stores/62426284248",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 24, 2023 at 6:00 pm",
+    "store_name": "thuongnth-po",
+    "store_url": "/772311/stores/66779939132",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28548858172Open payments"
+  },
+  {
+    "date": "February 24, 2023 at 6:00 pm",
+    "store_name": "Unbound Crew",
+    "store_url": "/772311/stores/69154341173",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28590080309Open payments"
+  },
+  {
+    "date": "February 24, 2023 at 6:00 pm",
+    "store_name": "MD GLAM",
+    "store_url": "/772311/stores/28000354364",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25545081007Open payments"
+  },
+  {
+    "date": "February 24, 2023 at 6:00 pm",
+    "store_name": "MD GLAM",
+    "store_url": "/772311/stores/28000354364",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25545113775Open payments"
+  },
+  {
+    "date": "February 24, 2023 at 4:13 pm",
+    "store_name": "yoyosan GmbH",
+    "store_url": "/772311/stores/4263706673",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30467096844Open payments"
+  },
+  {
+    "date": "February 24, 2023 at 4:13 pm",
+    "store_name": "yoyosan GmbH",
+    "store_url": "/772311/stores/4263706673",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 24, 2023 at 4:07 pm",
+    "store_name": "yoyosan GmbH",
+    "store_url": "/772311/stores/4263706673",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30467096844Open payments"
+  },
+  {
+    "date": "February 24, 2023 at 4:07 pm",
+    "store_name": "yoyosan GmbH",
+    "store_url": "/772311/stores/4263706673",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 23, 2023 at 1:26 pm",
+    "store_name": "Creative Things Studio",
+    "store_url": "/772311/stores/8097628213",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27849752817Open payments"
+  },
+  {
+    "date": "February 23, 2023 at 1:26 pm",
+    "store_name": "Creative Things Studio",
+    "store_url": "/772311/stores/8097628213",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 23, 2023 at 9:55 am",
+    "store_name": "thuongnth-po",
+    "store_url": "/772311/stores/66779939132",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 22, 2023 at 7:48 pm",
+    "store_name": "Creative Home",
+    "store_url": "/772311/stores/29567221853",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "February 22, 2023 at 7:48 pm",
+    "store_name": "Creative Home",
+    "store_url": "/772311/stores/29567221853",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23506452573Open payments"
+  },
+  {
+    "date": "February 22, 2023 at 7:45 pm",
+    "store_name": "Creative Home",
+    "store_url": "/772311/stores/29567221853",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23506452573Open payments"
+  },
+  {
+    "date": "February 22, 2023 at 7:45 pm",
+    "store_name": "Creative Home",
+    "store_url": "/772311/stores/29567221853",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 22, 2023 at 6:08 pm",
+    "store_name": "Heads Up For Tails",
+    "store_url": "/772311/stores/8607957054",
+    "event": "AttentionUninstalled",
+    "event_details": "Other"
+  },
+  {
+    "date": "February 22, 2023 at 6:08 pm",
+    "store_name": "Heads Up For Tails",
+    "store_url": "/772311/stores/8607957054",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 31, 2022 at 9:32 pm",
+    "store_name": "Microptique",
+    "store_url": "/772311/stores/52018610348",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24950669484Open payments"
+  },
+  {
+    "date": "August 31, 2022 at 9:31 pm",
+    "store_name": "Microptique",
+    "store_url": "/772311/stores/52018610348",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 31, 2022 at 2:22 am",
+    "store_name": "Surplus Militaires®",
+    "store_url": "/772311/stores/25813581909",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22804824149Open payments"
+  },
+  {
+    "date": "August 31, 2022 at 2:22 am",
+    "store_name": "Surplus Militaires®",
+    "store_url": "/772311/stores/25813581909",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 31, 2022 at 2:17 am",
+    "store_name": "Surplus Militaires®",
+    "store_url": "/772311/stores/25813581909",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22804824149Open payments"
+  },
+  {
+    "date": "August 31, 2022 at 2:17 am",
+    "store_name": "Surplus Militaires®",
+    "store_url": "/772311/stores/25813581909",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 30, 2022 at 5:43 pm",
+    "store_name": "Demain beauty",
+    "store_url": "/772311/stores/65494319352",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26467172600Open payments"
+  },
+  {
+    "date": "August 30, 2022 at 5:43 pm",
+    "store_name": "Demain beauty",
+    "store_url": "/772311/stores/65494319352",
+    "event": "AttentionUninstalled",
+    "event_details": "Ne répond pas à mes besoins"
+  },
+  {
+    "date": "August 30, 2022 at 5:41 pm",
+    "store_name": "Demain beauty",
+    "store_url": "/772311/stores/65494319352",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26467172600Open payments"
+  },
+  {
+    "date": "August 30, 2022 at 5:41 pm",
+    "store_name": "Demain beauty",
+    "store_url": "/772311/stores/65494319352",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 30, 2022 at 3:53 pm",
+    "store_name": "Faammss",
+    "store_url": "/772311/stores/62540546237",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 30, 2022 at 3:52 pm",
+    "store_name": "Faammss",
+    "store_url": "/772311/stores/62540546237",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 30, 2022 at 3:23 pm",
+    "store_name": "Tapered Menswear",
+    "store_url": "/772311/stores/28100493396",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27460829426Open payments"
+  },
+  {
+    "date": "August 30, 2022 at 3:23 pm",
+    "store_name": "Tapered Menswear",
+    "store_url": "/772311/stores/28100493396",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "August 30, 2022 at 3:16 pm",
+    "store_name": "Tapered Menswear",
+    "store_url": "/772311/stores/28100493396",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27460829426Open payments"
+  },
+  {
+    "date": "August 30, 2022 at 3:15 pm",
+    "store_name": "Tapered Menswear",
+    "store_url": "/772311/stores/28100493396",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 29, 2022 at 5:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 23975165974Open payments"
+  },
+  {
+    "date": "August 27, 2022 at 1:21 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 27, 2022 at 12:21 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 26, 2022 at 11:28 pm",
+    "store_name": "arkatechbeatz.com",
+    "store_url": "/772311/stores/61074243764",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24871862452Open payments"
+  }
+]

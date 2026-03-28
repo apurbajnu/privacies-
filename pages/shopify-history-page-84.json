@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 17, 2024 at 1:25 pm",
+    "store_name": "cromptonshop",
+    "store_url": "/772311/stores/71517045040",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33218199856Open payments"
+  },
+  {
+    "date": "October 17, 2024 at 1:25 pm",
+    "store_name": "cromptonshop",
+    "store_url": "/772311/stores/71517045040",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 17, 2024 at 6:54 am",
+    "store_name": "Paint Me Twisted",
+    "store_url": "/772311/stores/58070663247",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24377131087Open payments"
+  },
+  {
+    "date": "October 17, 2024 at 6:54 am",
+    "store_name": "Paint Me Twisted",
+    "store_url": "/772311/stores/58070663247",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "October 16, 2024 at 2:24 pm",
+    "store_name": "NuBest Nutrition®",
+    "store_url": "/772311/stores/79984328989",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34385232157Open payments"
+  },
+  {
+    "date": "October 16, 2024 at 2:24 pm",
+    "store_name": "NuBest Nutrition®",
+    "store_url": "/772311/stores/79984328989",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 16, 2024 at 2:12 pm",
+    "store_name": "NuBest Nutrition®",
+    "store_url": "/772311/stores/79984328989",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34385232157Open payments"
+  },
+  {
+    "date": "October 16, 2024 at 2:10 pm",
+    "store_name": "NuBest Nutrition®",
+    "store_url": "/772311/stores/79984328989",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 16, 2024 at 6:01 am",
+    "store_name": "By Marley",
+    "store_url": "/772311/stores/60353478713",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34947891538Open payments"
+  },
+  {
+    "date": "October 16, 2024 at 6:01 am",
+    "store_name": "By Marley",
+    "store_url": "/772311/stores/60353478713",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 16, 2024 at 5:28 am",
+    "store_name": "By Marley",
+    "store_url": "/772311/stores/60353478713",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34947891538Open payments"
+  },
+  {
+    "date": "October 16, 2024 at 5:27 am",
+    "store_name": "By Marley",
+    "store_url": "/772311/stores/60353478713",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 15, 2024 at 2:31 pm",
+    "store_name": "MAMAZING-STORE",
+    "store_url": "/772311/stores/89530532153",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 15, 2024 at 6:11 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31813534011Open payments"
+  },
+  {
+    "date": "October 15, 2024 at 6:11 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/76374147387",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "October 15, 2024 at 1:55 am",
+    "store_name": "Dapat Kerja Ltd",
+    "store_url": "/772311/stores/87581819160",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33734885656Open payments"
+  },
+  {
+    "date": "October 15, 2024 at 1:55 am",
+    "store_name": "Dapat Kerja Ltd",
+    "store_url": "/772311/stores/87581819160",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 15, 2024 at 1:46 am",
+    "store_name": "Human of Impact",
+    "store_url": "/772311/stores/59532116049",
+    "event": "AttentionUninstalled",
+    "event_details": "Expensive or unexpected cost"
+  },
+  {
+    "date": "October 13, 2024 at 6:31 am",
+    "store_name": "MAWA Designs",
+    "store_url": "/772311/stores/69487853806",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "October 13, 2024 at 6:31 am",
+    "store_name": "MAWA Designs",
+    "store_url": "/772311/stores/69487853806",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28591882478Open payments"
+  }
+]

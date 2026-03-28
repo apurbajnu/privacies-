@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 3, 2023 at 5:24 pm",
+    "store_name": "PSR Parts",
+    "store_url": "/772311/stores/55874257105",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24406753489Open payments"
+  },
+  {
+    "date": "January 3, 2023 at 5:23 pm",
+    "store_name": "PSR Parts",
+    "store_url": "/772311/stores/55874257105",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2023 at 5:16 pm",
+    "store_name": "PSR Parts",
+    "store_url": "/772311/stores/55874257105",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24406753489Open payments"
+  },
+  {
+    "date": "January 3, 2023 at 5:15 pm",
+    "store_name": "PSR Parts",
+    "store_url": "/772311/stores/55874257105",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2023 at 2:19 pm",
+    "store_name": "Kraken Bond - Monster of Tough Jobs",
+    "store_url": "/772311/stores/61148528821",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25641615541Open payments"
+  },
+  {
+    "date": "January 3, 2023 at 2:19 pm",
+    "store_name": "Kraken Bond - Monster of Tough Jobs",
+    "store_url": "/772311/stores/61148528821",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2023 at 1:05 am",
+    "store_name": "cuboid-marketing",
+    "store_url": "/772311/stores/65342963927",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27839299799Open payments"
+  },
+  {
+    "date": "January 2, 2023 at 7:57 pm",
+    "store_name": "cuboid-marketing",
+    "store_url": "/772311/stores/65342963927",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "December 29, 2022 at 4:34 am",
+    "store_name": "Burn One More",
+    "store_url": "/772311/stores/69514690841",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28125790489Open payments"
+  },
+  {
+    "date": "December 29, 2022 at 4:34 am",
+    "store_name": "Burn One More",
+    "store_url": "/772311/stores/69514690841",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 29, 2022 at 4:18 am",
+    "store_name": "Burn One More",
+    "store_url": "/772311/stores/69514690841",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28125790489Open payments"
+  },
+  {
+    "date": "December 29, 2022 at 4:17 am",
+    "store_name": "Burn One More",
+    "store_url": "/772311/stores/69514690841",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 28, 2022 at 11:19 pm",
+    "store_name": "Pesach Meals",
+    "store_url": "/772311/stores/55556833363",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23048781907Open payments"
+  },
+  {
+    "date": "December 28, 2022 at 11:19 pm",
+    "store_name": "Pesach Meals",
+    "store_url": "/772311/stores/55556833363",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 28, 2022 at 8:26 pm",
+    "store_name": "OnlyDolls.com | The #1 Sex Doll Marketplace",
+    "store_url": "/772311/stores/57945030843",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27852308705Open payments"
+  },
+  {
+    "date": "December 28, 2022 at 8:26 pm",
+    "store_name": "OnlyDolls.com | The #1 Sex Doll Marketplace",
+    "store_url": "/772311/stores/57945030843",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 26, 2022 at 9:27 pm",
+    "store_name": "Smells",
+    "store_url": "/772311/stores/61202759868",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 24659984572Open payments"
+  },
+  {
+    "date": "December 26, 2022 at 9:27 pm",
+    "store_name": "Smells",
+    "store_url": "/772311/stores/61202759868",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "December 25, 2022 at 6:03 pm",
+    "store_name": "Tsun Dev",
+    "store_url": "/772311/stores/60531671229",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26640056509Open payments"
+  },
+  {
+    "date": "December 25, 2022 at 6:03 pm",
+    "store_name": "Tsun Dev",
+    "store_url": "/772311/stores/60531671229",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26640089277Open payments"
+  }
+]

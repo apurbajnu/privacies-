@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 17, 2023 at 2:41 pm",
+    "store_name": "PowerFabrik",
+    "store_url": "/772311/stores/29648715869",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31685542152Open payments"
+  },
+  {
+    "date": "October 17, 2023 at 2:41 pm",
+    "store_name": "PowerFabrik",
+    "store_url": "/772311/stores/29648715869",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 17, 2023 at 2:37 pm",
+    "store_name": "PowerFabrik",
+    "store_url": "/772311/stores/29648715869",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31685542152Open payments"
+  },
+  {
+    "date": "October 17, 2023 at 2:37 pm",
+    "store_name": "PowerFabrik",
+    "store_url": "/772311/stores/29648715869",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 17, 2023 at 3:00 am",
+    "store_name": "Cape Town Firewood",
+    "store_url": "/772311/stores/69178458402",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 17, 2023 at 3:00 am",
+    "store_name": "Cape Town Firewood",
+    "store_url": "/772311/stores/69178458402",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 32048709922Open payments"
+  },
+  {
+    "date": "October 17, 2023 at 2:37 am",
+    "store_name": "Cape Town Firewood",
+    "store_url": "/772311/stores/69178458402",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 32048709922Open payments"
+  },
+  {
+    "date": "October 17, 2023 at 2:36 am",
+    "store_name": "Cape Town Firewood",
+    "store_url": "/772311/stores/69178458402",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 17, 2023 at 12:08 am",
+    "store_name": "Open Your Mind",
+    "store_url": "/772311/stores/77280117083",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 17, 2023 at 12:08 am",
+    "store_name": "Open Your Mind",
+    "store_url": "/772311/stores/77280117083",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31116460379Open payments"
+  },
+  {
+    "date": "October 17, 2023 at 12:03 am",
+    "store_name": "Open Your Mind",
+    "store_url": "/772311/stores/77280117083",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31116460379Open payments"
+  },
+  {
+    "date": "October 17, 2023 at 12:02 am",
+    "store_name": "Open Your Mind",
+    "store_url": "/772311/stores/77280117083",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 16, 2023 at 11:58 pm",
+    "store_name": "Open Your Mind",
+    "store_url": "/772311/stores/77280117083",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31116263771Open payments"
+  },
+  {
+    "date": "October 16, 2023 at 11:58 pm",
+    "store_name": "Open Your Mind",
+    "store_url": "/772311/stores/77280117083",
+    "event": "AttentionUninstalled",
+    "event_details": "Werkt niet of is niet compatibel met de winkel"
+  },
+  {
+    "date": "October 16, 2023 at 11:50 pm",
+    "store_name": "Open Your Mind",
+    "store_url": "/772311/stores/77280117083",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31116263771Open payments"
+  },
+  {
+    "date": "October 16, 2023 at 11:50 pm",
+    "store_name": "Open Your Mind",
+    "store_url": "/772311/stores/77280117083",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 16, 2023 at 5:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31162433820Open payments"
+  },
+  {
+    "date": "October 16, 2023 at 5:00 pm",
+    "store_name": "Centregram 3D Company",
+    "store_url": "/772311/stores/64531431688",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31667978504Open payments"
+  },
+  {
+    "date": "October 16, 2023 at 5:00 pm",
+    "store_name": "Centregram 3D Company",
+    "store_url": "/772311/stores/64531431688",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31668076808Open payments"
+  },
+  {
+    "date": "October 16, 2023 at 5:00 pm",
+    "store_name": "Centregram 3D Company",
+    "store_url": "/772311/stores/64531431688",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31668109576Open payments"
+  }
+]

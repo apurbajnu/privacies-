@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 31, 2025 at 3:41 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/65018921075",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 31, 2025 at 7:59 am",
+    "store_name": "IronForgeBeardCo.com",
+    "store_url": "/772311/stores/79568371965",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 28, 2025 at 4:45 pm",
+    "store_name": "IronForgeBeardCo.com",
+    "store_url": "/772311/stores/79568371965",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 27, 2025 at 9:22 pm",
+    "store_name": "healthcare nt sickcare",
+    "store_url": "/772311/stores/72081867039",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 27, 2025 at 9:22 pm",
+    "store_name": "healthcare nt sickcare",
+    "store_url": "/772311/stores/72081867039",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32252985631Open payments"
+  },
+  {
+    "date": "December 27, 2025 at 2:56 am",
+    "store_name": "PromoStrats",
+    "store_url": "/772311/stores/95682855286",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 27, 2025 at 2:54 am",
+    "store_name": "PromoStrats",
+    "store_url": "/772311/stores/95682855286",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 26, 2025 at 6:00 pm",
+    "store_name": "SriHome Malaysia",
+    "store_url": "/772311/stores/65560969400",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 80854122680Open payments"
+  },
+  {
+    "date": "December 25, 2025 at 1:01 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/65098743913",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "December 24, 2025 at 8:09 am",
+    "store_name": "SriHome Malaysia",
+    "store_url": "/772311/stores/65560969400",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 24, 2025 at 8:08 am",
+    "store_name": "SriHome Malaysia",
+    "store_url": "/772311/stores/65560969400",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 80854155448Open payments"
+  },
+  {
+    "date": "December 24, 2025 at 8:07 am",
+    "store_name": "SriHome Malaysia",
+    "store_url": "/772311/stores/65560969400",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 23, 2025 at 11:42 pm",
+    "store_name": "My Shop of Wonders",
+    "store_url": "/772311/stores/76318277937",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 46849622321Open payments"
+  },
+  {
+    "date": "December 23, 2025 at 11:41 pm",
+    "store_name": "My Shop of Wonders",
+    "store_url": "/772311/stores/76318277937",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 23, 2025 at 9:25 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "December 23, 2025 at 9:25 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "December 23, 2025 at 6:23 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31774671145Open payments"
+  },
+  {
+    "date": "December 23, 2025 at 6:23 am",
+    "store_name": "Rosslyn",
+    "store_url": "/772311/stores/81714610473",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "December 23, 2025 at 6:03 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "December 23, 2025 at 6:03 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  }
+]

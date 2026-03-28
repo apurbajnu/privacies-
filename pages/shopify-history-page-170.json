@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 21, 2024 at 8:59 pm",
+    "store_name": "Memorials By GG",
+    "store_url": "/772311/stores/59830370348",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24610144300Open payments"
+  },
+  {
+    "date": "February 21, 2024 at 8:59 pm",
+    "store_name": "Memorials By GG",
+    "store_url": "/772311/stores/59830370348",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 20, 2024 at 12:56 pm",
+    "store_name": "UB Group Media",
+    "store_url": "/772311/stores/56393138360",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "February 18, 2024 at 9:04 am",
+    "store_name": "BETCKEY Label",
+    "store_url": "/772311/stores/2751299697",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26252935365Open payments"
+  },
+  {
+    "date": "February 18, 2024 at 9:04 am",
+    "store_name": "BETCKEY Label",
+    "store_url": "/772311/stores/2751299697",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "February 18, 2024 at 8:44 am",
+    "store_name": "BETCKEY Label",
+    "store_url": "/772311/stores/2751299697",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26252935365Open payments"
+  },
+  {
+    "date": "February 18, 2024 at 8:43 am",
+    "store_name": "BETCKEY Label",
+    "store_url": "/772311/stores/2751299697",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 17, 2024 at 6:00 pm",
+    "store_name": "My Cabinet of curiosity",
+    "store_url": "/772311/stores/56409849922",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23476011074Open payments"
+  },
+  {
+    "date": "February 17, 2024 at 6:00 pm",
+    "store_name": "My Cabinet of curiosity",
+    "store_url": "/772311/stores/56409849922",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23476043842Open payments"
+  },
+  {
+    "date": "February 17, 2024 at 6:00 pm",
+    "store_name": "My Cabinet of curiosity",
+    "store_url": "/772311/stores/56409849922",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23475912770Open payments"
+  },
+  {
+    "date": "February 17, 2024 at 6:00 pm",
+    "store_name": "My Cabinet of curiosity",
+    "store_url": "/772311/stores/56409849922",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23475945538Open payments"
+  },
+  {
+    "date": "February 17, 2024 at 6:00 pm",
+    "store_name": "My Cabinet of curiosity",
+    "store_url": "/772311/stores/56409849922",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23475880002Open payments"
+  },
+  {
+    "date": "February 17, 2024 at 12:33 am",
+    "store_name": "Angel & Lily Dog Collars and Accessories",
+    "store_url": "/772311/stores/63143182436",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "February 17, 2024 at 12:33 am",
+    "store_name": "Angel & Lily Dog Collars and Accessories",
+    "store_url": "/772311/stores/63143182436",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24869896292Open payments"
+  },
+  {
+    "date": "February 17, 2024 at 12:32 am",
+    "store_name": "Angel & Lily Dog Collars and Accessories",
+    "store_url": "/772311/stores/63143182436",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 15, 2024 at 11:01 pm",
+    "store_name": "Treat Treehouse",
+    "store_url": "/772311/stores/72931016977",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32271761681Open payments"
+  },
+  {
+    "date": "February 15, 2024 at 11:01 pm",
+    "store_name": "Treat Treehouse",
+    "store_url": "/772311/stores/72931016977",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 15, 2024 at 5:28 pm",
+    "store_name": "Table Tennis Hub",
+    "store_url": "/772311/stores/19651397",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29045227734Open payments"
+  },
+  {
+    "date": "February 15, 2024 at 5:28 pm",
+    "store_name": "Table Tennis Hub",
+    "store_url": "/772311/stores/19651397",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 15, 2024 at 11:47 am",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28081225979Open payments"
+  }
+]

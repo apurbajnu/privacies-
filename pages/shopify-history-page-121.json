@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 31, 2024 at 6:18 pm",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "July 31, 2024 at 6:18 pm",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "July 31, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33878016323Open payments"
+  },
+  {
+    "date": "July 30, 2024 at 5:00 pm",
+    "store_name": "Matchahouse",
+    "store_url": "/772311/stores/77740245315",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33872281923Open payments"
+  },
+  {
+    "date": "July 29, 2024 at 10:17 pm",
+    "store_name": "ORRY",
+    "store_url": "/772311/stores/88004821294",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 29, 2024 at 10:17 pm",
+    "store_name": "ORRY",
+    "store_url": "/772311/stores/88004821294",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33186971950Open payments"
+  },
+  {
+    "date": "July 29, 2024 at 10:14 pm",
+    "store_name": "ORRY",
+    "store_url": "/772311/stores/88004821294",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33186971950Open payments"
+  },
+  {
+    "date": "July 29, 2024 at 10:13 pm",
+    "store_name": "ORRY",
+    "store_url": "/772311/stores/88004821294",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33186873646Open payments"
+  },
+  {
+    "date": "July 29, 2024 at 10:12 pm",
+    "store_name": "ORRY",
+    "store_url": "/772311/stores/88004821294",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 29, 2024 at 9:34 pm",
+    "store_name": "Dev SpirulinaG",
+    "store_url": "/772311/stores/86250357071",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 29, 2024 at 7:05 pm",
+    "store_name": "minimalismbrand.com",
+    "store_url": "/772311/stores/24706078",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33934541135Open payments"
+  },
+  {
+    "date": "July 29, 2024 at 7:02 pm",
+    "store_name": "minimalismbrand.com",
+    "store_url": "/772311/stores/24706078",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 29, 2024 at 2:17 pm",
+    "store_name": "瑋思影像｜Metal Print Studio",
+    "store_url": "/772311/stores/25196806",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29770580122Open payments"
+  },
+  {
+    "date": "July 29, 2024 at 2:16 pm",
+    "store_name": "瑋思影像｜Metal Print Studio",
+    "store_url": "/772311/stores/25196806",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 29, 2024 at 9:43 am",
+    "store_name": "OpenELAB",
+    "store_url": "/772311/stores/62100504774",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26580549830Open payments"
+  },
+  {
+    "date": "July 29, 2024 at 9:42 am",
+    "store_name": "OpenELAB",
+    "store_url": "/772311/stores/62100504774",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 28, 2024 at 5:00 pm",
+    "store_name": "Gorilla Sports Schweiz",
+    "store_url": "/772311/stores/64679444671",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28530245823Open payments"
+  },
+  {
+    "date": "July 28, 2024 at 5:00 pm",
+    "store_name": "Gorilla Sports Schweiz",
+    "store_url": "/772311/stores/64679444671",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28530278591Open payments"
+  },
+  {
+    "date": "July 28, 2024 at 5:00 pm",
+    "store_name": "Gorilla Sports Schweiz",
+    "store_url": "/772311/stores/64679444671",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28530311359Open payments"
+  },
+  {
+    "date": "July 28, 2024 at 6:05 am",
+    "store_name": "MT Spaces Outfitters",
+    "store_url": "/772311/stores/67903062246",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  }
+]

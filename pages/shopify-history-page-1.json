@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 8, 2026 at 10:41 am",
+    "store_name": "FORBASE Srl - Ingrosso e installazione pannelli fotovoltaici in Italia.",
+    "store_url": "/772311/stores/92596601219",
+    "event": "AttentionUninstalled",
+    "event_details": "Non sto usando l'app al momento"
+  },
+  {
+    "date": "February 6, 2026 at 6:00 pm",
+    "store_name": "ReVive Light Therapy",
+    "store_url": "/772311/stores/96101597555",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 37223825779Open payments"
+  },
+  {
+    "date": "February 5, 2026 at 5:13 pm",
+    "store_name": "best colorful socks",
+    "store_url": "/772311/stores/59176321069",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 5, 2026 at 5:11 pm",
+    "store_name": "best colorful socks",
+    "store_url": "/772311/stores/59176321069",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 4, 2026 at 8:20 pm",
+    "store_name": "Sorea Fashion",
+    "store_url": "/772311/stores/95409111388",
+    "event": "AttentionUninstalled",
+    "event_details": "Ik gebruik de app nu niet"
+  },
+  {
+    "date": "February 4, 2026 at 8:20 pm",
+    "store_name": "Sorea Fashion",
+    "store_url": "/772311/stores/95409111388",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 50945524060Open payments"
+  },
+  {
+    "date": "February 4, 2026 at 8:08 pm",
+    "store_name": "Sorea Fashion",
+    "store_url": "/772311/stores/95409111388",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 50945524060Open payments"
+  },
+  {
+    "date": "February 4, 2026 at 8:08 pm",
+    "store_name": "Sorea Fashion",
+    "store_url": "/772311/stores/95409111388",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 4, 2026 at 12:50 pm",
+    "store_name": "NAVA Yoga UAE",
+    "store_url": "/772311/stores/66953248955",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27971780795Open payments"
+  },
+  {
+    "date": "February 4, 2026 at 12:50 pm",
+    "store_name": "NAVA Yoga UAE",
+    "store_url": "/772311/stores/66953248955",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use; The table of contents came out in huge font and I couldnt figure out how to set it up correctly."
+  },
+  {
+    "date": "February 4, 2026 at 2:12 am",
+    "store_name": "Minizz",
+    "store_url": "/772311/stores/86559916374",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 43839914326Open payments"
+  },
+  {
+    "date": "February 4, 2026 at 2:11 am",
+    "store_name": "Minizz",
+    "store_url": "/772311/stores/86559916374",
+    "event": "AttentionUninstalled",
+    "event_details": "N'utilise plus l'application"
+  },
+  {
+    "date": "February 4, 2026 at 2:06 am",
+    "store_name": "Minizz",
+    "store_url": "/772311/stores/86559916374",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 43839914326Open payments"
+  },
+  {
+    "date": "February 4, 2026 at 1:58 am",
+    "store_name": "Minizz",
+    "store_url": "/772311/stores/86559916374",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 3, 2026 at 9:58 pm",
+    "store_name": "ReVive Light Therapy",
+    "store_url": "/772311/stores/96101597555",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 3, 2026 at 9:41 pm",
+    "store_name": "ReVive Light Therapy",
+    "store_url": "/772311/stores/96101597555",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 3, 2026 at 8:52 pm",
+    "store_name": "NAVA Yoga UAE",
+    "store_url": "/772311/stores/66953248955",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27971780795Open payments"
+  },
+  {
+    "date": "February 3, 2026 at 8:50 pm",
+    "store_name": "NAVA Yoga UAE",
+    "store_url": "/772311/stores/66953248955",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 3, 2026 at 7:25 pm",
+    "store_name": "MADENA",
+    "store_url": "/772311/stores/60684206292",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Extended - $3.99 USD. Subscription ID: 63178408201Open payments"
+  },
+  {
+    "date": "February 3, 2026 at 7:25 pm",
+    "store_name": "MADENA",
+    "store_url": "/772311/stores/60684206292",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62473830665Open payments"
+  }
+]

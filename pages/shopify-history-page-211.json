@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 1, 2023 at 6:20 am",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27686043863Open payments"
+  },
+  {
+    "date": "October 1, 2023 at 6:20 am",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "September 29, 2023 at 1:14 am",
+    "store_name": "Reclaim Labs",
+    "store_url": "/772311/stores/6995050553",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28776366234Open payments"
+  },
+  {
+    "date": "September 29, 2023 at 1:14 am",
+    "store_name": "Reclaim Labs",
+    "store_url": "/772311/stores/6995050553",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 28, 2023 at 12:23 pm",
+    "store_name": "We Are Feel Good Inc.",
+    "store_url": "/772311/stores/16000969",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23375511626Open payments"
+  },
+  {
+    "date": "September 28, 2023 at 12:23 pm",
+    "store_name": "We Are Feel Good Inc.",
+    "store_url": "/772311/stores/16000969",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 28, 2023 at 12:20 pm",
+    "store_name": "We Are Feel Good Inc.",
+    "store_url": "/772311/stores/16000969",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23375511626Open payments"
+  },
+  {
+    "date": "September 28, 2023 at 12:19 pm",
+    "store_name": "We Are Feel Good Inc.",
+    "store_url": "/772311/stores/16000969",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 27, 2023 at 5:00 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 27655471126Open payments"
+  },
+  {
+    "date": "September 26, 2023 at 7:06 am",
+    "store_name": "deerforia",
+    "store_url": "/772311/stores/70881935656",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30921654568Open payments"
+  },
+  {
+    "date": "September 26, 2023 at 7:06 am",
+    "store_name": "deerforia",
+    "store_url": "/772311/stores/70881935656",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 25, 2023 at 5:00 pm",
+    "store_name": "ELITE HANDS",
+    "store_url": "/772311/stores/75516477730",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31663292706Open payments"
+  },
+  {
+    "date": "September 24, 2023 at 8:15 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 24, 2023 at 8:06 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 24, 2023 at 2:53 pm",
+    "store_name": "Bimmer Merch",
+    "store_url": "/772311/stores/68501209378",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28034695458Open payments"
+  },
+  {
+    "date": "September 24, 2023 at 2:53 pm",
+    "store_name": "Bimmer Merch",
+    "store_url": "/772311/stores/68501209378",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "September 24, 2023 at 6:24 am",
+    "store_name": "Bimmer Merch",
+    "store_url": "/772311/stores/68501209378",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28034695458Open payments"
+  },
+  {
+    "date": "September 24, 2023 at 6:24 am",
+    "store_name": "Bimmer Merch",
+    "store_url": "/772311/stores/68501209378",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2023 at 10:59 pm",
+    "store_name": "ELITE HANDS",
+    "store_url": "/772311/stores/75516477730",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 22, 2023 at 10:58 pm",
+    "store_name": "ELITE HANDS",
+    "store_url": "/772311/stores/75516477730",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

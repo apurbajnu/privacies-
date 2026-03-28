@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 11, 2023 at 5:59 am",
+    "store_name": "vomeragro",
+    "store_url": "/772311/stores/55436378196",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "January 11, 2023 at 5:51 am",
+    "store_name": "vomeragro",
+    "store_url": "/772311/stores/55436378196",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22612213844Open payments"
+  },
+  {
+    "date": "January 11, 2023 at 5:50 am",
+    "store_name": "vomeragro",
+    "store_url": "/772311/stores/55436378196",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 10, 2023 at 6:00 pm",
+    "store_name": "test",
+    "store_url": "/772311/stores/70075449657",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28195225913Open payments"
+  },
+  {
+    "date": "January 9, 2023 at 2:59 pm",
+    "store_name": "HELDENTIER",
+    "store_url": "/772311/stores/55571578934",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29807837452Open payments"
+  },
+  {
+    "date": "January 9, 2023 at 2:58 pm",
+    "store_name": "HELDENTIER",
+    "store_url": "/772311/stores/55571578934",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 9, 2023 at 12:45 am",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 9, 2023 at 12:45 am",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25201508374Open payments"
+  },
+  {
+    "date": "January 9, 2023 at 12:24 am",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25201508374Open payments"
+  },
+  {
+    "date": "January 9, 2023 at 12:11 am",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 8, 2023 at 11:45 am",
+    "store_name": "BANG 행정사사무소",
+    "store_url": "/772311/stores/70075449657",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 8, 2023 at 11:14 am",
+    "store_name": "BANG 행정사사무소",
+    "store_url": "/772311/stores/70075449657",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2023 at 10:29 pm",
+    "store_name": "HØJ",
+    "store_url": "/772311/stores/25817710644",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26858455292Open payments"
+  },
+  {
+    "date": "January 3, 2023 at 10:28 pm",
+    "store_name": "HØJ",
+    "store_url": "/772311/stores/25817710644",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2023 at 9:14 pm",
+    "store_name": "Pesach Meals",
+    "store_url": "/772311/stores/55556833363",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23048781907Open payments"
+  },
+  {
+    "date": "January 3, 2023 at 9:14 pm",
+    "store_name": "Pesach Meals",
+    "store_url": "/772311/stores/55556833363",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 3, 2023 at 6:37 pm",
+    "store_name": "Control All Finances",
+    "store_url": "/772311/stores/58666942564",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23814733924Open payments"
+  },
+  {
+    "date": "January 3, 2023 at 6:37 pm",
+    "store_name": "Control All Finances",
+    "store_url": "/772311/stores/58666942564",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well; not supported on my theme"
+  },
+  {
+    "date": "January 3, 2023 at 6:08 pm",
+    "store_name": "Control All Finances",
+    "store_url": "/772311/stores/58666942564",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23814733924Open payments"
+  },
+  {
+    "date": "January 3, 2023 at 6:07 pm",
+    "store_name": "Control All Finances",
+    "store_url": "/772311/stores/58666942564",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

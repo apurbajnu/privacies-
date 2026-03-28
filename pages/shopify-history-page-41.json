@@ -1,0 +1,142 @@
+[
+  {
+    "date": "May 30, 2025 at 6:54 am",
+    "store_name": "AAAAA",
+    "store_url": "/772311/stores/64822542591",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30586831103Open payments"
+  },
+  {
+    "date": "May 30, 2025 at 6:53 am",
+    "store_name": "AAAAA",
+    "store_url": "/772311/stores/64822542591",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 29, 2025 at 2:30 pm",
+    "store_name": "MEGOOD BEAUTY",
+    "store_url": "/772311/stores/18236342356",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 28, 2025 at 8:19 pm",
+    "store_name": "Whisker Bark",
+    "store_url": "/772311/stores/87169237310",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 46505427262Open payments"
+  },
+  {
+    "date": "May 28, 2025 at 8:13 pm",
+    "store_name": "Whisker Bark",
+    "store_url": "/772311/stores/87169237310",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 28, 2025 at 2:24 pm",
+    "store_name": "Echi Knife",
+    "store_url": "/772311/stores/93190848824",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "May 28, 2025 at 2:19 pm",
+    "store_name": "Echi Knife",
+    "store_url": "/772311/stores/93190848824",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 28, 2025 at 2:10 pm",
+    "store_name": "SONOFF",
+    "store_url": "/772311/stores/74299638001",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30295818481Open payments"
+  },
+  {
+    "date": "May 28, 2025 at 2:06 pm",
+    "store_name": "SONOFF",
+    "store_url": "/772311/stores/74299638001",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 28, 2025 at 9:18 am",
+    "store_name": "Whisker Bark",
+    "store_url": "/772311/stores/87169237310",
+    "event": "AttentionUninstalled",
+    "event_details": "Not satisfied with support"
+  },
+  {
+    "date": "May 28, 2025 at 9:18 am",
+    "store_name": "Whisker Bark",
+    "store_url": "/772311/stores/87169237310",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 46497497406Open payments"
+  },
+  {
+    "date": "May 28, 2025 at 2:04 am",
+    "store_name": "TheCrowdCare",
+    "store_url": "/772311/stores/93009117486",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 27, 2025 at 8:59 pm",
+    "store_name": "Pure With",
+    "store_url": "/772311/stores/71419166935",
+    "event": "AttentionUninstalled",
+    "event_details": "Çalışmıyor veya mağazayla uyumlu değil, Kurulumu veya kullanımı zor"
+  },
+  {
+    "date": "May 27, 2025 at 8:50 pm",
+    "store_name": "Pure With",
+    "store_url": "/772311/stores/71419166935",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 27, 2025 at 11:02 am",
+    "store_name": "Whisker Bark",
+    "store_url": "/772311/stores/87169237310",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 46497497406Open payments"
+  },
+  {
+    "date": "May 27, 2025 at 11:01 am",
+    "store_name": "Whisker Bark",
+    "store_url": "/772311/stores/87169237310",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 23, 2025 at 4:53 pm",
+    "store_name": "Monport ca",
+    "store_url": "/772311/stores/60771696733",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25998524509Open payments"
+  },
+  {
+    "date": "May 23, 2025 at 4:53 pm",
+    "store_name": "Monport ca",
+    "store_url": "/772311/stores/60771696733",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 23, 2025 at 3:17 pm",
+    "store_name": "Monportlaser",
+    "store_url": "/772311/stores/59151286471",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 21, 2025 at 1:04 pm",
+    "store_name": "Ketovia.de",
+    "store_url": "/772311/stores/90725908828",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

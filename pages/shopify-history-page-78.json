@@ -1,0 +1,142 @@
+[
+  {
+    "date": "November 20, 2024 at 6:00 pm",
+    "store_name": "Simple Carry",
+    "store_url": "/772311/stores/2286682163",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28671967421Open payments"
+  },
+  {
+    "date": "November 20, 2024 at 6:23 am",
+    "store_name": "Selah Sleep",
+    "store_url": "/772311/stores/81574265153",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "November 19, 2024 at 12:54 am",
+    "store_name": "Cheeky Creations, LLC",
+    "store_url": "/772311/stores/90138902804",
+    "event": "AttentionUninstalled",
+    "event_details": "Expensive or unexpected cost"
+  },
+  {
+    "date": "November 19, 2024 at 12:53 am",
+    "store_name": "Cheeky Creations, LLC",
+    "store_url": "/772311/stores/90138902804",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33730724116Open payments"
+  },
+  {
+    "date": "November 19, 2024 at 12:41 am",
+    "store_name": "Cheeky Creations, LLC",
+    "store_url": "/772311/stores/90138902804",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 18, 2024 at 2:10 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/62289510515",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "November 17, 2024 at 6:31 pm",
+    "store_name": "Simple Carry",
+    "store_url": "/772311/stores/2286682163",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 17, 2024 at 6:27 pm",
+    "store_name": "Simple Carry",
+    "store_url": "/772311/stores/2286682163",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 17, 2024 at 6:00 pm",
+    "store_name": "Stitched Stories",
+    "store_url": "/772311/stores/27802042483",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25449234547Open payments"
+  },
+  {
+    "date": "November 15, 2024 at 6:00 pm",
+    "store_name": "B.WEISS Health",
+    "store_url": "/772311/stores/50765136030",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27928101022Open payments"
+  },
+  {
+    "date": "November 15, 2024 at 12:07 am",
+    "store_name": "Stitched Stories",
+    "store_url": "/772311/stores/27802042483",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  },
+  {
+    "date": "November 15, 2024 at 12:03 am",
+    "store_name": "Stitched Stories",
+    "store_url": "/772311/stores/27802042483",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 14, 2024 at 6:00 pm",
+    "store_name": "Linner",
+    "store_url": "/772311/stores/61006020765",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28048064669Open payments"
+  },
+  {
+    "date": "November 14, 2024 at 6:00 pm",
+    "store_name": "Linner",
+    "store_url": "/772311/stores/61006020765",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28047999133Open payments"
+  },
+  {
+    "date": "November 14, 2024 at 6:00 pm",
+    "store_name": "Linner",
+    "store_url": "/772311/stores/61006020765",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28047933597Open payments"
+  },
+  {
+    "date": "November 14, 2024 at 6:00 pm",
+    "store_name": "Linner",
+    "store_url": "/772311/stores/61006020765",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28047900829Open payments"
+  },
+  {
+    "date": "November 14, 2024 at 6:00 pm",
+    "store_name": "Linner",
+    "store_url": "/772311/stores/61006020765",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28047966365Open payments"
+  },
+  {
+    "date": "November 14, 2024 at 6:00 pm",
+    "store_name": "Linner",
+    "store_url": "/772311/stores/61006020765",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28048031901Open payments"
+  },
+  {
+    "date": "November 14, 2024 at 6:00 pm",
+    "store_name": "Linner",
+    "store_url": "/772311/stores/61006020765",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28048097437Open payments"
+  },
+  {
+    "date": "November 14, 2024 at 5:58 pm",
+    "store_name": "MAMAZING",
+    "store_url": "/772311/stores/89530532153",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33680130361Open payments"
+  }
+]

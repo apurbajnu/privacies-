@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 10, 2022 at 12:44 am",
+    "store_name": "Healthy Paws Herbal Labs",
+    "store_url": "/772311/stores/3145072709",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 22397026362Open payments"
+  },
+  {
+    "date": "August 10, 2022 at 12:44 am",
+    "store_name": "Healthy Paws Herbal Labs",
+    "store_url": "/772311/stores/3145072709",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 9, 2022 at 9:59 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "August 9, 2022 at 1:14 pm",
+    "store_name": "Salty Accessories",
+    "store_url": "/772311/stores/64424575191",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 1, 2022 at 5:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 23774363670Open payments"
+  },
+  {
+    "date": "July 30, 2022 at 2:51 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 30, 2022 at 12:49 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 30, 2022 at 7:17 am",
+    "store_name": "Weadultshop",
+    "store_url": "/772311/stores/25097633845",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26287472892Open payments"
+  },
+  {
+    "date": "July 30, 2022 at 7:17 am",
+    "store_name": "Weadultshop",
+    "store_url": "/772311/stores/25097633845",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 27, 2022 at 1:01 pm",
+    "store_name": "Oukside",
+    "store_url": "/772311/stores/60786737380",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26888863972Open payments"
+  },
+  {
+    "date": "July 27, 2022 at 1:01 pm",
+    "store_name": "Oukside",
+    "store_url": "/772311/stores/60786737380",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 23, 2022 at 5:00 pm",
+    "store_name": "Cork Boutique",
+    "store_url": "/772311/stores/65322025183",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27251900639Open payments"
+  },
+  {
+    "date": "July 21, 2022 at 11:58 am",
+    "store_name": "Cork Boutique",
+    "store_url": "/772311/stores/65322025183",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27251933407Open payments"
+  },
+  {
+    "date": "July 21, 2022 at 11:55 am",
+    "store_name": "Cork Boutique",
+    "store_url": "/772311/stores/65322025183",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 19, 2022 at 12:59 am",
+    "store_name": "ARMY NATURAL",
+    "store_url": "/772311/stores/63650037996",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26470383852Open payments"
+  },
+  {
+    "date": "July 19, 2022 at 12:59 am",
+    "store_name": "ARMY NATURAL",
+    "store_url": "/772311/stores/63650037996",
+    "event": "AttentionUninstalled",
+    "event_details": "No satisface mis necesidades"
+  },
+  {
+    "date": "July 19, 2022 at 12:51 am",
+    "store_name": "ARMY NATURAL",
+    "store_url": "/772311/stores/63650037996",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26470383852Open payments"
+  },
+  {
+    "date": "July 19, 2022 at 12:50 am",
+    "store_name": "ARMY NATURAL",
+    "store_url": "/772311/stores/63650037996",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 17, 2022 at 7:52 pm",
+    "store_name": "Claribelskincare.com",
+    "store_url": "/772311/stores/4988333",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well; No support.  App does not let you edit background color or border color as indicated."
+  },
+  {
+    "date": "July 17, 2022 at 7:52 pm",
+    "store_name": "Claribelskincare.com",
+    "store_url": "/772311/stores/4988333",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26760839405Open payments"
+  }
+]

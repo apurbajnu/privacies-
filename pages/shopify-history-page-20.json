@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 9, 2025 at 11:59 am",
+    "store_name": "Bold Care",
+    "store_url": "/772311/stores/70825443546",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31496011994Open payments"
+  },
+  {
+    "date": "October 9, 2025 at 11:58 am",
+    "store_name": "Bold Care",
+    "store_url": "/772311/stores/70825443546",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 7, 2025 at 5:37 pm",
+    "store_name": "Sports Savvy",
+    "store_url": "/772311/stores/62069571762",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "October 7, 2025 at 5:00 pm",
+    "store_name": "Merrion Medical Aesthetics",
+    "store_url": "/772311/stores/60128657459",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25778094131Open payments"
+  },
+  {
+    "date": "October 7, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26455769167Open payments"
+  },
+  {
+    "date": "October 7, 2025 at 4:54 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 7, 2025 at 4:53 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 6, 2025 at 1:50 pm",
+    "store_name": "EziClic",
+    "store_url": "/772311/stores/189857831",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 6, 2025 at 6:03 am",
+    "store_name": "Elisa Vita",
+    "store_url": "/772311/stores/51337822366",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now; Playing around, I realized this won't work for my store. Kindly disregard my other service requests. Thank you!"
+  },
+  {
+    "date": "October 6, 2025 at 6:03 am",
+    "store_name": "Elisa Vita",
+    "store_url": "/772311/stores/51337822366",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29463445662Open payments"
+  },
+  {
+    "date": "October 6, 2025 at 5:04 am",
+    "store_name": "Elisa Vita",
+    "store_url": "/772311/stores/51337822366",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29463445662Open payments"
+  },
+  {
+    "date": "October 6, 2025 at 3:07 am",
+    "store_name": "Musclesense Nutrition",
+    "store_url": "/772311/stores/94629429513",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62715527433Open payments"
+  },
+  {
+    "date": "October 6, 2025 at 3:07 am",
+    "store_name": "Musclesense Nutrition",
+    "store_url": "/772311/stores/94629429513",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 5, 2025 at 10:30 pm",
+    "store_name": "Merrion Medical Aesthetics",
+    "store_url": "/772311/stores/60128657459",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25778716723Open payments"
+  },
+  {
+    "date": "October 5, 2025 at 6:13 pm",
+    "store_name": "Musclesense Nutrition",
+    "store_url": "/772311/stores/94629429513",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 62715527433Open payments"
+  },
+  {
+    "date": "October 5, 2025 at 6:12 pm",
+    "store_name": "Musclesense Nutrition",
+    "store_url": "/772311/stores/94629429513",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 5, 2025 at 5:00 pm",
+    "store_name": "product-hunt123",
+    "store_url": "/772311/stores/27444281403",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30399594555Open payments"
+  },
+  {
+    "date": "October 5, 2025 at 5:00 pm",
+    "store_name": "product-hunt123",
+    "store_url": "/772311/stores/27444281403",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30399561787Open payments"
+  },
+  {
+    "date": "October 5, 2025 at 5:00 pm",
+    "store_name": "product-hunt123",
+    "store_url": "/772311/stores/27444281403",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30399529019Open payments"
+  },
+  {
+    "date": "October 5, 2025 at 5:00 pm",
+    "store_name": "product-hunt123",
+    "store_url": "/772311/stores/27444281403",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30399627323Open payments"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 15, 2023 at 3:35 am",
+    "store_name": "Linnie`s",
+    "store_url": "/772311/stores/59748941980",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 14, 2023 at 2:25 am",
+    "store_name": "Linnie`s",
+    "store_url": "/772311/stores/59748941980",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25557270684Open payments"
+  },
+  {
+    "date": "February 14, 2023 at 2:24 am",
+    "store_name": "Linnie`s",
+    "store_url": "/772311/stores/59748941980",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 12, 2023 at 11:30 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 12, 2023 at 11:11 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 12, 2023 at 6:12 pm",
+    "store_name": "TweezerCo",
+    "store_url": "/772311/stores/5203787849",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26054033591Open payments"
+  },
+  {
+    "date": "February 12, 2023 at 6:12 pm",
+    "store_name": "TweezerCo",
+    "store_url": "/772311/stores/5203787849",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "February 12, 2023 at 5:54 pm",
+    "store_name": "TweezerCo",
+    "store_url": "/772311/stores/5203787849",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26054033591Open payments"
+  },
+  {
+    "date": "February 12, 2023 at 5:54 pm",
+    "store_name": "TweezerCo",
+    "store_url": "/772311/stores/5203787849",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 11, 2023 at 10:20 pm",
+    "store_name": "Pond365",
+    "store_url": "/772311/stores/71548764453",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28410020133Open payments"
+  },
+  {
+    "date": "February 11, 2023 at 10:20 pm",
+    "store_name": "Pond365",
+    "store_url": "/772311/stores/71548764453",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 11, 2023 at 1:56 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 11, 2023 at 7:36 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "February 11, 2023 at 7:36 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "February 11, 2023 at 6:04 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "February 11, 2023 at 6:04 am",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "February 11, 2023 at 4:28 am",
+    "store_name": "Active Care",
+    "store_url": "/772311/stores/71146701116",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28461302076Open payments"
+  },
+  {
+    "date": "February 11, 2023 at 4:27 am",
+    "store_name": "Active Care",
+    "store_url": "/772311/stores/71146701116",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 10, 2023 at 6:00 pm",
+    "store_name": "Pure Xocolate",
+    "store_url": "/772311/stores/51864273066",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30226055436Open payments"
+  },
+  {
+    "date": "February 10, 2023 at 6:49 am",
+    "store_name": "HitLights",
+    "store_url": "/772311/stores/20976403",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27358789872Open payments"
+  }
+]

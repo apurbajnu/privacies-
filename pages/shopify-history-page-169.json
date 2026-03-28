@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 29, 2024 at 7:00 am",
+    "store_name": "My Cabinet of curiosity",
+    "store_url": "/772311/stores/56409849922",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "February 28, 2024 at 8:04 pm",
+    "store_name": "Infima Games",
+    "store_url": "/772311/stores/81516200262",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32447562054Open payments"
+  },
+  {
+    "date": "February 28, 2024 at 8:03 pm",
+    "store_name": "Infima Games",
+    "store_url": "/772311/stores/81516200262",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 26, 2024 at 11:25 pm",
+    "store_name": "Michelweine",
+    "store_url": "/772311/stores/65470103778",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32259539274Open payments"
+  },
+  {
+    "date": "February 26, 2024 at 11:25 pm",
+    "store_name": "Michelweine",
+    "store_url": "/772311/stores/65470103778",
+    "event": "AttentionUninstalled",
+    "event_details": "Funktioniert nicht oder nicht mit dem Shop kompatibel"
+  },
+  {
+    "date": "February 26, 2024 at 12:52 am",
+    "store_name": "Divine Fragments",
+    "store_url": "/772311/stores/68917002479",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 24, 2024 at 8:30 pm",
+    "store_name": "Michelweine",
+    "store_url": "/772311/stores/65470103778",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32259539274Open payments"
+  },
+  {
+    "date": "February 24, 2024 at 8:30 pm",
+    "store_name": "Michelweine",
+    "store_url": "/772311/stores/65470103778",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 23, 2024 at 4:47 pm",
+    "store_name": "BELLA n' BEAR",
+    "store_url": "/772311/stores/64338100469",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28186837237Open payments"
+  },
+  {
+    "date": "February 23, 2024 at 4:47 pm",
+    "store_name": "BELLA n' BEAR",
+    "store_url": "/772311/stores/64338100469",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 23, 2024 at 4:47 pm",
+    "store_name": "BELLA n' BEAR",
+    "store_url": "/772311/stores/64338100469",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28186837237Open payments"
+  },
+  {
+    "date": "February 23, 2024 at 4:46 pm",
+    "store_name": "BELLA n' BEAR",
+    "store_url": "/772311/stores/64338100469",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 23, 2024 at 3:38 pm",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "February 23, 2024 at 3:38 pm",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "February 23, 2024 at 6:22 am",
+    "store_name": "Glamour Gleam",
+    "store_url": "/772311/stores/77050609964",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31600967980Open payments"
+  },
+  {
+    "date": "February 23, 2024 at 6:22 am",
+    "store_name": "Glamour Gleam",
+    "store_url": "/772311/stores/77050609964",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "February 22, 2024 at 6:27 pm",
+    "store_name": "Divine Fragments",
+    "store_url": "/772311/stores/68917002479",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28262170863Open payments"
+  },
+  {
+    "date": "February 22, 2024 at 6:19 pm",
+    "store_name": "Divine Fragments",
+    "store_url": "/772311/stores/68917002479",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 21, 2024 at 9:49 pm",
+    "store_name": "Memorials By GG",
+    "store_url": "/772311/stores/59830370348",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24610144300Open payments"
+  },
+  {
+    "date": "February 21, 2024 at 9:49 pm",
+    "store_name": "Memorials By GG",
+    "store_url": "/772311/stores/59830370348",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  }
+]

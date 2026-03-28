@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 28, 2023 at 10:37 pm",
+    "store_name": "HØJ",
+    "store_url": "/772311/stores/25817710644",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well; One day the app stop working, it was not showing any TOC on my articles anymore. I try to fix it from the Shopify app but a 505 server error pop up.\n\nNow I'm deleting the app and then trying to reinstall it to see if it works now."
+  },
+  {
+    "date": "March 27, 2023 at 4:06 am",
+    "store_name": "Pet Rabbit Care 101",
+    "store_url": "/772311/stores/67607658796",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27737325868Open payments"
+  },
+  {
+    "date": "March 27, 2023 at 4:06 am",
+    "store_name": "Pet Rabbit Care 101",
+    "store_url": "/772311/stores/67607658796",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 22, 2023 at 5:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25935544342Open payments"
+  },
+  {
+    "date": "March 22, 2023 at 5:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25935773718Open payments"
+  },
+  {
+    "date": "March 22, 2023 at 3:44 am",
+    "store_name": "Pawsource",
+    "store_url": "/772311/stores/68417552650",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30193090826Open payments"
+  },
+  {
+    "date": "March 22, 2023 at 3:44 am",
+    "store_name": "Pawsource",
+    "store_url": "/772311/stores/68417552650",
+    "event": "AttentionUninstalled",
+    "event_details": "App presteert niet goed"
+  },
+  {
+    "date": "March 22, 2023 at 1:17 am",
+    "store_name": "offbinary",
+    "store_url": "/772311/stores/50286952621",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26027294893Open payments"
+  },
+  {
+    "date": "March 22, 2023 at 1:17 am",
+    "store_name": "offbinary",
+    "store_url": "/772311/stores/50286952621",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well; Stopped working."
+  },
+  {
+    "date": "March 21, 2023 at 5:00 pm",
+    "store_name": "АДОРА",
+    "store_url": "/772311/stores/62562664635",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25638207675Open payments"
+  },
+  {
+    "date": "March 19, 2023 at 11:15 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 19, 2023 at 11:05 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 19, 2023 at 2:20 am",
+    "store_name": "TRENDY ASPECT LLC",
+    "store_url": "/772311/stores/59207286959",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27428290800Open payments"
+  },
+  {
+    "date": "March 19, 2023 at 2:20 am",
+    "store_name": "TRENDY ASPECT LLC",
+    "store_url": "/772311/stores/59207286959",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 15, 2023 at 5:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25850740758Open payments"
+  },
+  {
+    "date": "March 15, 2023 at 5:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25850773526Open payments"
+  },
+  {
+    "date": "March 15, 2023 at 5:00 pm",
+    "store_name": "Unbound Crew",
+    "store_url": "/772311/stores/69154341173",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28751921461Open payments"
+  },
+  {
+    "date": "March 12, 2023 at 11:15 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 12, 2023 at 11:06 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 10, 2023 at 3:38 pm",
+    "store_name": "HELDENTIER",
+    "store_url": "/772311/stores/55571578934",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29807837452Open payments"
+  }
+]

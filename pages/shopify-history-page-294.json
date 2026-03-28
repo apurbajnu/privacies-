@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 3, 2022 at 5:00 pm",
+    "store_name": "Ackerhelden",
+    "store_url": "/772311/stores/60426191029",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28986441992Open payments"
+  },
+  {
+    "date": "June 30, 2022 at 5:36 pm",
+    "store_name": "Ackerhelden",
+    "store_url": "/772311/stores/60426191029",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28986474760Open payments"
+  },
+  {
+    "date": "June 30, 2022 at 5:36 pm",
+    "store_name": "Ackerhelden",
+    "store_url": "/772311/stores/60426191029",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 30, 2022 at 5:30 pm",
+    "store_name": "Ackerhelden",
+    "store_url": "/772311/stores/60426191029",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28986474760Open payments"
+  },
+  {
+    "date": "June 30, 2022 at 5:28 pm",
+    "store_name": "Ackerhelden",
+    "store_url": "/772311/stores/60426191029",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 29, 2022 at 5:00 pm",
+    "store_name": "Maaz Grooming",
+    "store_url": "/772311/stores/53892382891",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25029181611Open payments"
+  },
+  {
+    "date": "June 29, 2022 at 5:00 pm",
+    "store_name": "Maaz Grooming",
+    "store_url": "/772311/stores/53892382891",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25029148843Open payments"
+  },
+  {
+    "date": "June 29, 2022 at 5:00 pm",
+    "store_name": "Maaz Grooming",
+    "store_url": "/772311/stores/53892382891",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25029214379Open payments"
+  },
+  {
+    "date": "June 29, 2022 at 5:00 pm",
+    "store_name": "UB Group Media",
+    "store_url": "/772311/stores/56393138360",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25292570808Open payments"
+  },
+  {
+    "date": "June 28, 2022 at 11:05 am",
+    "store_name": "Yum Yum Mama",
+    "store_url": "/772311/stores/56577097911",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26550993155Open payments"
+  },
+  {
+    "date": "June 28, 2022 at 11:05 am",
+    "store_name": "Yum Yum Mama",
+    "store_url": "/772311/stores/56577097911",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "June 28, 2022 at 6:37 am",
+    "store_name": "Yum Yum Mama",
+    "store_url": "/772311/stores/56577097911",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26550993155Open payments"
+  },
+  {
+    "date": "June 28, 2022 at 6:37 am",
+    "store_name": "Yum Yum Mama",
+    "store_url": "/772311/stores/56577097911",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 28, 2022 at 6:32 am",
+    "store_name": "Yum Yum Mama",
+    "store_url": "/772311/stores/56577097911",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26550796547Open payments"
+  },
+  {
+    "date": "June 28, 2022 at 6:32 am",
+    "store_name": "Yum Yum Mama",
+    "store_url": "/772311/stores/56577097911",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "June 28, 2022 at 5:49 am",
+    "store_name": "Yum Yum Mama",
+    "store_url": "/772311/stores/56577097911",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26550796547Open payments"
+  },
+  {
+    "date": "June 28, 2022 at 5:49 am",
+    "store_name": "Yum Yum Mama",
+    "store_url": "/772311/stores/56577097911",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 27, 2022 at 12:52 pm",
+    "store_name": "Maaz Grooming",
+    "store_url": "/772311/stores/53892382891",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 27, 2022 at 8:14 am",
+    "store_name": "UB Group Media",
+    "store_url": "/772311/stores/56393138360",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25292603576Open payments"
+  },
+  {
+    "date": "June 25, 2022 at 5:00 pm",
+    "store_name": "Tallest Tree",
+    "store_url": "/772311/stores/60483010799",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26428014831Open payments"
+  }
+]

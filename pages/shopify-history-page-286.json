@@ -1,0 +1,142 @@
+[
+  {
+    "date": "September 18, 2022 at 5:00 pm",
+    "store_name": "Tiefes Kunsthandwerk",
+    "store_url": "/772311/stores/30412341347",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29116662026Open payments"
+  },
+  {
+    "date": "September 18, 2022 at 5:00 pm",
+    "store_name": "Tiefes Kunsthandwerk",
+    "store_url": "/772311/stores/30412341347",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29116694794Open payments"
+  },
+  {
+    "date": "September 16, 2022 at 2:48 am",
+    "store_name": "Easy Table Of content",
+    "store_url": "/772311/stores/62133076025",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 15, 2022 at 5:09 pm",
+    "store_name": "Tiefes Kunsthandwerk",
+    "store_url": "/772311/stores/30412341347",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29116727562Open payments"
+  },
+  {
+    "date": "September 15, 2022 at 5:01 pm",
+    "store_name": "Tiefes Kunsthandwerk",
+    "store_url": "/772311/stores/30412341347",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 13, 2022 at 12:35 am",
+    "store_name": "Magnesium Wash",
+    "store_url": "/772311/stores/39665402022",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25776521382Open payments"
+  },
+  {
+    "date": "September 13, 2022 at 12:34 am",
+    "store_name": "Magnesium Wash",
+    "store_url": "/772311/stores/39665402022",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 12, 2022 at 5:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 24069505046Open payments"
+  },
+  {
+    "date": "September 12, 2022 at 5:00 pm",
+    "store_name": "Judes Family",
+    "store_url": "/772311/stores/55508992189",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29154115852Open payments"
+  },
+  {
+    "date": "September 12, 2022 at 5:00 pm",
+    "store_name": "Judes Family",
+    "store_url": "/772311/stores/55508992189",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29154083084Open payments"
+  },
+  {
+    "date": "September 12, 2022 at 5:00 pm",
+    "store_name": "Judes Family",
+    "store_url": "/772311/stores/55508992189",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29154148620Open payments"
+  },
+  {
+    "date": "September 10, 2022 at 1:30 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 10, 2022 at 12:27 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 9, 2022 at 6:29 pm",
+    "store_name": "Judes Family",
+    "store_url": "/772311/stores/55508992189",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29154181388Open payments"
+  },
+  {
+    "date": "September 9, 2022 at 6:29 pm",
+    "store_name": "Judes Family",
+    "store_url": "/772311/stores/55508992189",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 9, 2022 at 6:20 pm",
+    "store_name": "Judes Family",
+    "store_url": "/772311/stores/55508992189",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29154181388Open payments"
+  },
+  {
+    "date": "September 9, 2022 at 6:15 pm",
+    "store_name": "Judes Family",
+    "store_url": "/772311/stores/55508992189",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "September 7, 2022 at 4:22 pm",
+    "store_name": "Beach Access",
+    "store_url": "/772311/stores/47521824930",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25563791522Open payments"
+  },
+  {
+    "date": "September 7, 2022 at 4:22 pm",
+    "store_name": "Beach Access",
+    "store_url": "/772311/stores/47521824930",
+    "event": "AttentionUninstalled",
+    "event_details": "アプリがうまく機能しない"
+  },
+  {
+    "date": "September 7, 2022 at 4:03 pm",
+    "store_name": "Beach Access",
+    "store_url": "/772311/stores/47521824930",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25563791522Open payments"
+  }
+]

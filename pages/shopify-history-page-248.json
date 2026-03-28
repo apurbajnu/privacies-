@@ -1,0 +1,142 @@
+[
+  {
+    "date": "April 13, 2023 at 5:57 pm",
+    "store_name": "Fluid.no",
+    "store_url": "/772311/stores/24870780994",
+    "event": "Subscription charge declined",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27948450033Open payments"
+  },
+  {
+    "date": "April 12, 2023 at 10:16 pm",
+    "store_name": "Enecta Free Fitness",
+    "store_url": "/772311/stores/53220737195",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29948117320Open payments"
+  },
+  {
+    "date": "April 12, 2023 at 10:16 pm",
+    "store_name": "Enecta Free Fitness",
+    "store_url": "/772311/stores/53220737195",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 12, 2023 at 10:09 pm",
+    "store_name": "Enecta Free Fitness",
+    "store_url": "/772311/stores/53220737195",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29948117320Open payments"
+  },
+  {
+    "date": "April 12, 2023 at 10:09 pm",
+    "store_name": "Enecta Free Fitness",
+    "store_url": "/772311/stores/53220737195",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 10, 2023 at 8:31 pm",
+    "store_name": "CBD Healing Store Ltd",
+    "store_url": "/772311/stores/54874734837",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27447165173Open payments"
+  },
+  {
+    "date": "April 10, 2023 at 8:31 pm",
+    "store_name": "CBD Healing Store Ltd",
+    "store_url": "/772311/stores/54874734837",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well"
+  },
+  {
+    "date": "April 10, 2023 at 8:23 pm",
+    "store_name": "CBD Healing Store Ltd",
+    "store_url": "/772311/stores/54874734837",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27447165173Open payments"
+  },
+  {
+    "date": "April 10, 2023 at 8:23 pm",
+    "store_name": "CBD Healing Store Ltd",
+    "store_url": "/772311/stores/54874734837",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 10, 2023 at 7:32 pm",
+    "store_name": "Precision Leather",
+    "store_url": "/772311/stores/73532375313",
+    "event": "Subscription charge declined",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29065642257Open payments"
+  },
+  {
+    "date": "April 10, 2023 at 7:30 pm",
+    "store_name": "Precision Leather",
+    "store_url": "/772311/stores/73532375313",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 9, 2023 at 5:00 pm",
+    "store_name": "Fluid.no",
+    "store_url": "/772311/stores/24870780994",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27937341681Open payments"
+  },
+  {
+    "date": "April 9, 2023 at 5:00 pm",
+    "store_name": "Fluid.no",
+    "store_url": "/772311/stores/24870780994",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27937308913Open payments"
+  },
+  {
+    "date": "April 9, 2023 at 5:00 pm",
+    "store_name": "Fluid.no",
+    "store_url": "/772311/stores/24870780994",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27937571057Open payments"
+  },
+  {
+    "date": "April 9, 2023 at 5:00 pm",
+    "store_name": "Fluid.no",
+    "store_url": "/772311/stores/24870780994",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27937374449Open payments"
+  },
+  {
+    "date": "April 9, 2023 at 5:00 pm",
+    "store_name": "Fluid.no",
+    "store_url": "/772311/stores/24870780994",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27937997041Open payments"
+  },
+  {
+    "date": "April 9, 2023 at 5:00 pm",
+    "store_name": "Fluid.no",
+    "store_url": "/772311/stores/24870780994",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27937538289Open payments"
+  },
+  {
+    "date": "April 9, 2023 at 5:00 pm",
+    "store_name": "Fluid.no",
+    "store_url": "/772311/stores/24870780994",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27937276145Open payments"
+  },
+  {
+    "date": "April 6, 2023 at 5:57 pm",
+    "store_name": "Fluid.no",
+    "store_url": "/772311/stores/24870780994",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "April 6, 2023 at 6:54 am",
+    "store_name": "ebthriftshop",
+    "store_url": "/772311/stores/70799720758",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29034348854Open payments"
+  }
+]

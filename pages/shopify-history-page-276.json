@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 6, 2022 at 6:13 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 6, 2022 at 6:04 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 6, 2022 at 5:57 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 6, 2022 at 5:41 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 6, 2022 at 5:39 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 6, 2022 at 5:38 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 5, 2022 at 11:10 pm",
+    "store_name": "thebasic01",
+    "store_url": "/772311/stores/58364100806",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 5, 2022 at 11:10 pm",
+    "store_name": "thebasic01",
+    "store_url": "/772311/stores/58364100806",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25239322822Open payments"
+  },
+  {
+    "date": "December 5, 2022 at 11:01 pm",
+    "store_name": "thebasic01",
+    "store_url": "/772311/stores/58364100806",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25239322822Open payments"
+  },
+  {
+    "date": "December 5, 2022 at 11:01 pm",
+    "store_name": "thebasic01",
+    "store_url": "/772311/stores/58364100806",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 5, 2022 at 9:51 pm",
+    "store_name": "thebasic01",
+    "store_url": "/772311/stores/58364100806",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25239257286Open payments"
+  },
+  {
+    "date": "December 5, 2022 at 9:51 pm",
+    "store_name": "thebasic01",
+    "store_url": "/772311/stores/58364100806",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 5, 2022 at 9:49 pm",
+    "store_name": "thebasic01",
+    "store_url": "/772311/stores/58364100806",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 25239257286Open payments"
+  },
+  {
+    "date": "December 5, 2022 at 9:49 pm",
+    "store_name": "thebasic01",
+    "store_url": "/772311/stores/58364100806",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 5, 2022 at 2:23 pm",
+    "store_name": "2Men",
+    "store_url": "/772311/stores/66581725438",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27169751294Open payments"
+  },
+  {
+    "date": "December 5, 2022 at 2:23 pm",
+    "store_name": "2Men",
+    "store_url": "/772311/stores/66581725438",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 4, 2022 at 12:45 am",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 4, 2022 at 12:25 am",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 3, 2022 at 6:00 pm",
+    "store_name": "Tsun Dev",
+    "store_url": "/772311/stores/60531671229",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26410844349Open payments"
+  },
+  {
+    "date": "December 3, 2022 at 6:00 pm",
+    "store_name": "Ozers Nutrition",
+    "store_url": "/772311/stores/68338286886",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27910701350Open payments"
+  }
+]

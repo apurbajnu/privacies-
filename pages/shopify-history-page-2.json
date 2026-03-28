@@ -1,0 +1,142 @@
+[
+  {
+    "date": "February 3, 2026 at 3:19 pm",
+    "store_name": "Mon Marque-page",
+    "store_url": "/772311/stores/93734994210",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 3, 2026 at 3:18 pm",
+    "store_name": "Mon Marque-page",
+    "store_url": "/772311/stores/93734994210",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 2, 2026 at 9:06 pm",
+    "store_name": "Flock and Forest",
+    "store_url": "/772311/stores/96132432191",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 38989627711Open payments"
+  },
+  {
+    "date": "February 2, 2026 at 9:04 pm",
+    "store_name": "Flock and Forest",
+    "store_url": "/772311/stores/96132432191",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "February 1, 2026 at 4:07 am",
+    "store_name": "Gymnastics Tracks",
+    "store_url": "/772311/stores/98594849056",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 35637428512Open payments"
+  },
+  {
+    "date": "February 1, 2026 at 4:05 am",
+    "store_name": "Gymnastics Tracks",
+    "store_url": "/772311/stores/98594849056",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 29, 2026 at 6:00 pm",
+    "store_name": "Bassetts Online",
+    "store_url": "/772311/stores/89320718670",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 67520954702Open payments"
+  },
+  {
+    "date": "January 29, 2026 at 6:00 pm",
+    "store_name": "Navaneeth's Test Store",
+    "store_url": "/772311/stores/78885748988",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30596825340Open payments"
+  },
+  {
+    "date": "January 28, 2026 at 6:00 pm",
+    "store_name": "Navaneeth's Test Store",
+    "store_url": "/772311/stores/78885748988",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30593908988Open payments"
+  },
+  {
+    "date": "January 28, 2026 at 12:58 am",
+    "store_name": "My Shop of Wonders",
+    "store_url": "/772311/stores/76318277937",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "January 28, 2026 at 12:58 am",
+    "store_name": "My Shop of Wonders",
+    "store_url": "/772311/stores/76318277937",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 46849622321Open payments"
+  },
+  {
+    "date": "January 27, 2026 at 6:00 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/98525282618",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 36212212026Open payments"
+  },
+  {
+    "date": "January 27, 2026 at 6:00 pm",
+    "store_name": "D´AROME",
+    "store_url": "/772311/stores/101018468691",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 52224950611Open payments"
+  },
+  {
+    "date": "January 27, 2026 at 4:15 pm",
+    "store_name": "CadouriPerfecte",
+    "store_url": "/772311/stores/57524125794",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Extended Yearly - $39.99 USD. Subscription ID: 82113954179Open payments"
+  },
+  {
+    "date": "January 27, 2026 at 4:15 pm",
+    "store_name": "CadouriPerfecte",
+    "store_url": "/772311/stores/57524125794",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 82113888643Open payments"
+  },
+  {
+    "date": "January 27, 2026 at 3:58 pm",
+    "store_name": "CadouriPerfecte",
+    "store_url": "/772311/stores/57524125794",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 82113888643Open payments"
+  },
+  {
+    "date": "January 27, 2026 at 3:55 pm",
+    "store_name": "CadouriPerfecte",
+    "store_url": "/772311/stores/57524125794",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 26, 2026 at 9:21 pm",
+    "store_name": "Bassetts Online",
+    "store_url": "/772311/stores/89320718670",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 67521511758Open payments"
+  },
+  {
+    "date": "January 26, 2026 at 8:50 pm",
+    "store_name": "Bassetts Online",
+    "store_url": "/772311/stores/89320718670",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 26, 2026 at 8:49 pm",
+    "store_name": "Bassetts Online",
+    "store_url": "/772311/stores/89320718670",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store"
+  }
+]

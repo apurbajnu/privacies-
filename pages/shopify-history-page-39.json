@@ -1,0 +1,142 @@
+[
+  {
+    "date": "June 6, 2025 at 10:26 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/71447871653",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "June 6, 2025 at 12:21 pm",
+    "store_name": "226erscom",
+    "store_url": "/772311/stores/94735532378",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 55258939738Open payments"
+  },
+  {
+    "date": "June 6, 2025 at 10:05 am",
+    "store_name": "GUSA",
+    "store_url": "/772311/stores/60124495931",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 6, 2025 at 10:04 am",
+    "store_name": "GUSA",
+    "store_url": "/772311/stores/60124495931",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 6, 2025 at 1:21 am",
+    "store_name": "226erscom",
+    "store_url": "/772311/stores/94735532378",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 5, 2025 at 5:00 pm",
+    "store_name": "Weo Test",
+    "store_url": "/772311/stores/5897519202",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25340018786Open payments"
+  },
+  {
+    "date": "June 5, 2025 at 5:00 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/71447871653",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31448826021Open payments"
+  },
+  {
+    "date": "June 5, 2025 at 3:22 am",
+    "store_name": "Home Kartz",
+    "store_url": "/772311/stores/42405396646",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 4, 2025 at 6:02 pm",
+    "store_name": "Kansei - Agencia Shopify",
+    "store_url": "/772311/stores/58254688298",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 74492641656Open payments"
+  },
+  {
+    "date": "June 4, 2025 at 6:00 pm",
+    "store_name": "Kansei - Agencia Shopify",
+    "store_url": "/772311/stores/58254688298",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 4, 2025 at 1:50 pm",
+    "store_name": "SOEZI",
+    "store_url": "/772311/stores/66908324072",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 4, 2025 at 1:49 pm",
+    "store_name": "SOEZI",
+    "store_url": "/772311/stores/66908324072",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 3, 2025 at 5:09 pm",
+    "store_name": "Total Gym Store",
+    "store_url": "/772311/stores/68642242857",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 3, 2025 at 2:13 pm",
+    "store_name": "Odeclas",
+    "store_url": "/772311/stores/91235483992",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 3, 2025 at 11:33 am",
+    "store_name": "Weo Test",
+    "store_url": "/772311/stores/5897519202",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 3, 2025 at 11:32 am",
+    "store_name": "Weo Test",
+    "store_url": "/772311/stores/5897519202",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 3, 2025 at 9:48 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/71447871653",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 2, 2025 at 6:49 pm",
+    "store_name": "De Kunst van Zingeving",
+    "store_url": "/772311/stores/79499493699",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33272463683Open payments"
+  },
+  {
+    "date": "June 2, 2025 at 6:49 pm",
+    "store_name": "De Kunst van Zingeving",
+    "store_url": "/772311/stores/79499493699",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "June 2, 2025 at 8:34 am",
+    "store_name": "Heirloom Prints",
+    "store_url": "/772311/stores/85933490497",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32347619649Open payments"
+  }
+]

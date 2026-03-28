@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 12, 2024 at 1:33 pm",
+    "store_name": "Hersay",
+    "store_url": "/772311/stores/58818855048",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24963612808Open payments"
+  },
+  {
+    "date": "July 12, 2024 at 1:32 pm",
+    "store_name": "Hersay",
+    "store_url": "/772311/stores/58818855048",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 12, 2024 at 8:30 am",
+    "store_name": "LABridl",
+    "store_url": "/772311/stores/63980470485",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29355966677Open payments"
+  },
+  {
+    "date": "July 12, 2024 at 8:30 am",
+    "store_name": "LABridl",
+    "store_url": "/772311/stores/63980470485",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 12, 2024 at 8:25 am",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23029186656Open payments"
+  },
+  {
+    "date": "July 12, 2024 at 8:20 am",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23029448800Open payments"
+  },
+  {
+    "date": "July 12, 2024 at 8:06 am",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23029121120Open payments"
+  },
+  {
+    "date": "July 12, 2024 at 7:28 am",
+    "store_name": "Kate Backdrop",
+    "store_url": "/772311/stores/16194221",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 11, 2024 at 10:38 pm",
+    "store_name": "Roamight",
+    "store_url": "/772311/stores/56684773472",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23027384416Open payments"
+  },
+  {
+    "date": "July 11, 2024 at 10:38 pm",
+    "store_name": "Roamight",
+    "store_url": "/772311/stores/56684773472",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 11, 2024 at 9:16 pm",
+    "store_name": "Paint Me Twisted",
+    "store_url": "/772311/stores/58070663247",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24377131087Open payments"
+  },
+  {
+    "date": "July 11, 2024 at 9:16 pm",
+    "store_name": "Paint Me Twisted",
+    "store_url": "/772311/stores/58070663247",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 11, 2024 at 5:00 pm",
+    "store_name": "LABridl",
+    "store_url": "/772311/stores/63980470485",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29356130517Open payments"
+  },
+  {
+    "date": "July 11, 2024 at 5:00 pm",
+    "store_name": "LABridl",
+    "store_url": "/772311/stores/63980470485",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29356163285Open payments"
+  },
+  {
+    "date": "July 11, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28719710420Open payments"
+  },
+  {
+    "date": "July 11, 2024 at 5:00 pm",
+    "store_name": "ひなせい 五月人形",
+    "store_url": "/772311/stores/69570887937",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28673245441Open payments"
+  },
+  {
+    "date": "July 11, 2024 at 5:00 pm",
+    "store_name": "Backyard Brew",
+    "store_url": "/772311/stores/4087840838",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28715221204Open payments"
+  },
+  {
+    "date": "July 11, 2024 at 5:21 am",
+    "store_name": "人形のひなせい",
+    "store_url": "/772311/stores/59218460859",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26324861115Open payments"
+  },
+  {
+    "date": "July 11, 2024 at 5:21 am",
+    "store_name": "人形のひなせい",
+    "store_url": "/772311/stores/59218460859",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 11, 2024 at 5:15 am",
+    "store_name": "ひなせい 五月人形",
+    "store_url": "/772311/stores/69570887937",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

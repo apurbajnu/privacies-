@@ -1,0 +1,142 @@
+[
+  {
+    "date": "August 6, 2023 at 8:07 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 4, 2023 at 8:12 pm",
+    "store_name": "Big Bat Box",
+    "store_url": "/772311/stores/204472339",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30518378837Open payments"
+  },
+  {
+    "date": "August 4, 2023 at 8:12 pm",
+    "store_name": "Big Bat Box",
+    "store_url": "/772311/stores/204472339",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 2, 2023 at 7:54 pm",
+    "store_name": "MUSS",
+    "store_url": "/772311/stores/48089530524",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30499012933Open payments"
+  },
+  {
+    "date": "August 2, 2023 at 7:54 pm",
+    "store_name": "MUSS",
+    "store_url": "/772311/stores/48089530524",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 2, 2023 at 7:29 pm",
+    "store_name": "MUSS",
+    "store_url": "/772311/stores/48089530524",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30499012933Open payments"
+  },
+  {
+    "date": "August 2, 2023 at 7:28 pm",
+    "store_name": "MUSS",
+    "store_url": "/772311/stores/48089530524",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "August 2, 2023 at 5:00 pm",
+    "store_name": "app-security-02",
+    "store_url": "/772311/stores/69161943062",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 27094024214Open payments"
+  },
+  {
+    "date": "July 30, 2023 at 9:10 pm",
+    "store_name": "app-security-02",
+    "store_url": "/772311/stores/69161943062",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 30, 2023 at 9:00 pm",
+    "store_name": "app-security-02",
+    "store_url": "/772311/stores/69161943062",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "July 28, 2023 at 9:36 pm",
+    "store_name": "NAGAIA",
+    "store_url": "/772311/stores/61876732118",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28505145558Open payments"
+  },
+  {
+    "date": "July 28, 2023 at 9:36 pm",
+    "store_name": "NAGAIA",
+    "store_url": "/772311/stores/61876732118",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "July 28, 2023 at 5:00 pm",
+    "store_name": "Labellisé",
+    "store_url": "/772311/stores/74238951730",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30027546930Open payments"
+  },
+  {
+    "date": "July 28, 2023 at 5:00 pm",
+    "store_name": "Labellisé",
+    "store_url": "/772311/stores/74238951730",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30026989874Open payments"
+  },
+  {
+    "date": "July 28, 2023 at 5:00 pm",
+    "store_name": "Labellisé",
+    "store_url": "/772311/stores/74238951730",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30027120946Open payments"
+  },
+  {
+    "date": "July 28, 2023 at 5:00 pm",
+    "store_name": "Labellisé",
+    "store_url": "/772311/stores/74238951730",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30027219250Open payments"
+  },
+  {
+    "date": "July 28, 2023 at 5:00 pm",
+    "store_name": "Labellisé",
+    "store_url": "/772311/stores/74238951730",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30027415858Open payments"
+  },
+  {
+    "date": "July 28, 2023 at 5:00 pm",
+    "store_name": "Labellisé",
+    "store_url": "/772311/stores/74238951730",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30027350322Open payments"
+  },
+  {
+    "date": "July 28, 2023 at 5:00 pm",
+    "store_name": "Labellisé",
+    "store_url": "/772311/stores/74238951730",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30027284786Open payments"
+  },
+  {
+    "date": "July 28, 2023 at 5:00 pm",
+    "store_name": "Labellisé",
+    "store_url": "/772311/stores/74238951730",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30027055410Open payments"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "May 21, 2025 at 1:04 pm",
+    "store_name": "Ketovia.de",
+    "store_url": "/772311/stores/90725908828",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 48323264860Open payments"
+  },
+  {
+    "date": "May 21, 2025 at 1:03 pm",
+    "store_name": "Ketovia.de",
+    "store_url": "/772311/stores/90725908828",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 21, 2025 at 7:27 am",
+    "store_name": "Lewis Knife",
+    "store_url": "/772311/stores/68578705652",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 21, 2025 at 7:25 am",
+    "store_name": "Lewis Knife",
+    "store_url": "/772311/stores/68578705652",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 21, 2025 at 3:09 am",
+    "store_name": "Storelli",
+    "store_url": "/772311/stores/26248830",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28011069474Open payments"
+  },
+  {
+    "date": "May 21, 2025 at 3:09 am",
+    "store_name": "Storelli",
+    "store_url": "/772311/stores/26248830",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 20, 2025 at 9:39 am",
+    "store_name": "ODIFORGO",
+    "store_url": "/772311/stores/81657102624",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 20, 2025 at 9:38 am",
+    "store_name": "ODIFORGO",
+    "store_url": "/772311/stores/81657102624",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 17, 2025 at 8:37 pm",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24717459518Open payments"
+  },
+  {
+    "date": "May 17, 2025 at 8:37 pm",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 17, 2025 at 4:43 pm",
+    "store_name": "Jodo",
+    "store_url": "/772311/stores/55694622786",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 17, 2025 at 4:43 pm",
+    "store_name": "Jodo",
+    "store_url": "/772311/stores/55694622786",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 23686905922Open payments"
+  },
+  {
+    "date": "May 17, 2025 at 3:04 pm",
+    "store_name": "Sports Savvy",
+    "store_url": "/772311/stores/62069571762",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "May 17, 2025 at 1:22 am",
+    "store_name": "Trend Chef",
+    "store_url": "/772311/stores/87286677853",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 56821809501Open payments"
+  },
+  {
+    "date": "May 17, 2025 at 1:22 am",
+    "store_name": "Trend Chef",
+    "store_url": "/772311/stores/87286677853",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 16, 2025 at 12:13 pm",
+    "store_name": "PVY E-BIKE",
+    "store_url": "/772311/stores/83537723726",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 66475589966Open payments"
+  },
+  {
+    "date": "May 16, 2025 at 12:12 pm",
+    "store_name": "PVY E-BIKE",
+    "store_url": "/772311/stores/83537723726",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 15, 2025 at 12:36 pm",
+    "store_name": "Cigman",
+    "store_url": "/772311/stores/57573998692",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27021869156Open payments"
+  },
+  {
+    "date": "May 15, 2025 at 12:36 pm",
+    "store_name": "Cigman",
+    "store_url": "/772311/stores/57573998692",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 13, 2025 at 2:58 am",
+    "store_name": "hawaiiansling.com",
+    "store_url": "/772311/stores/55673978903",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

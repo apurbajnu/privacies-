@@ -1,0 +1,142 @@
+[
+  {
+    "date": "June 30, 2025 at 3:43 am",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge declined",
+    "event_details": "Premium - $3.99 USD (Test). Subscription ID: 26049577039Open payments"
+  },
+  {
+    "date": "June 29, 2025 at 7:04 pm",
+    "store_name": "ToolNet",
+    "store_url": "/772311/stores/69100929239",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "June 29, 2025 at 4:13 pm",
+    "store_name": "Couture Alley",
+    "store_url": "/772311/stores/84363084121",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "June 26, 2025 at 11:31 am",
+    "store_name": "Little Surprise Box",
+    "store_url": "/772311/stores/78464385327",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 38035620143Open payments"
+  },
+  {
+    "date": "June 26, 2025 at 11:30 am",
+    "store_name": "Little Surprise Box",
+    "store_url": "/772311/stores/78464385327",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 26, 2025 at 12:57 am",
+    "store_name": "Essuntials®",
+    "store_url": "/772311/stores/59350581321",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 61600661577Open payments"
+  },
+  {
+    "date": "June 26, 2025 at 12:55 am",
+    "store_name": "Essuntials®",
+    "store_url": "/772311/stores/59350581321",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 25, 2025 at 3:58 pm",
+    "store_name": "be levels",
+    "store_url": "/772311/stores/36926193804",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 21, 2025 at 11:41 am",
+    "store_name": "Je Te Cheris La Collection",
+    "store_url": "/772311/stores/66309980342",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "June 21, 2025 at 11:40 am",
+    "store_name": "Je Te Cheris La Collection",
+    "store_url": "/772311/stores/66309980342",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28167176374Open payments"
+  },
+  {
+    "date": "June 21, 2025 at 11:37 am",
+    "store_name": "Je Te Cheris La Collection",
+    "store_url": "/772311/stores/66309980342",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 18, 2025 at 4:00 pm",
+    "store_name": "CollaVita® Collagen: Your Source for Premium Collagen Peptides",
+    "store_url": "/772311/stores/90151354667",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34260287787Open payments"
+  },
+  {
+    "date": "June 18, 2025 at 4:00 pm",
+    "store_name": "CollaVita® Collagen: Your Source for Premium Collagen Peptides",
+    "store_url": "/772311/stores/90151354667",
+    "event": "AttentionUninstalled",
+    "event_details": "Uygulamayı şu anda kullanmıyorum"
+  },
+  {
+    "date": "June 18, 2025 at 9:47 am",
+    "store_name": "maidesitejp",
+    "store_url": "/772311/stores/83822215462",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 47087517990Open payments"
+  },
+  {
+    "date": "June 18, 2025 at 9:47 am",
+    "store_name": "maidesitejp",
+    "store_url": "/772311/stores/83822215462",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 18, 2025 at 9:35 am",
+    "store_name": "maidesitejp",
+    "store_url": "/772311/stores/83822215462",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 47087517990Open payments"
+  },
+  {
+    "date": "June 18, 2025 at 9:34 am",
+    "store_name": "maidesitejp",
+    "store_url": "/772311/stores/83822215462",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 18, 2025 at 7:20 am",
+    "store_name": "MEGOOD BEAUTY",
+    "store_url": "/772311/stores/18236342356",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28158689462Open payments"
+  },
+  {
+    "date": "June 18, 2025 at 6:43 am",
+    "store_name": "REDACTED",
+    "store_url": "/772311/stores/73296904492",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29249503532Open payments"
+  },
+  {
+    "date": "June 18, 2025 at 6:43 am",
+    "store_name": "REDACTED",
+    "store_url": "/772311/stores/73296904492",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  }
+]

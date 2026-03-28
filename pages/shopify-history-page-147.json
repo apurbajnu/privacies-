@@ -1,0 +1,142 @@
+[
+  {
+    "date": "June 3, 2024 at 5:00 pm",
+    "store_name": "Allevia",
+    "store_url": "/772311/stores/70168084735",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29009182975Open payments"
+  },
+  {
+    "date": "June 1, 2024 at 6:15 pm",
+    "store_name": "Coffee Bean Gourmet",
+    "store_url": "/772311/stores/65318912191",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28293431487Open payments"
+  },
+  {
+    "date": "June 1, 2024 at 6:15 pm",
+    "store_name": "Coffee Bean Gourmet",
+    "store_url": "/772311/stores/65318912191",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 1, 2024 at 3:45 pm",
+    "store_name": "Allevia",
+    "store_url": "/772311/stores/70168084735",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 31, 2024 at 7:41 pm",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/70168084735",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 31, 2024 at 5:00 pm",
+    "store_name": "Deep Sleep Hypnosis",
+    "store_url": "/772311/stores/86854533426",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32702300466Open payments"
+  },
+  {
+    "date": "May 31, 2024 at 5:00 pm",
+    "store_name": "Deep Sleep Hypnosis",
+    "store_url": "/772311/stores/86854533426",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32702267698Open payments"
+  },
+  {
+    "date": "May 31, 2024 at 5:00 pm",
+    "store_name": "Deep Sleep Hypnosis",
+    "store_url": "/772311/stores/86854533426",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32702333234Open payments"
+  },
+  {
+    "date": "May 31, 2024 at 5:00 pm",
+    "store_name": "Deep Sleep Hypnosis",
+    "store_url": "/772311/stores/86854533426",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32702366002Open payments"
+  },
+  {
+    "date": "May 30, 2024 at 7:17 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28081225979Open payments"
+  },
+  {
+    "date": "May 30, 2024 at 7:17 pm",
+    "store_name": "leather journal store",
+    "store_url": "/772311/stores/66457174267",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 29, 2024 at 2:41 am",
+    "store_name": "Deep Sleep Hypnosis",
+    "store_url": "/772311/stores/86854533426",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 29, 2024 at 2:35 am",
+    "store_name": "Deep Sleep Hypnosis",
+    "store_url": "/772311/stores/86854533426",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 28, 2024 at 3:26 pm",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32816890158Open payments"
+  },
+  {
+    "date": "May 28, 2024 at 3:19 pm",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 28, 2024 at 3:17 pm",
+    "store_name": "Gagay shop",
+    "store_url": "/772311/stores/80228253998",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 26, 2024 at 6:36 am",
+    "store_name": "Cork Boutique",
+    "store_url": "/772311/stores/65322025183",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27251933407Open payments"
+  },
+  {
+    "date": "May 26, 2024 at 6:30 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/58776387699",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24458166387Open payments"
+  },
+  {
+    "date": "May 26, 2024 at 6:30 am",
+    "store_name": "LOVE PET FAMILY",
+    "store_url": "/772311/stores/58776387699",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "May 25, 2024 at 5:00 pm",
+    "store_name": "🔍 Tsun App Test",
+    "store_url": "/772311/stores/68019323195",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32677134651Open payments"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "November 8, 2023 at 5:14 pm",
+    "store_name": "TestoForce®",
+    "store_url": "/772311/stores/78817820997",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "November 8, 2023 at 1:07 am",
+    "store_name": "Biohacker Supply",
+    "store_url": "/772311/stores/83516162363",
+    "event": "AttentionUninstalled",
+    "event_details": "Not satisfied with support, Hard to set up or use"
+  },
+  {
+    "date": "November 8, 2023 at 1:07 am",
+    "store_name": "Biohacker Supply",
+    "store_url": "/772311/stores/83516162363",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31398265147Open payments"
+  },
+  {
+    "date": "November 8, 2023 at 12:44 am",
+    "store_name": "TestoForce®",
+    "store_url": "/772311/stores/78817820997",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 7, 2023 at 7:11 pm",
+    "store_name": "Hayah Stones",
+    "store_url": "/772311/stores/76890440012",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31268438348Open payments"
+  },
+  {
+    "date": "November 7, 2023 at 7:11 pm",
+    "store_name": "Hayah Stones",
+    "store_url": "/772311/stores/76890440012",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 7, 2023 at 7:10 pm",
+    "store_name": "Hayah Stones",
+    "store_url": "/772311/stores/76890440012",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 30649319756Open payments"
+  },
+  {
+    "date": "November 7, 2023 at 7:10 pm",
+    "store_name": "Hayah Stones",
+    "store_url": "/772311/stores/76890440012",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "November 5, 2023 at 7:20 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 5, 2023 at 7:11 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 3, 2023 at 7:26 pm",
+    "store_name": "Biohacker Supply",
+    "store_url": "/772311/stores/83516162363",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31398265147Open payments"
+  },
+  {
+    "date": "November 3, 2023 at 7:25 pm",
+    "store_name": "Biohacker Supply",
+    "store_url": "/772311/stores/83516162363",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 3, 2023 at 2:29 am",
+    "store_name": "Greenlight Heating",
+    "store_url": "/772311/stores/72012300581",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31792365861Open payments"
+  },
+  {
+    "date": "November 3, 2023 at 2:29 am",
+    "store_name": "Greenlight Heating",
+    "store_url": "/772311/stores/72012300581",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 2, 2023 at 7:10 pm",
+    "store_name": "Donelli",
+    "store_url": "/772311/stores/52514619578",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31323980122Open payments"
+  },
+  {
+    "date": "November 2, 2023 at 7:10 pm",
+    "store_name": "Donelli",
+    "store_url": "/772311/stores/52514619578",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 2, 2023 at 7:05 pm",
+    "store_name": "Donelli",
+    "store_url": "/772311/stores/52514619578",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31323980122Open payments"
+  },
+  {
+    "date": "November 2, 2023 at 7:04 pm",
+    "store_name": "Donelli",
+    "store_url": "/772311/stores/52514619578",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 1, 2023 at 5:00 pm",
+    "store_name": "onthecamper",
+    "store_url": "/772311/stores/74898440476",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 31298126108Open payments"
+  },
+  {
+    "date": "November 1, 2023 at 5:00 pm",
+    "store_name": "app-security-03",
+    "store_url": "/772311/stores/69174886422",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 27993276438Open payments"
+  }
+]

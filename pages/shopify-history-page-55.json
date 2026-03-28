@@ -1,0 +1,142 @@
+[
+  {
+    "date": "March 13, 2025 at 10:55 pm",
+    "store_name": "Direct Bathroom Vanity, subsidiary of GN Trading Enterprises LLC",
+    "store_url": "/772311/stores/66321481926",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "March 13, 2025 at 10:48 pm",
+    "store_name": "Direct Bathroom Vanity, subsidiary of GN Trading Enterprises LLC",
+    "store_url": "/772311/stores/66321481926",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28245033158Open payments"
+  },
+  {
+    "date": "March 13, 2025 at 10:48 pm",
+    "store_name": "Direct Bathroom Vanity, subsidiary of GN Trading Enterprises LLC",
+    "store_url": "/772311/stores/66321481926",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 13, 2025 at 7:11 pm",
+    "store_name": "Motoculture.fr",
+    "store_url": "/772311/stores/93706125635",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 122902217027Open payments"
+  },
+  {
+    "date": "March 13, 2025 at 7:11 pm",
+    "store_name": "Motoculture.fr",
+    "store_url": "/772311/stores/93706125635",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 13, 2025 at 7:09 pm",
+    "store_name": "Motoculture.fr",
+    "store_url": "/772311/stores/93706125635",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 122902217027Open payments"
+  },
+  {
+    "date": "March 13, 2025 at 5:00 pm",
+    "store_name": "Dev Testing Store",
+    "store_url": "/772311/stores/52392526023",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27801125063Open payments"
+  },
+  {
+    "date": "March 13, 2025 at 5:00 pm",
+    "store_name": "Dev Testing Store",
+    "store_url": "/772311/stores/52392526023",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27801092295Open payments"
+  },
+  {
+    "date": "March 13, 2025 at 5:00 pm",
+    "store_name": "Dev Testing Store",
+    "store_url": "/772311/stores/52392526023",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27801026759Open payments"
+  },
+  {
+    "date": "March 13, 2025 at 5:00 pm",
+    "store_name": "Dev Testing Store",
+    "store_url": "/772311/stores/52392526023",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27800993991Open payments"
+  },
+  {
+    "date": "March 13, 2025 at 1:21 pm",
+    "store_name": "Motoculture.fr",
+    "store_url": "/772311/stores/93706125635",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "March 13, 2025 at 1:19 pm",
+    "store_name": "Motoculture.fr",
+    "store_url": "/772311/stores/93706125635",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "March 13, 2025 at 11:54 am",
+    "store_name": "Dev Testing Store",
+    "store_url": "/772311/stores/52392526023",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 13, 2025 at 4:41 am",
+    "store_name": "Amorino Pets",
+    "store_url": "/772311/stores/73813328109",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30397104365Open payments"
+  },
+  {
+    "date": "March 13, 2025 at 4:41 am",
+    "store_name": "Amorino Pets",
+    "store_url": "/772311/stores/73813328109",
+    "event": "AttentionUninstalled",
+    "event_details": "Expensive or unexpected cost"
+  },
+  {
+    "date": "March 13, 2025 at 4:35 am",
+    "store_name": "Amorino Pets",
+    "store_url": "/772311/stores/73813328109",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30397104365Open payments"
+  },
+  {
+    "date": "March 13, 2025 at 4:35 am",
+    "store_name": "Amorino Pets",
+    "store_url": "/772311/stores/73813328109",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 13, 2025 at 2:00 am",
+    "store_name": "Motoculture.fr",
+    "store_url": "/772311/stores/93706125635",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 12, 2025 at 2:51 pm",
+    "store_name": "HongSonStore",
+    "store_url": "/772311/stores/80690807058",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "March 12, 2025 at 1:02 pm",
+    "store_name": "devhugon-store-1",
+    "store_url": "/772311/stores/89883377957",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

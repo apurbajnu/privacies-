@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 5, 2025 at 8:04 am",
+    "store_name": "Merrion Medical Aesthetics",
+    "store_url": "/772311/stores/60128657459",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 4, 2025 at 9:14 pm",
+    "store_name": "Elisa Vita",
+    "store_url": "/772311/stores/51337822366",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 4, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26444038223Open payments"
+  },
+  {
+    "date": "October 4, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26444070991Open payments"
+  },
+  {
+    "date": "October 4, 2025 at 3:04 pm",
+    "store_name": "Sea Supply Hub",
+    "store_url": "/772311/stores/84729004279",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "October 3, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Extended Yearly - $39.99 USD. Subscription ID: 26442760271Open payments"
+  },
+  {
+    "date": "October 3, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Extended Yearly - $39.99 USD. Subscription ID: 26442793039Open payments"
+  },
+  {
+    "date": "October 3, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26442727503Open payments"
+  },
+  {
+    "date": "October 3, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Extended - $3.99 USD. Subscription ID: 26442661967Open payments"
+  },
+  {
+    "date": "October 3, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Extended Yearly - $39.99 USD. Subscription ID: 26442989647Open payments"
+  },
+  {
+    "date": "October 3, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Extended - $3.99 USD. Subscription ID: 26442694735Open payments"
+  },
+  {
+    "date": "October 3, 2025 at 4:44 pm",
+    "store_name": "Sports Savvy",
+    "store_url": "/772311/stores/62069571762",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "October 2, 2025 at 9:51 pm",
+    "store_name": "product-hunt123",
+    "store_url": "/772311/stores/27444281403",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 2, 2025 at 9:42 pm",
+    "store_name": "product-hunt123",
+    "store_url": "/772311/stores/27444281403",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 2, 2025 at 5:36 pm",
+    "store_name": "BIFLshop",
+    "store_url": "/772311/stores/92949709180",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "October 2, 2025 at 5:36 pm",
+    "store_name": "BIFLshop",
+    "store_url": "/772311/stores/92949709180",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 69518328188Open payments"
+  },
+  {
+    "date": "October 2, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26434076751Open payments"
+  },
+  {
+    "date": "October 2, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26433945679Open payments"
+  },
+  {
+    "date": "October 2, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 26433912911Open payments"
+  },
+  {
+    "date": "October 2, 2025 at 5:00 pm",
+    "store_name": "BIFLshop",
+    "store_url": "/772311/stores/92949709180",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 69511807356Open payments"
+  }
+]

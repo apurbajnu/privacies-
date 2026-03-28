@@ -1,0 +1,142 @@
+[
+  {
+    "date": "July 2, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Premium - $3.99 USD (Test). Subscription ID: 26049544271Open payments"
+  },
+  {
+    "date": "July 2, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Premium - $3.99 USD (Test). Subscription ID: 26049478735Open payments"
+  },
+  {
+    "date": "July 2, 2025 at 5:00 pm",
+    "store_name": "Notify123",
+    "store_url": "/772311/stores/26213318735",
+    "event": "Subscription charge expired",
+    "event_details": "Premium - $3.99 USD (Test). Subscription ID: 26049511503Open payments"
+  },
+  {
+    "date": "July 2, 2025 at 7:08 am",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24717459518Open payments"
+  },
+  {
+    "date": "July 2, 2025 at 7:08 am",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "July 2, 2025 at 6:23 am",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24717459518Open payments"
+  },
+  {
+    "date": "July 2, 2025 at 6:16 am",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "July 2, 2025 at 2:33 am",
+    "store_name": "Sunshine Preppers",
+    "store_url": "/772311/stores/75437146422",
+    "event": "AttentionUninstalled",
+    "event_details": "Not working or compatible with store; Someone created a custom template for me.  This will not work with it.  I've heard good things about the app.....maybe my next upgrade..."
+  },
+  {
+    "date": "July 2, 2025 at 2:26 am",
+    "store_name": "Sunshine Preppers",
+    "store_url": "/772311/stores/75437146422",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 30, 2025 at 4:41 pm",
+    "store_name": "be levels",
+    "store_url": "/772311/stores/36926193804",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 63573754180Open payments"
+  },
+  {
+    "date": "June 30, 2025 at 4:36 pm",
+    "store_name": "Development",
+    "store_url": "/772311/stores/81487036691",
+    "event": "AttentionUninstalled",
+    "event_details": "No funciona o no es compatible con la tienda"
+  },
+  {
+    "date": "June 30, 2025 at 4:36 pm",
+    "store_name": "Development",
+    "store_url": "/772311/stores/81487036691",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 30, 2025 at 4:34 pm",
+    "store_name": "be levels",
+    "store_url": "/772311/stores/36926193804",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 30, 2025 at 4:34 pm",
+    "store_name": "be levels",
+    "store_url": "/772311/stores/36926193804",
+    "event": "AttentionUninstalled",
+    "event_details": "No funciona o no es compatible con la tienda"
+  },
+  {
+    "date": "June 30, 2025 at 7:55 am",
+    "store_name": "365 Gifty",
+    "store_url": "/772311/stores/93982654769",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 46050541873Open payments"
+  },
+  {
+    "date": "June 30, 2025 at 7:54 am",
+    "store_name": "365 Gifty",
+    "store_url": "/772311/stores/93982654769",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "June 30, 2025 at 4:09 am",
+    "store_name": "Fincsol - Ecommerce Online Amazon Accounting, eBay Accounting, Shopify Accounting, Etsy Accounting",
+    "store_url": "/772311/stores/68283957523",
+    "event": "AttentionUninstalled",
+    "event_details": "Expensive or unexpected cost"
+  },
+  {
+    "date": "June 30, 2025 at 4:09 am",
+    "store_name": "Fincsol - Ecommerce Online Amazon Accounting, eBay Accounting, Shopify Accounting, Etsy Accounting",
+    "store_url": "/772311/stores/68283957523",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 85475230078Open payments"
+  },
+  {
+    "date": "June 30, 2025 at 3:58 am",
+    "store_name": "Fincsol - Ecommerce Online Amazon Accounting, eBay Accounting, Shopify Accounting, Etsy Accounting",
+    "store_url": "/772311/stores/68283957523",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 85475230078Open payments"
+  },
+  {
+    "date": "June 30, 2025 at 3:55 am",
+    "store_name": "Fincsol - Ecommerce Online Amazon Accounting, eBay Accounting, Shopify Accounting, Etsy Accounting",
+    "store_url": "/772311/stores/68283957523",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

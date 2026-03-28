@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 3, 2025 at 12:47 am",
+    "store_name": "Integrative Healing Institute®",
+    "store_url": "/772311/stores/60733030578",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use, Not using app now"
+  },
+  {
+    "date": "January 3, 2025 at 12:42 am",
+    "store_name": "Integrative Healing Institute®",
+    "store_url": "/772311/stores/60733030578",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 27704131762Open payments"
+  },
+  {
+    "date": "January 3, 2025 at 12:42 am",
+    "store_name": "Integrative Healing Institute®",
+    "store_url": "/772311/stores/60733030578",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 2, 2025 at 3:47 pm",
+    "store_name": "SpinWalker",
+    "store_url": "/772311/stores/72688009494",
+    "event": "AttentionUninstalled",
+    "event_details": "Hard to set up or use"
+  },
+  {
+    "date": "January 2, 2025 at 3:47 pm",
+    "store_name": "SpinWalker",
+    "store_url": "/772311/stores/72688009494",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33938506006Open payments"
+  },
+  {
+    "date": "January 2, 2025 at 3:39 pm",
+    "store_name": "SpinWalker",
+    "store_url": "/772311/stores/72688009494",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33938506006Open payments"
+  },
+  {
+    "date": "January 2, 2025 at 3:37 pm",
+    "store_name": "SpinWalker",
+    "store_url": "/772311/stores/72688009494",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 1, 2025 at 1:08 am",
+    "store_name": "Grüne Valerie",
+    "store_url": "/772311/stores/73925525784",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34225389848Open payments"
+  },
+  {
+    "date": "January 1, 2025 at 1:08 am",
+    "store_name": "Grüne Valerie",
+    "store_url": "/772311/stores/73925525784",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "December 31, 2024 at 1:40 am",
+    "store_name": "VisaMadeEz",
+    "store_url": "/772311/stores/68687822997",
+    "event": "AttentionUninstalled",
+    "event_details": "Limited or missing features"
+  },
+  {
+    "date": "December 31, 2024 at 1:40 am",
+    "store_name": "VisaMadeEz",
+    "store_url": "/772311/stores/68687822997",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 30803689621Open payments"
+  },
+  {
+    "date": "December 31, 2024 at 12:13 am",
+    "store_name": "Grüne Valerie",
+    "store_url": "/772311/stores/73925525784",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34225389848Open payments"
+  },
+  {
+    "date": "December 31, 2024 at 12:12 am",
+    "store_name": "Grüne Valerie",
+    "store_url": "/772311/stores/73925525784",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 30, 2024 at 8:47 am",
+    "store_name": "HP eyeglasses",
+    "store_url": "/772311/stores/74859774235",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34012791067Open payments"
+  },
+  {
+    "date": "December 30, 2024 at 8:46 am",
+    "store_name": "HP eyeglasses",
+    "store_url": "/772311/stores/74859774235",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 28, 2024 at 12:25 pm",
+    "store_name": "Centregram 3D Studio",
+    "store_url": "/772311/stores/64531431688",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "December 27, 2024 at 9:07 pm",
+    "store_name": "Afluri",
+    "store_url": "/772311/stores/91288306003",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 44040388947Open payments"
+  },
+  {
+    "date": "December 27, 2024 at 9:07 pm",
+    "store_name": "Afluri",
+    "store_url": "/772311/stores/91288306003",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "December 26, 2024 at 11:45 pm",
+    "store_name": "detailing.top",
+    "store_url": "/772311/stores/86284992860",
+    "event": "AttentionUninstalled",
+    "event_details": "No funciona o no es compatible con la tienda"
+  },
+  {
+    "date": "December 26, 2024 at 11:45 pm",
+    "store_name": "detailing.top",
+    "store_url": "/772311/stores/86284992860",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 39106642268Open payments"
+  }
+]

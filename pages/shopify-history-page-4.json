@@ -1,0 +1,142 @@
+[
+  {
+    "date": "January 19, 2026 at 12:33 am",
+    "store_name": "Gloi",
+    "store_url": "/772311/stores/71646937246",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 19, 2026 at 12:29 am",
+    "store_name": "Gloi",
+    "store_url": "/772311/stores/71646937246",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 18, 2026 at 6:46 pm",
+    "store_name": "GYM NASTY",
+    "store_url": "/772311/stores/61219111128",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 28912386264Open payments"
+  },
+  {
+    "date": "January 18, 2026 at 6:46 pm",
+    "store_name": "GYM NASTY",
+    "store_url": "/772311/stores/61219111128",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "January 18, 2026 at 5:31 am",
+    "store_name": "Augustine Approved",
+    "store_url": "/772311/stores/57634226255",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 13, 2026 at 11:56 pm",
+    "store_name": "Rocksteady Corp",
+    "store_url": "/772311/stores/44464341153",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31963840673Open payments"
+  },
+  {
+    "date": "January 13, 2026 at 11:40 pm",
+    "store_name": "Rocksteady Corp",
+    "store_url": "/772311/stores/44464341153",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31963807905Open payments"
+  },
+  {
+    "date": "January 13, 2026 at 11:39 pm",
+    "store_name": "Rocksteady Corp",
+    "store_url": "/772311/stores/44464341153",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 13, 2026 at 11:39 pm",
+    "store_name": "Rocksteady Corp",
+    "store_url": "/772311/stores/44464341153",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 13, 2026 at 11:36 pm",
+    "store_name": "Rocksteady Corp",
+    "store_url": "/772311/stores/44464341153",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 11, 2026 at 6:00 pm",
+    "store_name": "Jansno Ebike US",
+    "store_url": "/772311/stores/77098123507",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31939526899Open payments"
+  },
+  {
+    "date": "January 10, 2026 at 11:07 pm",
+    "store_name": "Paintbrush Guard",
+    "store_url": "/772311/stores/71921697018",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Extended - $3.99 USD. Subscription ID: 34495168762Open payments"
+  },
+  {
+    "date": "January 10, 2026 at 11:07 pm",
+    "store_name": "Paintbrush Guard",
+    "store_url": "/772311/stores/71921697018",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34495135994Open payments"
+  },
+  {
+    "date": "January 10, 2026 at 11:06 pm",
+    "store_name": "Paintbrush Guard",
+    "store_url": "/772311/stores/71921697018",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34495135994Open payments"
+  },
+  {
+    "date": "January 10, 2026 at 11:05 pm",
+    "store_name": "Paintbrush Guard",
+    "store_url": "/772311/stores/71921697018",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 9, 2026 at 6:00 pm",
+    "store_name": "AquaBlu Mosaics",
+    "store_url": "/772311/stores/12057108",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 35307487597Open payments"
+  },
+  {
+    "date": "January 9, 2026 at 3:32 pm",
+    "store_name": "Jansno Ebike US",
+    "store_url": "/772311/stores/77098123507",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 9, 2026 at 8:48 am",
+    "store_name": "Calmfort",
+    "store_url": "/772311/stores/71015432425",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 32239354089Open payments"
+  },
+  {
+    "date": "January 9, 2026 at 8:48 am",
+    "store_name": "Calmfort",
+    "store_url": "/772311/stores/71015432425",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "January 9, 2026 at 1:25 am",
+    "store_name": "Faith Time Art",
+    "store_url": "/772311/stores/88527012210",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34200748402Open payments"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "date": "December 1, 2025 at 5:04 am",
+    "store_name": "Reminded Me",
+    "store_url": "/772311/stores/79851979050",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 34168766762Open payments"
+  },
+  {
+    "date": "December 1, 2025 at 5:04 am",
+    "store_name": "Reminded Me",
+    "store_url": "/772311/stores/79851979050",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 30, 2025 at 11:54 pm",
+    "store_name": "Grown Leo",
+    "store_url": "/772311/stores/69377327329",
+    "event": "AttentionUninstalled",
+    "event_details": "Expensive or unexpected cost"
+  },
+  {
+    "date": "November 30, 2025 at 11:54 pm",
+    "store_name": "Grown Leo",
+    "store_url": "/772311/stores/69377327329",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 58462765281Open payments"
+  },
+  {
+    "date": "November 30, 2025 at 11:53 pm",
+    "store_name": "Grown Leo",
+    "store_url": "/772311/stores/69377327329",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 30, 2025 at 8:05 pm",
+    "store_name": "2Bluebox",
+    "store_url": "/772311/stores/90553057560",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "November 30, 2025 at 8:05 pm",
+    "store_name": "2Bluebox",
+    "store_url": "/772311/stores/90553057560",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 36730274072Open payments"
+  },
+  {
+    "date": "November 29, 2025 at 6:17 am",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24717459518Open payments"
+  },
+  {
+    "date": "November 29, 2025 at 6:17 am",
+    "store_name": "Tâm Phước Tiến",
+    "store_url": "/772311/stores/59776172094",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "November 27, 2025 at 6:00 pm",
+    "store_name": "Mahaanss",
+    "store_url": "/772311/stores/60145008695",
+    "event": "Subscription charge expired",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 25453264951Open payments"
+  },
+  {
+    "date": "November 27, 2025 at 5:22 pm",
+    "store_name": "Elysia",
+    "store_url": "/772311/stores/63838421063",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 27, 2025 at 5:22 pm",
+    "store_name": "Elysia",
+    "store_url": "/772311/stores/63838421063",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24923209799Open payments"
+  },
+  {
+    "date": "November 27, 2025 at 5:17 pm",
+    "store_name": "Elysia",
+    "store_url": "/772311/stores/63838421063",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24923209799Open payments"
+  },
+  {
+    "date": "November 27, 2025 at 5:16 pm",
+    "store_name": "Elysia",
+    "store_url": "/772311/stores/63838421063",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 27, 2025 at 11:46 am",
+    "store_name": "My Store",
+    "store_url": "/772311/stores/65098743913",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 27, 2025 at 11:24 am",
+    "store_name": "aroundalways",
+    "store_url": "/772311/stores/65455227098",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 31731024090Open payments"
+  },
+  {
+    "date": "November 27, 2025 at 11:23 am",
+    "store_name": "aroundalways",
+    "store_url": "/772311/stores/65455227098",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 25, 2025 at 11:11 pm",
+    "store_name": "Moft Pivot Pro",
+    "store_url": "/772311/stores/80775545147",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 25, 2025 at 11:10 pm",
+    "store_name": "Moft Pivot Pro",
+    "store_url": "/772311/stores/80775545147",
+    "event": "Subscription charge declined",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 81668964739Open payments"
+  },
+  {
+    "date": "November 25, 2025 at 11:08 pm",
+    "store_name": "Moft Pivot Pro",
+    "store_url": "/772311/stores/80775545147",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

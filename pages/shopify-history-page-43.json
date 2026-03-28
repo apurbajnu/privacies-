@@ -1,0 +1,142 @@
+[
+  {
+    "date": "May 13, 2025 at 2:57 am",
+    "store_name": "hawaiiansling.com",
+    "store_url": "/772311/stores/55673978903",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 12, 2025 at 6:04 pm",
+    "store_name": "Men Deserve",
+    "store_url": "/772311/stores/63912378602",
+    "event": "AttentionUninstalled",
+    "event_details": "Not using app now"
+  },
+  {
+    "date": "May 12, 2025 at 6:04 pm",
+    "store_name": "Men Deserve",
+    "store_url": "/772311/stores/63912378602",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29270278378Open payments"
+  },
+  {
+    "date": "May 12, 2025 at 5:38 pm",
+    "store_name": "Men Deserve",
+    "store_url": "/772311/stores/63912378602",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 29270278378Open payments"
+  },
+  {
+    "date": "May 12, 2025 at 5:36 pm",
+    "store_name": "Men Deserve",
+    "store_url": "/772311/stores/63912378602",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 10, 2025 at 11:01 pm",
+    "store_name": "Vital Zen",
+    "store_url": "/772311/stores/89621430601",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 39653278025Open payments"
+  },
+  {
+    "date": "May 10, 2025 at 11:01 pm",
+    "store_name": "Vital Zen",
+    "store_url": "/772311/stores/89621430601",
+    "event": "AttentionUninstalled",
+    "event_details": "App wird derzeit nicht genutzt"
+  },
+  {
+    "date": "May 10, 2025 at 11:33 am",
+    "store_name": "Metal Zenith",
+    "store_url": "/772311/stores/64596181127",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 9, 2025 at 9:03 pm",
+    "store_name": "NASRIN fragrances",
+    "store_url": "/772311/stores/76543983955",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 9, 2025 at 9:02 pm",
+    "store_name": "NASRIN fragrances",
+    "store_url": "/772311/stores/76543983955",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 9, 2025 at 4:23 am",
+    "store_name": "Vegyrecipe",
+    "store_url": "/772311/stores/62090739760",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "May 8, 2025 at 7:00 pm",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "AttentionSubscription charge unfrozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25614057654Open payments"
+  },
+  {
+    "date": "May 8, 2025 at 6:59 pm",
+    "store_name": "The Savvy Ranger",
+    "store_url": "/772311/stores/26982282",
+    "event": "SuccessStore re-opened",
+    "event_details": ""
+  },
+  {
+    "date": "May 6, 2025 at 8:19 pm",
+    "store_name": "Yuma GmbH",
+    "store_url": "/772311/stores/73604071692",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 33173176588Open payments"
+  },
+  {
+    "date": "May 6, 2025 at 8:19 pm",
+    "store_name": "Yuma GmbH",
+    "store_url": "/772311/stores/73604071692",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 4, 2025 at 12:05 am",
+    "store_name": "Maglio Cicardini",
+    "store_url": "/772311/stores/59867037773",
+    "event": "Subscription charge canceled",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 24080973901Open payments"
+  },
+  {
+    "date": "May 2, 2025 at 11:56 am",
+    "store_name": "Maglio Cicardini",
+    "store_url": "/772311/stores/59867037773",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "May 2, 2025 at 2:12 am",
+    "store_name": "Tukkukoira",
+    "store_url": "/772311/stores/76229738833",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 45071630673Open payments"
+  },
+  {
+    "date": "May 2, 2025 at 2:08 am",
+    "store_name": "Tukkukoira",
+    "store_url": "/772311/stores/76229738833",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "May 2, 2025 at 12:26 am",
+    "store_name": "Happyhhc",
+    "store_url": "/772311/stores/66032369930",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Essential - $1.99 USD. Subscription ID: 59381547274Open payments"
+  }
+]

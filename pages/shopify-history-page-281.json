@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 19, 2022 at 4:06 pm",
+    "store_name": "appstoretest8",
+    "store_url": "/772311/stores/24819684",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 19, 2022 at 4:03 pm",
+    "store_name": "appstoretest8",
+    "store_url": "/772311/stores/24819684",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 19, 2022 at 3:57 pm",
+    "store_name": "Hardline Nutrition Lebanon",
+    "store_url": "/772311/stores/55075111012",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 17, 2022 at 5:54 pm",
+    "store_name": "Healthy Scam Reviews",
+    "store_url": "/772311/stores/55602020644",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27570045220Open payments"
+  },
+  {
+    "date": "October 17, 2022 at 5:54 pm",
+    "store_name": "Healthy Scam Reviews",
+    "store_url": "/772311/stores/55602020644",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 17, 2022 at 4:32 pm",
+    "store_name": "Studio Bothias",
+    "store_url": "/772311/stores/62483333311",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26060292287Open payments"
+  },
+  {
+    "date": "October 17, 2022 at 4:32 pm",
+    "store_name": "Studio Bothias",
+    "store_url": "/772311/stores/62483333311",
+    "event": "AttentionUninstalled",
+    "event_details": "L'app non funziona bene; Non riesco a capire come si usa"
+  },
+  {
+    "date": "October 17, 2022 at 4:17 pm",
+    "store_name": "Studio Bothias",
+    "store_url": "/772311/stores/62483333311",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26060292287Open payments"
+  },
+  {
+    "date": "October 17, 2022 at 4:16 pm",
+    "store_name": "Studio Bothias",
+    "store_url": "/772311/stores/62483333311",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 17, 2022 at 5:19 am",
+    "store_name": "baluka mascotas",
+    "store_url": "/772311/stores/57429393591",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25401393335Open payments"
+  },
+  {
+    "date": "October 17, 2022 at 5:19 am",
+    "store_name": "baluka mascotas",
+    "store_url": "/772311/stores/57429393591",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25401360567Open payments"
+  },
+  {
+    "date": "October 17, 2022 at 5:19 am",
+    "store_name": "baluka mascotas",
+    "store_url": "/772311/stores/57429393591",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25401360567Open payments"
+  },
+  {
+    "date": "October 17, 2022 at 5:19 am",
+    "store_name": "baluka mascotas",
+    "store_url": "/772311/stores/57429393591",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25401295031Open payments"
+  },
+  {
+    "date": "October 17, 2022 at 5:18 am",
+    "store_name": "baluka mascotas",
+    "store_url": "/772311/stores/57429393591",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25401295031Open payments"
+  },
+  {
+    "date": "October 17, 2022 at 5:16 am",
+    "store_name": "baluka mascotas",
+    "store_url": "/772311/stores/57429393591",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 16, 2022 at 5:00 pm",
+    "store_name": "The Himalayan Yeti",
+    "store_url": "/772311/stores/55054925872",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23031971888Open payments"
+  },
+  {
+    "date": "October 16, 2022 at 5:00 pm",
+    "store_name": "The Himalayan Yeti",
+    "store_url": "/772311/stores/55054925872",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23032004656Open payments"
+  },
+  {
+    "date": "October 15, 2022 at 2:33 pm",
+    "store_name": "T&H Organics Skin Care",
+    "store_url": "/772311/stores/57441026108",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "October 15, 2022 at 2:33 pm",
+    "store_name": "T&H Organics Skin Care",
+    "store_url": "/772311/stores/57441026108",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23160324156Open payments"
+  },
+  {
+    "date": "October 14, 2022 at 5:00 pm",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 23832854584Open payments"
+  }
+]

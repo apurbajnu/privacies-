@@ -1,0 +1,142 @@
+[
+  {
+    "date": "November 12, 2022 at 6:00 pm",
+    "store_name": "Alive Market CBD",
+    "store_url": "/772311/stores/59201683640",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27721531708Open payments"
+  },
+  {
+    "date": "November 12, 2022 at 4:50 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 12, 2022 at 2:36 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 10, 2022 at 6:00 pm",
+    "store_name": "Living With A Pet",
+    "store_url": "/772311/stores/67607658796",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27737293100Open payments"
+  },
+  {
+    "date": "November 10, 2022 at 3:10 am",
+    "store_name": "Alive Market CBD",
+    "store_url": "/772311/stores/59201683640",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27721728316Open payments"
+  },
+  {
+    "date": "November 10, 2022 at 3:10 am",
+    "store_name": "Alive Market CBD",
+    "store_url": "/772311/stores/59201683640",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 10, 2022 at 12:27 am",
+    "store_name": "Alive Market CBD",
+    "store_url": "/772311/stores/59201683640",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27721728316Open payments"
+  },
+  {
+    "date": "November 9, 2022 at 11:28 pm",
+    "store_name": "Alive Market CBD",
+    "store_url": "/772311/stores/59201683640",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 8, 2022 at 10:17 am",
+    "store_name": "My Pet Journal",
+    "store_url": "/772311/stores/67607658796",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27737325868Open payments"
+  },
+  {
+    "date": "November 8, 2022 at 9:58 am",
+    "store_name": "My Pet Journal",
+    "store_url": "/772311/stores/67607658796",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 7, 2022 at 6:00 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 24568168470Open payments"
+  },
+  {
+    "date": "November 6, 2022 at 6:00 pm",
+    "store_name": "Tsun Dev",
+    "store_url": "/772311/stores/60531671229",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26225639613Open payments"
+  },
+  {
+    "date": "November 6, 2022 at 6:00 pm",
+    "store_name": "Tsun Dev",
+    "store_url": "/772311/stores/60531671229",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26225672381Open payments"
+  },
+  {
+    "date": "November 5, 2022 at 5:20 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 5, 2022 at 3:07 pm",
+    "store_name": "app-security",
+    "store_url": "/772311/stores/60225617942",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 4, 2022 at 8:22 am",
+    "store_name": "Tsun Demo",
+    "store_url": "/772311/stores/67017113881",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 27730280729Open payments"
+  },
+  {
+    "date": "November 4, 2022 at 8:22 am",
+    "store_name": "Tsun Demo",
+    "store_url": "/772311/stores/67017113881",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 4, 2022 at 8:21 am",
+    "store_name": "Tsun Dev",
+    "store_url": "/772311/stores/60531671229",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "November 3, 2022 at 3:02 pm",
+    "store_name": "FREEDARESPORT",
+    "store_url": "/772311/stores/27760853053",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23204069437Open payments"
+  },
+  {
+    "date": "November 3, 2022 at 3:01 pm",
+    "store_name": "FREEDARESPORT",
+    "store_url": "/772311/stores/27760853053",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  }
+]

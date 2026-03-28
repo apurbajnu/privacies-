@@ -1,0 +1,142 @@
+[
+  {
+    "date": "October 14, 2022 at 5:00 pm",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD (Test). Subscription ID: 23832821816Open payments"
+  },
+  {
+    "date": "October 14, 2022 at 3:49 pm",
+    "store_name": "The Himalayan Yeti",
+    "store_url": "/772311/stores/55054925872",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 14, 2022 at 3:45 pm",
+    "store_name": "The Himalayan Yeti",
+    "store_url": "/772311/stores/55054925872",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 13, 2022 at 11:24 pm",
+    "store_name": "Balance Coffee: Best Speciality Healthy Coffee Beans UK Online",
+    "store_url": "/772311/stores/66085716215",
+    "event": "AttentionUninstalled",
+    "event_details": "App is not performing well; Issues and bugs with the app and poor support team. No response"
+  },
+  {
+    "date": "October 13, 2022 at 11:24 pm",
+    "store_name": "Balance Coffee: Best Speciality Healthy Coffee Beans UK Online",
+    "store_url": "/772311/stores/66085716215",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26753597687Open payments"
+  },
+  {
+    "date": "October 13, 2022 at 6:13 am",
+    "store_name": "UB Group Media",
+    "store_url": "/772311/stores/56393138360",
+    "event": "WarningSubscription charge frozen",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25292603576Open payments"
+  },
+  {
+    "date": "October 13, 2022 at 6:13 am",
+    "store_name": "UB Group Media",
+    "store_url": "/772311/stores/56393138360",
+    "event": "AttentionStore closed",
+    "event_details": ""
+  },
+  {
+    "date": "October 12, 2022 at 4:12 pm",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "AttentionUninstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 12, 2022 at 4:09 pm",
+    "store_name": "appstoretest5",
+    "store_url": "/772311/stores/23191469",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 12, 2022 at 1:12 am",
+    "store_name": "Tiefes Kunsthandwerk",
+    "store_url": "/772311/stores/30412341347",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 29116727562Open payments"
+  },
+  {
+    "date": "October 12, 2022 at 1:12 am",
+    "store_name": "Tiefes Kunsthandwerk",
+    "store_url": "/772311/stores/30412341347",
+    "event": "AttentionUninstalled",
+    "event_details": "Andere"
+  },
+  {
+    "date": "October 11, 2022 at 1:45 pm",
+    "store_name": "the brave company",
+    "store_url": "/772311/stores/57337872443",
+    "event": "SuccessSubscription charge activated",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 28291170363Open payments"
+  },
+  {
+    "date": "October 11, 2022 at 1:43 pm",
+    "store_name": "the brave company",
+    "store_url": "/772311/stores/57337872443",
+    "event": "SuccessInstalled",
+    "event_details": ""
+  },
+  {
+    "date": "October 10, 2022 at 5:00 pm",
+    "store_name": "SpeechGears India",
+    "store_url": "/772311/stores/57458000047",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25294143663Open payments"
+  },
+  {
+    "date": "October 10, 2022 at 5:00 pm",
+    "store_name": "SpeechGears India",
+    "store_url": "/772311/stores/57458000047",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 25294176431Open payments"
+  },
+  {
+    "date": "October 10, 2022 at 8:40 am",
+    "store_name": "XMARTIAL",
+    "store_url": "/772311/stores/20360199",
+    "event": "Subscription charge canceled",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 26913898660Open payments"
+  },
+  {
+    "date": "October 10, 2022 at 8:40 am",
+    "store_name": "XMARTIAL",
+    "store_url": "/772311/stores/20360199",
+    "event": "AttentionUninstalled",
+    "event_details": "Does not meet my needs"
+  },
+  {
+    "date": "October 9, 2022 at 5:00 pm",
+    "store_name": "The Himalayan Yeti",
+    "store_url": "/772311/stores/55054925872",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23006085168Open payments"
+  },
+  {
+    "date": "October 9, 2022 at 5:00 pm",
+    "store_name": "The Himalayan Yeti",
+    "store_url": "/772311/stores/55054925872",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23006019632Open payments"
+  },
+  {
+    "date": "October 9, 2022 at 5:00 pm",
+    "store_name": "The Himalayan Yeti",
+    "store_url": "/772311/stores/55054925872",
+    "event": "Subscription charge expired",
+    "event_details": "Basic Plan - $1.99 USD. Subscription ID: 23006052400Open payments"
+  }
+]
